@@ -51,13 +51,23 @@ the MCP. Get them from:
 Match each Gusto benefit JE in QBO to its check date's Gusto report total
 before trusting the summary numbers.
 
-## 3. Tie remittances
+## 3. Tie remittances — the sheet workflow (discovered 7/17/26)
 
-Each American Funds ACH should equal a contiguous run of accrued check
-dates (employee + employer, both IRA and ROTH). Known cadence is LUMPY:
-4/23 pull $8,781.78; **no May or June pull**; 7/1 pull $6,724.10 ≈ May
-accruals. Map each pull to the check dates it covers; whatever remains in
-2300.16 must be identifiable as specific recent check dates.
+Remittance is MANUAL: Brett emails an "IRA contribution sheet" (.xls,
+per-employee, American Funds account numbers) to **Katy Murtaugh
+<katym@shondeckfinancial.com>** (Shondeck Financial, Gunnison — also the
+health-insurance broker; Gary Shondeck = plan advisor). Katy keys the
+contributions; the ACH pull hits 0–2 days later for EXACTLY the sheet
+total. Sheets live on Brett's Mac (`~/Desktop`, `~/Downloads`,
+`IRA-contribution-YYYY.MM.DD.xls`; template `2026-IRA-template.xls`) and
+as Gmail attachments to katym@. Proven ties: 3/3 sheet $13,667.90 → 3/4
+ACH; 4/22 → 4/23 $8,781.78; 6/29 → 7/1 $6,724.10.
+
+Each sheet ≈ un-remitted check dates at send time, but NOT exactly —
+sheets have included catch-ups (see Drive "Loki IRA catchup") and have
+MISSED people (Arvin Ramgoolam: withheld since Jan 2026, never on any
+sheet — no American Funds account). Always diff the sheet roster against
+the GL/Gusto roster.
 
 ## 4. Compliance checks (the point of the exercise)
 
