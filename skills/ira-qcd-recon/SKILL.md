@@ -3,9 +3,9 @@ name: ira-qcd-recon
 description: >
   Apply monthly (or on request) to reconcile IRA/QCD charitable distribution
   gifts: match custodian checks to donors, age promised-but-unarrived IRA
-  gifts, and track QCD acknowledgment compliance. Triggers: "ira
-  reconciliation", "QCD", "IRA checks", "who promised an IRA gift",
-  month-start finance routines.
+  gifts, and track QCD acknowledgment compliance. Triggers: "QCD",
+  "donor IRA checks", "who promised an IRA gift", month-start finance
+  routines. (For the EMPLOYEE retirement plan use /simple-ira-recon.)
 ---
 
 # Monthly IRA / QCD Reconciliation (CFTA)
