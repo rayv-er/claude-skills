@@ -60,13 +60,23 @@ prior month's pre-posted catch JE.
 Target: 1610 balance ≈ Stripe pending (~2 days of payouts). Note: only ONE of
 two Stripe accounts is synced — check both if the residual is off.
 
-## 3. Clover — fee accrual
+## 3. Clover — batch tie-out (deposits are GROSS, no fee netting)
 
-Bar JEs (per event, Payment Method lines) debit 1100.14 gross incl. tips;
-Clover deposits credit it net of fees. Month-end: book
-Dr credit-card fees / Cr 1100.14 for the accumulated fee residual so the
-account returns to ≈ settlement-lag only. Verify July-style timing gaps
-(JEs pending vs deposits landed) before calling a residual "fees".
+Bar JEs (per event, Payment Method lines) debit 1100.14 gross incl. card
+tips; Clover "BANKCARD-8600 BTOT DEP" deposits arrive at FULL GROSS 1-3
+days later — fees are NOT netted from deposits (verified June 2026: every
+batch tied to the penny). Fees bill separately: "BANKCARD-8600 MTOT DISC"
+ACH debit on the 1st (prior month's processing fees, e.g. 7/1 $3,626.44
+for June) + mid-month "CLOVER FEES" SaaS debit — both code straight to
+Processing Fees from the feed. So month-end 1100.14 work is a BATCH
+TIE-OUT, not a fee accrual: match each event's card total to its BTOT DEP
+(batches can split across days — a 5/29-30 batch settled 987.85 on 6/1 +
+1,192.85 inside a 6/8 deposit); residual should be settlement-lag only.
+A stubborn residual usually means a miscoded JE line — Cash lines go to
+Bar Banks (acct 73), Debit/Credit Card lines to 1100.14 with entity
+AR - Clover (2917); three June 2026 JEs had them swapped. Optional
+strict-accrual: Dr fees / Cr 2030 at month-end for the coming MTOT DISC,
+reverse on the 1st.
 
 ## 4. FYE (10/31) extras
 
