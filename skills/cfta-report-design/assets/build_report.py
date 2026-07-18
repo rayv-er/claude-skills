@@ -286,11 +286,11 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr><td class="lbl">Nutcracker! [Rated CB]</td><td class="n">Dec 13</td><td class="n">$20,660</td><td class="n">$1,512</td><td class="n">co-pro</td><td class="n">($3,543)</td><td class="n">$18,629*</td></tr>
 <tr><td class="lbl">Alpenphunk — Soulive</td><td class="n">Jan 31</td><td class="n">$15,383</td><td class="n">$2,346</td><td class="n">—*</td><td class="n">($2,107)</td><td class="n">$15,622*</td></tr>
 <tr><td class="lbl">Ski Patrol: Attitude Adjustment Party</td><td class="n">Feb 8</td><td class="n">$12,205</td><td class="n">$9,358</td><td class="n">($12,000)</td><td class="n">($6,894)</td><td class="n">$2,669</td></tr>
-<tr><td class="lbl">Deadhead Ed's End of Season Party</td><td class="n">Apr 3</td><td class="n">$8,867</td><td class="n">—*</td><td class="n">($5,000)</td><td class="n">($9,434)</td><td class="n">($5,567)*</td></tr>
+<tr><td class="lbl">Deadhead Ed's End of Season Party</td><td class="n">Apr 3</td><td class="n">$8,867</td><td class="n">$3,218</td><td class="n">($5,000)</td><td class="n">($9,434)</td><td class="n">($2,349)</td></tr>
 <tr><td class="lbl">Opera Colorado: Pirates of Penzance</td><td class="n">Feb 5</td><td class="n">$6,165</td><td class="n">$648</td><td class="n">($600)</td><td class="n">($753)</td><td class="n">$5,460</td></tr>
 <tr><td class="lbl">Mr. Sun Plays Ellington's Nutcracker</td><td class="n">Dec 20</td><td class="n">$5,376</td><td class="n">$831</td><td class="n">($3,000)</td><td class="n">($1,056)</td><td class="n">$2,151</td></tr>
 <tr><td class="lbl">Community &amp; small-format series — delivered</td><td class="n"></td><td class="n">—</td><td class="n">—</td><td class="n">—</td><td class="n">—</td><td class="n">—</td></tr>
-<tr class="b"><td class="lbl"><b>Subtotal — named lineup</b></td><td class="n"></td><td class="n">$184,770</td><td class="n">$42,347</td><td class="n">($84,169)</td><td class="n">($36,535)</td><td class="n"><b>$106,413</b></td></tr></table></div>
+<tr class="b"><td class="lbl"><b>Subtotal — named lineup</b></td><td class="n"></td><td class="n">$184,770</td><td class="n">$45,565</td><td class="n">($84,169)</td><td class="n">($36,535)</td><td class="n"><b>$109,631</b></td></tr></table></div>
 
 <h3 style="color:#0A3A82">Budgeted "Placeholder" Touring Slots — Filled &amp; Over-Delivered</h3>
 <div class="compact"><table><tr class="hd"><td>Event</td><td class="n">Date</td><td class="n">Tickets</td><td class="n">Bar (net est.)</td><td class="n">Perf. Fee</td><td class="n">Staffing</td><td class="n">Est. Net</td></tr>
@@ -299,7 +299,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr><td class="lbl">The Brothers Comatose</td><td class="n">Feb 26</td><td class="n">$10,102</td><td class="n">$2,393</td><td class="n">($5,403)</td><td class="n">($3,826)</td><td class="n">$3,266</td></tr>
 <tr class="b"><td class="lbl"><b>Subtotal — placeholder slots</b></td><td class="n"></td><td class="n">$175,343</td><td class="n">$21,513</td><td class="n">($153,003)</td><td class="n">($6,481)*</td><td class="n"><b>$37,372*</b></td></tr></table></div>
 <p class="note">Generic touring placeholders backfilled: February holds (Greyboy, Warren Haynes) did not confirm; the ~$10k June slot became String Cheese ($151k).</p>
-<p class="fine">Per-event basis: bar = event-night POS net of estimated alcohol COGS (~13%). Performer fees shown where directly attributable in the ledger; &dagger; = agent-routed (UTA attributed to Azaria; Wasserman to Vandelux); * = not separately identified or data gap (Soulive/JGB fees not individually billed; DHE bar falls in the POS gap; SCI staffing allocates with the June close). Unattributed fees remain in the consolidated totals below. Staffing = per-event journal allocations from timesheet hours.</p>
+<p class="fine">Per-event basis: bar = event-night POS net of estimated alcohol COGS (~13%). Performer fees shown where directly attributable in the ledger; &dagger; = agent-routed (UTA attributed to Azaria; Wasserman to Vandelux); * = not separately identified or data gap (Soulive/JGB fees not individually billed; SCI staffing allocates with the June close). Unattributed fees remain in the consolidated totals below. Staffing = per-event journal allocations from timesheet hours.</p>
 
 <h3 style="color:#A7182F">Budgeted but Did Not Convert</h3>
 <table>
@@ -323,15 +323,15 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 </table></div>
 <p class="note"><b>A $70k year-over-year swing in programming economics:</b> ticket income +$121k and bar +$26k against flat staffing, and <b>alcohol margin improved from 76% to 87%</b> (better buying + the reusable-cup program) — turning last year&rsquo;s ($17k) direct loss into a $53k contribution. Merchandise excluded. FY25 tickets = GL ticket income excluding festivals (W+FF, Mountain Words) and Arts Ball for comparability. Staffing led by Event ($46.7k) and Tech ($46.0k); the July&ndash;Oct festivals still carry the year.</p>
 
-<p class="note">Humanitix net box-office; door/cash excluded; bar = event-night POS (Jan 17 &amp; Apr 3 in coverage gaps). Rentals like KBUT flow through rental revenue. Arts Ball, W+FF, Mountain Words land after 6/30.</p>
+<p class="note">Humanitix net box-office; door/cash excluded; bar = event-night POS (Jan 17 in a coverage gap). Rentals like KBUT flow through rental revenue. Arts Ball, W+FF, Mountain Words land after 6/30.</p>
 
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 4.0</div><div class="tt">Bar &amp; Concessions</div></div><div class="bn">4.</div></div>
 
-<p class="note">Bar revenue is a direct function of concert attendance, so it is tracked here alongside programming. Total self-serve bar revenue year-to-date is <b>$184,259</b> (plus $10k of hosted-bar revenue at rentals), on an estimated <b>~87% gross margin</b> after alcohol cost. Point-of-sale detail (Clover) spans the full season — <b>11,316 bar transactions</b> from November through June.</p>
+<p class="note">Bar revenue is a direct function of concert attendance, so it is tracked here alongside programming. Total self-serve bar revenue year-to-date is <b>$184,259</b> (plus $10k of hosted-bar revenue at rentals), on an estimated <b>~87% gross margin</b> after alcohol cost. Point-of-sale detail (Clover) spans the full season — <b>11,575 bar transactions</b> from November through June.</p>
 <div class="kpis">
 <div class="kpi"><div class="k">Bar Gross Margin</div><div class="val">~87%</div><div class="d">rev vs alcohol COGS</div></div>
-<div class="kpi"><div class="k">Avg Bar Ticket</div><div class="val">$15.78</div><div class="d">per sale, Nov&ndash;Jun</div></div>
+<div class="kpi"><div class="k">Avg Bar Ticket</div><div class="val">$15.73</div><div class="d">per sale, Nov&ndash;Jun</div></div>
 <div class="kpi"><div class="k">Tip Rate</div><div class="val">16.6%</div><div class="d">full-year, of net sales</div></div>
 <div class="kpi"><div class="k">Rev per $1 Bar Labor</div><div class="val">$16.62</div><div class="d">labor efficiency</div></div>
 </div>
@@ -362,7 +362,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 </div>
 </div>
 <p class="note"><b>Genre drives the bar:</b> jam nights ~1.7 drinks/attendee vs ~0.5 transactions/head for theater — book the mix, staff accordingly. Beer + cocktails &asymp;60% of sales.</p>
-<p class="note">Revenue = GL 4110.11; operations = Clover POS (order-level complete Nov&ndash;Jun; item-level from late April). Margin vs alcohol COGS (5020.11); labor vs bar wages (6330.11).</p>
+<p class="note">Revenue = GL 4110.11; operations = Clover POS (order/payment-level complete Nov&ndash;Jun; item-level from late April). Margin vs alcohol COGS (5020.11); labor vs bar wages (6330.11).</p>
 
 <div style="display:flex; gap:20px; margin-top:8px;">
 <div style="flex:1.5">
@@ -374,10 +374,10 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr><td class="lbl">January</td><td class="n">$24,421</td><td class="n">13%</td><td class="n">1,088</td><td class="n">$14.90</td><td class="n">18.8%</td></tr>
 <tr><td class="lbl">February</td><td class="n">$27,378</td><td class="n">15%</td><td class="n">2,125</td><td class="n">$16.92</td><td class="n">16.5%</td></tr>
 <tr><td class="lbl">March</td><td class="n">$29,205</td><td class="n">16%</td><td class="n">1,654</td><td class="n">$17.14</td><td class="n">18.6%</td></tr>
-<tr><td class="lbl">April <span style="font-size:7px;color:#999">(POS partial)</span></td><td class="n">$5,205</td><td class="n">3%</td><td class="n">16</td><td class="n">&mdash;</td><td class="n">&mdash;</td></tr>
+<tr><td class="lbl">April</td><td class="n">$5,205</td><td class="n">3%</td><td class="n">275</td><td class="n">$14.44</td><td class="n">19.5%</td></tr>
 <tr><td class="lbl">May</td><td class="n">$7,040</td><td class="n">4%</td><td class="n">433</td><td class="n">$14.02</td><td class="n">18.2%</td></tr>
 <tr><td class="lbl">June</td><td class="n">$71,491</td><td class="n">39%</td><td class="n">4,759</td><td class="n">$14.77</td><td class="n">16.5%</td></tr>
-<tr class="b"><td class="lbl">Total YTD (Nov&ndash;Jun)</td><td class="n">$184,259</td><td class="n">100%</td><td class="n">11,316</td><td class="n">$15.78</td><td class="n">16.6%</td></tr>
+<tr class="b"><td class="lbl">Total YTD (Nov&ndash;Jun)</td><td class="n">$184,259</td><td class="n">100%</td><td class="n">11,575</td><td class="n">$15.73</td><td class="n">16.6%</td></tr>
 </table>
 <p class="note">Two seasons: the winter run (Dec&ndash;Mar, 52%) and the June launch (39%). Tip rate steady ~17% all year; April&ndash;May is the shoulder.</p>
 </div>
