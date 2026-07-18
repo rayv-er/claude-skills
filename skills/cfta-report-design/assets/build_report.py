@@ -252,8 +252,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <li>Operating cash and equivalents of <b>{m(BS['cash_tot'])}</b> (operating, sweep, and bar), before the summer earning season.</li>
 <li>Operations generated <b>$227,443</b> of cash (+$55,355 YoY) while paying down <b>$100,000</b> of debt.</li>
 <li><b>{m(deferred_future)}</b> already collected and sitting in deferred revenue for future events and rentals — cash in hand, not yet in the P&amp;L.</li>
-<li>Front Row pledges receivable of <b>{m(BS['ar_frontrow'])}</b> remain the largest balance-sheet asset outside the building.</li>
-<li>Long-term debt <b>{m(BS['loans'])}</b>; YTD interest {m(A['interest'])} drives the below-operating-line figure.</li></ul>
+<li>Front Row pledges receivable <b>{m(BS['ar_frontrow'])}</b>; long-term debt <b>{m(BS['loans'])}</b> with YTD interest {m(A['interest'])} driving the below-operating-line figure.</li></ul>
 
 <p class="note"><b>Other updates:</b> June closed &amp; reconciled; Gusto payroll migration complete; Fidelity brokerage opening (the $100k gala pledge collects through it); operating line of credit in discussion with Community Banks / NBH.</p>
 
