@@ -220,14 +220,14 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <div><b>Total revenue of $1.82M is ${rev_vs_bud:,.0f} (+14%) ahead of budget; expenditures of $1.69M are ${exp_vs_bud:,.0f} (+4%) over budget. The revenue outperformance carries operating income to a ${A['netop']/1000:.0f}k surplus against a budgeted (${abs(B['netop'])/1000:.0f}k) seasonal deficit.</b></div>
 
 <div style="border:1px solid #d5e0f0; border-radius:6px; background:#fff; padding:5px 10px; margin:5px 0; font-size:9px;">
-<b style="color:#0A3A82;">Wine + Food Festival 2026 — Projected vs. FY25 (festival mid-July — post-period; not in the June 30 statements)</b>
+<b style="color:#0A3A82;">Wine + Food Festival 2026 — Projected vs. Budget &amp; FY25 (festival mid-July — post-period; not in the June 30 statements)</b>
 <div class="compact"><table style="margin-top:4px;">
-<tr class="hd"><td>W+FF revenue stream</td><td class="n">FY26 Projected</td><td class="n">FY25 Full Festival</td><td class="n">Change</td></tr>
-<tr><td class="lbl">Ticket &amp; pass sales (platform, final — $327,002 sold)</td><td class="n">$327,002</td><td class="n">$360,846</td><td class="n">($33,844)</td></tr>
-<tr><td class="lbl">Sponsorship, vendor fees &amp; in-kind (est. at FY25 levels)</td><td class="n">~$41,040</td><td class="n">$41,040</td><td class="n">—</td></tr>
-<tr class="b"><td class="lbl">Projected full festival</td><td class="n">~$368,042</td><td class="n">$401,886</td><td class="n">($33,844) / −8%</td></tr>
+<tr class="hd"><td>W+FF revenue stream</td><td class="n">FY26 Projected</td><td class="n">FY26 Budget</td><td class="n">FY25 Full Festival</td><td class="n">vs FY25</td></tr>
+<tr><td class="lbl">Ticket &amp; pass sales, all channels (shop $327,002 final + direct/check $39,245)</td><td class="n">$366,247</td><td class="n">$372,500</td><td class="n">$383,471</td><td class="n">($17,224) / −4%</td></tr>
+<tr><td class="lbl">Vendor fees &amp; sponsorship (bill at the festival; est. at FY25 level)</td><td class="n">~$18,600</td><td class="n">$32,000</td><td class="n">$18,644</td><td class="n">—</td></tr>
+<tr class="b"><td class="lbl">Projected full festival</td><td class="n">~$384,850</td><td class="n">$404,500</td><td class="n">$402,115</td><td class="n">($17,268) / −4%</td></tr>
 </table></div>
-<p class="note"><b>Projection — none of these amounts are in the June 30 statements.</b> FY26 W+FF sales were deferred and recognize in the July books ($270,880 recognized so far; the balance, plus sponsorships, vendor fees, and in-kind, posts at the July close). Platform sales are final: 1,222 orders, ~1,550 tickets. Highlights: <b>patron passes $146k</b> (Pearl + Star effectively sold out), Wild Dusk Tour de Fork 142 of 145 seats, Taylor dinner sold out. Actuals land in the August report.</p>
+<p class="note"><b>Projection — none of these amounts are in the June 30 statements.</b> FY26 sales were deferred and recognize in the July books ($270,880 recognized so far; the balance plus vendor fees and sponsorships posts at the July close). Ticket sales finished <b>within 2% of the $372,500 budget</b>; FY25 ($383,471, a record spring patron-pass push) stays the high-water mark. FY25 column is the books-true all-channel total — earlier drafts compared the shop platform only. Platform final: 1,222 orders, ~1,550 tickets; <b>patron passes $146k</b> (Pearl + Star sold out), Tour de Fork 142/145, Taylor dinner sold out. Actuals land in the August report.</p>
 </div>
 <div><b style="color:#0A3A82">Favorable</b><ul>
 <li>Contributed revenue <b>${A['contrib']-B['contrib']:,.0f} (+22%) ahead of budget</b> — grants and major-donor cultivation ahead of plan.</li>
