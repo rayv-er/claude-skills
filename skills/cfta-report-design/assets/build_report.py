@@ -20,8 +20,8 @@ ROOF_URI="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRG
 
 A = {"contrib":898194.63,"earned":773904.74,"frontrow":150000.00,"totrev":1822099.37,
  "proc":20094.25,"prod":63314.82,"cogs":83409.07,"gross":1738690.30,
- "admin":83549.35,"building":216166.89,"marketing":101272.28,"payroll":791251.23,"programming":509752.09,"totexp":1701991.84,
- "netop":36698.46,"othrev":2604.54,"othexp":68890.00,"interest":52003.00,"netrev":-29587.00}
+ "admin":83549.35,"building":216166.89,"marketing":101272.28,"payroll":791251.23,"programming":500752.09,"totexp":1692991.84,
+ "netop":45698.46,"othrev":2604.54,"othexp":68890.00,"interest":52003.00,"netrev":-20587.00}
 B = {"contrib":733856.0,"earned":771010.0,"frontrow":100000.0,"totrev":1604866.0,
  "proc":32000.0,"prod":60170.0,"cogs":92170.0,"gross":1512696.0,
  "admin":89472.0,"building":204688.0,"marketing":89939.0,"payroll":837622.0,"programming":412833.0,"totexp":1634554.0,
@@ -33,8 +33,8 @@ P = {"contrib":503499.59,"earned":564836.87,"frontrow":390000.00,"totrev":145833
 BS = {"op_cash":578258.38,"stripe":-89223.42,"cash_tot":489034.96,
  "ar_frontrow":1407376.05,"ar_operating":122061.97,"ar_other":19248.16,"ar_tot":1548623.18,
  "other_ca":208551.40,"tot_ca":2246209.54,"fixed":16792434.09,"donated_lease":1970921.00,"tot_assets":21009564.63,
- "ap":14327.35,"deferred_ticket":195759.70,"deferred_rental":92659.26,"other_cl":339635.89,"loans":1050000.00,"tot_liab":1403963.24,
- "restricted":2325224.00,"unrestricted":17309964.22,"net_rev":-29587.00,"tot_eq":19605601.39}
+ "ap":5327.35,"deferred_ticket":195759.70,"deferred_rental":92659.26,"other_cl":330635.89,"loans":1050000.00,"tot_liab":1394963.24,
+ "restricted":2325224.00,"unrestricted":17309964.22,"net_rev":-20587.00,"tot_eq":19614601.39}
 BSP = {"tot_assets":21005038.0,"tot_liab":1217935.0,"tot_eq":19787103.0,
  "cash_tot":364428.97,"ar_tot":1672887.31,"ar_frontrow":1541441.59,"ar_oo":131445.72,"other_ca":72300.12,"tot_ca":2109616.40,
  "fixed":17352568.65,"donated_lease":2016491.00,
@@ -201,7 +201,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 </div>
 <!--SPLIT-->
 <div class="sechead"><div><div class="eb">Section 1.0</div><div class="tt">Executive Summary</div></div><div class="bn">1.</div></div>
-<div class="lede">Net revenue of <b>({abs(A['netrev']):,.0f})</b> for the first eight months sits close to break-even and well ahead of the budgeted seasonal deficit. The year&rsquo;s earnings season (Wine + Food, the Arts Ball) is just beginning, and the Center is ahead of the glide path: revenue of <b>$1.82M</b> is running <b>${rev_vs_bud:,.0f} ahead of budget</b> and <b>${rev_vs_py:,.0f} ahead of the restated prior year</b>. Expenditures of <b>$1.70M</b> are <b>${exp_vs_bud:,.0f} over the year-to-date budget</b>, driven by a strong summer programming slate, but the revenue outperformance more than covers it: operating income is positive at <b>${A['netop']/1000:.0f}k</b> against a budgeted seasonal deficit of <b>(${abs(B['netop']):,.0f})</b>.</div>
+<div class="lede">Net revenue of <b>({abs(A['netrev']):,.0f})</b> for the first eight months sits close to break-even and well ahead of the budgeted seasonal deficit. The year&rsquo;s earnings season (Wine + Food, the Arts Ball) is just beginning, and the Center is ahead of the glide path: revenue of <b>$1.82M</b> is running <b>${rev_vs_bud:,.0f} ahead of budget</b> and <b>${rev_vs_py:,.0f} ahead of the restated prior year</b>. Expenditures of <b>$1.69M</b> are <b>${exp_vs_bud:,.0f} over the year-to-date budget</b>, driven by a strong summer programming slate, but the revenue outperformance more than covers it: operating income is positive at <b>${A['netop']/1000:.0f}k</b> against a budgeted seasonal deficit of <b>(${abs(B['netop']):,.0f})</b>.</div>
 
 <div style="border:1px solid #d5e0f0; border-radius:6px; background:#fbfdfc; padding:8px 11px; margin:8px 0; font-size:9.5px;">
 <b style="color:#0A3A82;">Arts Ball 2026 — Full Event Fundraising vs. Budget &amp; FY25 (event held July 9)</b>
@@ -215,7 +215,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <p class="note">The Ball raised <b>$917,192 as booked (+7% vs budget, +13% vs FY25)</b>; ~$931k event-attributed once $13,750 of CFGV-routed gifts recodes. $229k of lead gifts arrived Nov&ndash;Jun; the $100k lead pledge collects via stock; ~$18k of card authorizations capture this week.</p>
 
 <h3>Year to Date — vs. Budget</h3>
-<div><b>Total revenue of $1.82M is ${rev_vs_bud:,.0f} (+14%) ahead of budget; expenditures of $1.70M are ${exp_vs_bud:,.0f} (+4%) over budget. The revenue outperformance carries operating income to a ${A['netop']/1000:.0f}k surplus against a budgeted (${abs(B['netop'])/1000:.0f}k) seasonal deficit.</b></div>
+<div><b>Total revenue of $1.82M is ${rev_vs_bud:,.0f} (+14%) ahead of budget; expenditures of $1.69M are ${exp_vs_bud:,.0f} (+4%) over budget. The revenue outperformance carries operating income to a ${A['netop']/1000:.0f}k surplus against a budgeted (${abs(B['netop'])/1000:.0f}k) seasonal deficit.</b></div>
 <div><b style="color:#0A3A82">Favorable</b><ul>
 <li>Contributed revenue <b>${A['contrib']-B['contrib']:,.0f} (+22%) ahead of budget</b> — grants and major-donor cultivation ahead of plan.</li>
 <li>Front Row <b>${A['frontrow']-B['frontrow']:,.0f} (+50%) ahead of the year-to-date budget</b> — $150k against a $100k phased target; fall renewals ahead.</li>
@@ -255,11 +255,11 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <div class="compact"><table>
 <tr class="hd"><td>Cash Flows (indirect method)</td><td class="n">FY26 YTD</td><td class="n">FY25 YTD</td><td class="n v">Change</td></tr>
 <tr class="hd2"><td colspan="4">Operating Activities</td></tr>
-<tr><td class="lbl">Net revenue / change in net assets</td><td class="n">($29,587)</td><td class="n">$250,661</td><td class="n v">($280,248)</td></tr>
+<tr><td class="lbl">Net revenue / change in net assets</td><td class="n">($20,587)</td><td class="n">$250,661</td><td class="n v">($271,248)</td></tr>
 <tr><td class="lbl">Receivables collected / (extended)</td><td class="n">$65,596</td><td class="n">($112,428)</td><td class="n v">$178,025</td></tr>
 <tr><td class="lbl">Deferred revenue collected for future events</td><td class="n">$249,562</td><td class="n">$11,181</td><td class="n v">$238,381</td></tr>
 <tr><td class="lbl">Inventory build &amp; artist advances</td><td class="n">($64,633)</td><td class="n">$34,403</td><td class="n v">($99,037)</td></tr>
-<tr><td class="lbl">Payables &amp; other working capital</td><td class="n">$6,506</td><td class="n">($11,728)</td><td class="n v">$18,234</td></tr>
+<tr><td class="lbl">Payables &amp; other working capital</td><td class="n">($2,494)</td><td class="n">($11,728)</td><td class="n v">$9,234</td></tr>
 <tr class="b"><td class="lbl">Net cash provided by operating activities</td><td class="n">$227,443</td><td class="n">$172,089</td><td class="n v">$55,355</td></tr>
 <tr class="hd2"><td colspan="4">Investing Activities</td></tr>
 <tr><td class="lbl">Leasehold improvements</td><td class="n">$0</td><td class="n">($26,772)</td><td class="n v">$26,772</td></tr>
@@ -268,7 +268,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr class="b"><td class="lbl">Net change in cash</td><td class="n">$127,443</td><td class="n">$195,317</td><td class="n v">($67,873)</td></tr>
 <tr class="b"><td class="lbl">Cash at end of period</td><td class="n">$582,444</td><td class="n">$375,629</td><td class="n v">$206,815</td></tr>
 </table></div>
-<p class="fine">Net revenue above carries down: ($29,587) + $257,030 of non-cash &amp; working-capital adjustments = $227,443 from operations; less $100,000 debt paydown = $127,443 cash growth, ending at $582,444 (includes undeposited funds $93,409 / $11,200 — the Financial Position below shows bank accounts only).</p>
+<p class="fine">Net revenue above carries down: ($20,587) + $248,030 of non-cash &amp; working-capital adjustments = $227,443 from operations; less $100,000 debt paydown = $127,443 cash growth, ending at $582,444 (includes undeposited funds $93,409 / $11,200 — the Financial Position below shows bank accounts only).</p>
 <div class="stitle">Statement of Financial Position — June 30</div>
 <div class="compact"><table>{sfp}</table></div>
 
@@ -315,13 +315,13 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr><td class="lbl">Net ticket sales — concerts listed above</td><td class="n">$360,113</td></tr>
 <tr><td class="lbl">Bar sales — all programming nights (GL 4110.11)</td><td class="n">$184,259</td></tr>
 <tr class="b"><td class="lbl">Direct revenue</td><td class="n">$544,372</td></tr>
-<tr><td class="lbl">Performer / presenter fees (6420.16)</td><td class="n">($326,476)</td></tr>
+<tr><td class="lbl">Performer / presenter fees (6420.16)</td><td class="n">($317,476)</td></tr>
 <tr><td class="lbl">Variable hourly staffing — event, tech, bar, set-up, OT (6330 family)</td><td class="n">($149,555)</td></tr>
-<tr class="b"><td class="lbl">Direct contribution before product cost</td><td class="n">$68,341</td></tr>
+<tr class="b"><td class="lbl">Direct contribution before product cost</td><td class="n">$77,341</td></tr>
 <tr><td class="lbl">Cost of product sold — alcohol &amp; merchandise (5020)</td><td class="n">($63,315)</td></tr>
-<tr class="b"><td class="lbl">Net direct contribution</td><td class="n">$5,026</td></tr>
+<tr class="b"><td class="lbl">Net direct contribution</td><td class="n">$14,026</td></tr>
 </table>
-<p class="note">Hourly staffing led by Event ($46.7k) and Tech ($46.0k); $22.0k rental staffing recharges via Rentals. Near-break-even direct contribution through June is the planned seasonal shape — the July&ndash;Oct festivals carry the year.</p>
+<p class="note">Hourly staffing led by Event ($46.7k) and Tech ($46.0k); $22.0k rental staffing recharges via Rentals. A modest direct contribution through June is the planned seasonal shape — the July&ndash;Oct festivals carry the year.</p>
 
 <p class="note">Humanitix net box-office; door/cash excluded; bar = event-night POS (Jan 17 &amp; Apr 3 in coverage gaps). Rentals like KBUT flow through rental revenue. Arts Ball, W+FF, Mountain Words land after 6/30.</p>
 
