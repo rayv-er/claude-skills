@@ -309,19 +309,19 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr><td class="lbl">Festival: Survival Fest</td><td class="n">Mar</td><td class="n">Not held</td></tr>
 <tr><td class="lbl">Family Series: PTA Benefit Concert (HOLD)</td><td class="n">Nov</td><td class="n">Not held</td></tr>
 </table>
-<h3>Concert &amp; Series Economics — Consolidated (Nov&ndash;Jun)</h3>
-<table>
-<tr class="hd"><td>Direct programming P&amp;L</td><td class="n">FY26 YTD</td></tr>
-<tr><td class="lbl">Net ticket sales — concerts listed above</td><td class="n">$360,113</td></tr>
-<tr><td class="lbl">Bar sales — all programming nights (GL 4110.11)</td><td class="n">$184,259</td></tr>
-<tr class="b"><td class="lbl">Direct revenue</td><td class="n">$544,372</td></tr>
-<tr><td class="lbl">Performer / presenter fees (6420.16)</td><td class="n">($317,476)</td></tr>
-<tr><td class="lbl">Variable hourly staffing — event, tech, bar, set-up, OT (6330 family)</td><td class="n">($149,555)</td></tr>
-<tr class="b"><td class="lbl">Direct contribution before product cost</td><td class="n">$77,341</td></tr>
-<tr><td class="lbl">Cost of product sold — alcohol &amp; merchandise (5020)</td><td class="n">($63,315)</td></tr>
-<tr class="b"><td class="lbl">Net direct contribution</td><td class="n">$14,026</td></tr>
-</table>
-<p class="note">Hourly staffing led by Event ($46.7k) and Tech ($46.0k); $22.0k rental staffing recharges via Rentals. A modest direct contribution through June is the planned seasonal shape — the July&ndash;Oct festivals carry the year.</p>
+<h3>Concert &amp; Series Economics — Consolidated Year-over-Year (Nov&ndash;Jun)</h3>
+<div class="compact"><table>
+<tr class="hd"><td>Direct programming P&amp;L</td><td class="n">FY26 YTD</td><td class="n">FY25 YTD</td><td class="n">Change</td></tr>
+<tr><td class="lbl">Net ticket sales — concerts &amp; series</td><td class="n">$360,113</td><td class="n">$239,230</td><td class="n">$120,883</td></tr>
+<tr><td class="lbl">Bar sales — all programming nights (GL 4110.11)</td><td class="n">$184,259</td><td class="n">$157,798</td><td class="n">$26,461</td></tr>
+<tr class="b"><td class="lbl">Direct revenue</td><td class="n">$544,372</td><td class="n">$397,028</td><td class="n">$147,344</td></tr>
+<tr><td class="lbl">Performer / presenter fees (6420.16)</td><td class="n">($317,476)</td><td class="n">($222,498)</td><td class="n">($94,978)</td></tr>
+<tr><td class="lbl">Variable hourly staffing (6330 family)</td><td class="n">($149,555)</td><td class="n">($153,651)</td><td class="n">$4,096</td></tr>
+<tr class="b"><td class="lbl">Direct contribution before alcohol cost</td><td class="n">$77,341</td><td class="n">$20,879</td><td class="n">$56,462</td></tr>
+<tr><td class="lbl">Alcohol cost of sales (5020.11)</td><td class="n">($24,410)</td><td class="n">($38,209)</td><td class="n">$13,799</td></tr>
+<tr class="b"><td class="lbl">Net direct contribution</td><td class="n">$52,931</td><td class="n">($17,330)</td><td class="n">$70,261</td></tr>
+</table></div>
+<p class="note"><b>A $70k year-over-year swing in programming economics:</b> ticket income +$121k and bar +$26k against flat staffing, and <b>alcohol margin improved from 76% to 87%</b> (better buying + the reusable-cup program) — turning last year&rsquo;s ($17k) direct loss into a $53k contribution. Merchandise excluded. FY25 tickets = GL ticket income excluding festivals (W+FF, Mountain Words) and Arts Ball for comparability. Staffing led by Event ($46.7k) and Tech ($46.0k); the July&ndash;Oct festivals still carry the year.</p>
 
 <p class="note">Humanitix net box-office; door/cash excluded; bar = event-night POS (Jan 17 &amp; Apr 3 in coverage gaps). Rentals like KBUT flow through rental revenue. Arts Ball, W+FF, Mountain Words land after 6/30.</p>
 
