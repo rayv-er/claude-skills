@@ -405,10 +405,11 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr><td class="lbl">2026 &middot; Mon Jun 22</td><td class="n">$17,367</td></tr>
 <tr><td class="lbl">2026 &middot; Mon Jun 29</td><td class="n">$13,720</td></tr>
 <tr class="b"><td class="lbl">2026 Alpenglow (3 nights)</td><td class="n">$41,073</td></tr>
-<tr><td class="lbl">2025 Alpenglow (thru Jun 30)</td><td class="n">~$34,991</td></tr>
-<tr><td class="lbl">2024 Alpenglow (thru Jun 30 / full season)</td><td class="n">~$3,738 / $19,495</td></tr>
+<tr><td class="lbl">2025 &middot; same three-night window</td><td class="n">$30,121</td></tr>
+<tr><td class="lbl">2025 full season (9 nights)</td><td class="n">$99,383</td></tr>
+<tr><td class="lbl">2024 full season (9 nights)</td><td class="n">$97,658</td></tr>
 </table>
-<p class="note"><b>Alpenglow is free — the bar pays for it.</b> Now weekly: <b>$41,073</b> through June 30 is ~+17% over 2025&rsquo;s comparable and <b>more than double the entire 2024 season</b> ($19,495 across seven Mondays) in just three nights.</p>
+<p class="note"><b>Alpenglow is free — the bar pays for it.</b> 2026&rsquo;s three June nights did <b>$41,073 — +36% over the same window last year</b> ($30,121) — pacing toward a <b>~$120k+ season</b> vs $99k in 2025 and $98k in 2024. Night-of attribution: summer-Monday POS shifted to local time (prior years card-net; 2026 order-net incl. cash).</p>
 </div>
 </div>
 
