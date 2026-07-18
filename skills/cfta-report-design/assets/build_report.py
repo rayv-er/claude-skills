@@ -323,7 +323,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 </table></div>
 <p class="note"><b>A $70k year-over-year swing in programming economics:</b> ticket income +$121k and bar +$26k against flat staffing, and <b>alcohol margin improved from 76% to 87%</b> (better buying + the reusable-cup program) — turning last year&rsquo;s ($17k) direct loss into a $53k contribution. Merchandise excluded. FY25 tickets = GL ticket income excluding festivals (W+FF, Mountain Words) and Arts Ball for comparability. Staffing led by Event ($46.7k) and Tech ($46.0k); the July&ndash;Oct festivals still carry the year.</p>
 
-<p class="note">Humanitix net box-office; door/cash excluded; bar = event-night POS (Jan 17 in a coverage gap). Rentals like KBUT flow through rental revenue. Arts Ball, W+FF, Mountain Words land after 6/30.</p>
+<p class="note">Humanitix net box-office; door/cash excluded; bar = event-night POS (Jan 17 in a coverage gap). Rentals like KBUT flow through rental revenue. Arts Ball and W+FF land after 6/30; Mountain Words (May) is within YTD figures.</p>
 
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 4.0</div><div class="tt">Bar &amp; Concessions</div></div><div class="bn">4.</div></div>
