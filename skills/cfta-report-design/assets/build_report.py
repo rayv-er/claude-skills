@@ -104,15 +104,13 @@ sfp="\n".join([
  '<tr class="sp"><td colspan="5"></td></tr>',
  '<tr class="hd2"><td colspan="5">Liabilities</td></tr>',
  bsrow("Accounts Payable",BS["ap"],BSP["ap"]),
- bsrow("Deferred Revenue — Tickets (collected, future events)",BS["deferred_ticket"],BSP["deferred_ticket"]),
- bsrow("Deferred Revenue — Rental (collected, future)",BS["deferred_rental"],BSP["deferred_rental"]),
+ bsrow("Deferred Revenue (collected — future events &amp; rentals)",BS["deferred_ticket"]+BS["deferred_rental"],BSP["deferred_ticket"]+BSP["deferred_rental"]),
  bsrow("Other Current Liabilities (payroll, deposits, tax)",BS["other_cl"]-BS["deferred_ticket"]-BS["deferred_rental"]-BS["ap"],BSP["other_cl_net"]),
  bsrow("Long-Term Debt (Construction 2025 + EIDL)",BS["loans"],BSP["loans"]),
  bsrow("Total Liabilities",BS["tot_liab"],BSP["tot_liab"],bold=True),
  '<tr class="sp"><td colspan="5"></td></tr>',
  '<tr class="hd2"><td colspan="5">Net Assets</td></tr>',
- bsrow("Permanently Restricted (Building + Front Row)",BS["restricted"],BSP["restricted"]),
- bsrow("Unrestricted Net Assets",BS["unrestricted"],BSP["unrestricted"]),
+ bsrow("Net Assets — Restricted &amp; Unrestricted",BS["restricted"]+BS["unrestricted"],BSP["restricted"]+BSP["unrestricted"]),
  bsrow("Current-Year Net Revenue",BS["net_rev"],BSP["net_rev"]),
  bsrow("Total Net Assets",BS["tot_eq"],BSP["tot_eq"],bold=True),
 ])
@@ -253,13 +251,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <p class="fine">Accrual basis. Prior-year YTD restated: $308,921 of FY25 W+FF ticket revenue (recognized as sold last year, deferred to July this year) is moved out of the Nov&ndash;Jun comparative for consistency — FY25&rsquo;s closed books are unchanged (as booked: $1,767,258 revenue / $250,661 net).</p>
 <div class="stitle">Statement of Activities — Budget vs. Actual &amp; Prior Year</div>
 <div class="compact"><table>{soa}</table></div>
-<div class="half">
-<div>
-<div class="stitle">Financial Position — June 30</div>
-<div class="compact"><table>{sfp}</table></div>
-</div>
-<div>
-<div class="stitle">Cash Flows — YTD vs. Prior Year</div>
+<div class="stitle">Statement of Cash Flows — Reconciling Net Revenue to Cash</div>
 <div class="compact"><table>
 <tr class="hd"><td>Cash Flows (indirect method)</td><td class="n">FY26 YTD</td><td class="n">FY25 YTD</td><td class="n v">Change</td></tr>
 <tr class="hd2"><td colspan="4">Operating Activities</td></tr>
@@ -276,9 +268,10 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr class="b"><td class="lbl">Net change in cash</td><td class="n">$127,443</td><td class="n">$195,317</td><td class="n v">($67,873)</td></tr>
 <tr class="b"><td class="lbl">Cash at end of period</td><td class="n">$582,444</td><td class="n">$375,629</td><td class="n v">$206,815</td></tr>
 </table></div>
-<p class="fine">Operations generated $227,443 (+$55,355 YoY) while paying down $100,000 of construction debt. Cash includes undeposited funds ($93,409 / $11,200); Financial Position shows bank accounts only.</p>
-</div>
-</div>
+<p class="fine">Net revenue above carries down: ($29,587) + $257,030 of non-cash &amp; working-capital adjustments = $227,443 from operations; less $100,000 debt paydown = $127,443 cash growth, ending at $582,444 (includes undeposited funds $93,409 / $11,200 — the Financial Position below shows bank accounts only).</p>
+<div class="stitle">Statement of Financial Position — June 30</div>
+<div class="compact"><table>{sfp}</table></div>
+
 
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 3.0</div><div class="tt">Programming — Planned vs. Actual</div></div><div class="bn">3.</div></div>
