@@ -1,0 +1,39 @@
+{
+ "name": "CFTA Brand",
+ "palette": {
+  "hue": 215,
+  "band": "light",
+  "scheme": "mono",
+  "sat": 0.78,
+  "bg": "#ffffff",
+  "surface": "#f2f6fb",
+  "text": "#1c1c1c",
+  "accent": "#0A3A82",
+  "accent2": "#A7182F"
+ },
+ "fonts": {
+  "heading": {
+   "family": "Flama Condensed",
+   "class": "condensed",
+   "weights": [
+    700,
+    900
+   ]
+  },
+  "body": {
+   "family": "IBM Plex Serif",
+   "class": "serif",
+   "weights": [
+    400,
+    600
+   ]
+  }
+ },
+ "density": 1,
+ "radius": 6,
+ "layoutStyle": "grid",
+ "dividers": "strong",
+ "buttonAlign": "left",
+ "imageTreatment": "none",
+ "photo": "none"
+}

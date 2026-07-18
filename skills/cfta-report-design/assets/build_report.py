@@ -1,3 +1,20 @@
+# ---- CFTA Brand design-system tokens (claude.ai/design project "CFTA Brand") ----
+# The report is generated FROM the brand guidelines: canonical hex values below are
+# placeholders remapped at build time to whatever the design project's theme.json says.
+import json as _json, os as _os
+_here=_os.path.dirname(_os.path.abspath(__file__))
+_theme={}
+for _p in (_os.path.join(_here,"cfta-design","theme.json"), _os.path.join(_here,"theme.json")):
+    if _os.path.exists(_p):
+        _theme=_json.load(open(_p)); break
+_pal=_theme.get("palette",{})
+BRAND_TOKENS={
+ "#0A3A82": _pal.get("accent","#0A3A82"),    # dominant accent (navy)
+ "#A7182F": _pal.get("accent2","#A7182F"),   # unfavorable/negative
+ "#1c1c1c": _pal.get("text","#1c1c1c"),      # body text
+ "#f2f6fb": _pal.get("surface","#f2f6fb"),   # tint ground
+}
+
 A = {"contrib":898194.63,"earned":773904.74,"frontrow":150000.00,"totrev":1822099.37,
  "proc":20094.25,"prod":63314.82,"cogs":83409.07,"gross":1738690.30,
  "admin":83549.35,"building":216166.89,"marketing":101272.28,"payroll":791251.23,"programming":509752.09,"totexp":1701991.84,
@@ -506,5 +523,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <p class="note">Every list runs well above the 25–28% nonprofit benchmark open rate; the donor and festival lists approach 55%. This distribution base is a meaningful asset heading into summer campaign season.</p>
 <div class="foot">Internal management report prepared July 17, 2026 for the CFTA Finance Committee. Financial statements sourced from QuickBooks Online (accrual basis), reflecting the completed and reconciled June close. Budget figures reflect the FY2026 board-approved budget (year-to-date). Prior-year column is FY2025 for the same Nov–Jun period. Front Row and depreciation are recognized at year-end. Balance-sheet items shown net of processor-clearing float (Stripe / Humanitix) related to festival presales. Not audited.</div>
 </body></html>"""
+for _k,_v in BRAND_TOKENS.items():
+    if _v and _v.lower()!=_k.lower(): HTML=HTML.replace(_k,_v)
 open("finance_report_v2.html","w").write(HTML)
 print("wrote", len(HTML))
