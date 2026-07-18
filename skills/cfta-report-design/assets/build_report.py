@@ -228,7 +228,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr><td class="lbl">In-kind wine &amp; trade (7020)</td><td class="n">posts at close</td><td class="n">$24,796</td><td class="n">—</td></tr>
 <tr class="b"><td class="lbl">Total recognized to date</td><td class="n">$270,880</td><td class="n">$401,886</td><td class="n">($131,006)</td></tr>
 </table></div>
-<p class="note">*Recognition is <b>mid-stream, not a shortfall</b>: FY26 platform sales were deferred until the festival (the policy change footnoted in the statements) and the July close brings further Stripe catch-up plus sponsorships, vendor fees, and in-kind. The full festival read lands in the August report.</p>
+<p class="note">*Recognition is <b>mid-stream, not a shortfall</b>: shop platform sales already total <b>$327,002</b> across 1,222 orders (~1,550 tickets, through 7/18) — recognition covers $270,880 so far, with the balance plus sponsorships, vendor fees, and in-kind posting at the July close. Sales highlights: <b>patron passes $146k</b> (Pearl + Star, both effectively sold out), Wild Dusk Tour de Fork 142 of 145 seats ($43k), Grand Tasting 455 + 156 VIP, Annual Dinner on the Taylor sold out. Full festival read in the August report.</p>
 </div>
 <div><b style="color:#0A3A82">Favorable</b><ul>
 <li>Contributed revenue <b>${A['contrib']-B['contrib']:,.0f} (+22%) ahead of budget</b> — grants and major-donor cultivation ahead of plan.</li>
