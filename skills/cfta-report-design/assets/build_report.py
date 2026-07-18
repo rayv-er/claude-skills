@@ -406,6 +406,26 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 </div>
 </div>
 
+<h3>Audience Feedback — NPS (May &amp; June 2026 events)</h3>
+<div class="kpis">
+<div class="kpi"><div class="k">NPS — May/Jun</div><div class="val">+71</div><div class="d">35 responses, incl. SCI run</div></div>
+<div class="kpi"><div class="k">Promoters</div><div class="val">28 of 35</div><div class="d">3 detractors</div></div>
+<div class="kpi"><div class="k">Avg Score</div><div class="val">8.9&ndash;10</div><div class="d">by month</div></div>
+<div class="kpi"><div class="k">All-Time NPS</div><div class="val">+80</div><div class="d">799 responses</div></div>
+</div>
+<div style="display:flex;gap:20px">
+<div style="flex:1">
+<p class="tcap">What guests loved</p>
+<p class="note"><b>Staff, repeatedly</b> — "the funnest, nicest, best people ever," security "polite," the ED greeting guests at the door. Then the venue itself (beautiful, clean, easy parking), the sound, and the added downstairs bar.</p>
+</div>
+<div style="flex:1">
+<p class="tcap">What they&rsquo;d improve</p>
+<p class="note">Real food at big shows ("a hot dog cart doesn&rsquo;t count"); smoke-free enforcement inside; night-one balcony/reserved-seat crowd control; drink pricing and a local discount ask. One 0-score tied to an unexpected charge — worth a service recovery.</p>
+</div>
+</div>
+<p class="fine">Source: post-event survey (surveys.nps_responses), anonymized verbatims; May n=5, June n=30.</p>
+
+
 
 
 <div class="pb"></div>
