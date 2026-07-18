@@ -133,7 +133,7 @@ h1 {{ font-family:'Flama',sans-serif; font-weight:900; font-size:23px; margin:0;
 h2 {{ font-family:'Flama',sans-serif; font-weight:900; font-size:15px; color:#000; margin:20px 0 7px; border-bottom:2px solid #000; padding-bottom:3px; text-transform:uppercase; letter-spacing:.3px; }}
 h3 {{ font-family:'Flama',sans-serif; font-weight:700; font-size:11.5px; color:#0A3A82; margin:12px 0 3px; text-transform:uppercase; letter-spacing:.5px; }}
 .lede {{ font-size:10px; background:#f2f6fb; border-left:4px solid #0A3A82; padding:7px 11px; margin:8px 0; }}
-ul {{ margin:3px 0 8px; padding-left:18px; }} li {{ margin:1.5px 0; }}
+ul {{ margin:2px 0 5px; padding-left:16px; }} li {{ margin:1px 0; }}
 table {{ width:100%; border-collapse:collapse; margin-top:4px; }}
 td {{ padding:1.6px 6px; }} td.lbl {{ text-align:left; }}
 td.n {{ font-family:'PlexSerif',Georgia,serif; text-align:right; font-variant-numeric:tabular-nums; white-space:nowrap; font-size:9px; }}
@@ -203,19 +203,33 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <div class="sechead"><div><div class="eb">Section 1.0</div><div class="tt">Executive Summary</div></div><div class="bn">1.</div></div>
 <div class="lede">Net revenue of <b>({abs(A['netrev']):,.0f})</b> for the first eight months sits close to break-even and well ahead of the budgeted seasonal deficit. The year&rsquo;s earnings season (Wine + Food, the Arts Ball) is just beginning, and the Center is ahead of the glide path: revenue of <b>$1.82M</b> is running <b>${rev_vs_bud:,.0f} ahead of budget</b> and <b>${rev_vs_py:,.0f} ahead of the restated prior year</b>. Expenditures of <b>$1.69M</b> are <b>${exp_vs_bud:,.0f} over the year-to-date budget</b>, driven by a strong summer programming slate, but the revenue outperformance more than covers it: operating income is positive at <b>${A['netop']/1000:.0f}k</b> against a budgeted seasonal deficit of <b>(${abs(B['netop']):,.0f})</b>.</div>
 
-<div style="border:1px solid #d5e0f0; border-radius:6px; background:#fbfdfc; padding:8px 11px; margin:8px 0; font-size:9.5px;">
+<div style="border:1px solid #d5e0f0; border-radius:6px; background:#fbfdfc; padding:5px 10px; margin:5px 0; font-size:9px;">
 <b style="color:#0A3A82;">Arts Ball 2026 — Full Event Fundraising vs. Budget &amp; FY25 (event held July 9)</b>
-<table style="margin-top:4px;">
+<div class="compact"><table style="margin-top:4px;">
 <tr class="hd"><td>Arts Ball — all revenue streams</td><td class="n">FY26 Actual</td><td class="n">Budget</td><td class="n v">vs Budget</td><td class="n">FY25 Actual</td><td class="n v">YoY</td></tr>
 <tr><td class="lbl">Fundraiser income — paddle-raise, auction &amp; gifts</td><td class="n">$777,770</td><td class="n">$762,363</td><td class="n v">$15,407 / +2%</td><td class="n">$729,842</td><td class="n v">$47,928 / +7%</td></tr>
 <tr><td class="lbl">Tables &amp; tickets (ticketing platform, net)</td><td class="n">$139,422</td><td class="n">$85,000</td><td class="n v">$54,422 / +64%</td><td class="n">$76,818</td><td class="n v">$62,604 / +82%</td></tr>
 <tr><td class="lbl">Corporate sponsorship (4030.12)</td><td class="n">$0</td><td class="n">$10,000</td><td class="n v">($10,000)</td><td class="n">$3,000</td><td class="n v">($3,000)</td></tr>
 <tr class="b"><td class="lbl">Total Arts Ball</td><td class="n">$917,192</td><td class="n">$857,363</td><td class="n v">$59,829 / +7%</td><td class="n">$809,660</td><td class="n v">$107,532 / +13%</td></tr>
-</table>
+</table></div>
 <p class="note">The Ball raised <b>$917,192 as booked (+7% vs budget, +13% vs FY25)</b>; ~$931k event-attributed once $13,750 of CFGV-routed gifts recodes. $229k of lead gifts arrived Nov&ndash;Jun; the $100k lead pledge collects via stock; ~$18k of card authorizations capture this week.</p>
 
 <h3>Year to Date — vs. Budget</h3>
 <div><b>Total revenue of $1.82M is ${rev_vs_bud:,.0f} (+14%) ahead of budget; expenditures of $1.69M are ${exp_vs_bud:,.0f} (+4%) over budget. The revenue outperformance carries operating income to a ${A['netop']/1000:.0f}k surplus against a budgeted (${abs(B['netop'])/1000:.0f}k) seasonal deficit.</b></div>
+
+<div style="border:1px solid #d5e0f0; border-radius:6px; background:#fbfdfc; padding:5px 10px; margin:5px 0; font-size:9px;">
+<b style="color:#0A3A82;">Wine + Food Festival 2026 — Recognized to Date vs. FY25 (festival mid-July; July books open)</b>
+<div class="compact"><table style="margin-top:4px;">
+<tr class="hd"><td>W+FF revenue stream</td><td class="n">FY26 to date*</td><td class="n">FY25 full festival</td><td class="n">Change</td></tr>
+<tr><td class="lbl">Tickets &amp; passes — earned (4140.13)</td><td class="n">$152,230</td><td class="n">$200,370</td><td class="n">($48,140)</td></tr>
+<tr><td class="lbl">Above-FMV contributed portion (4010.13)</td><td class="n">$118,650</td><td class="n">$160,476</td><td class="n">($41,826)</td></tr>
+<tr><td class="lbl">Corporate sponsorship (4030.12)</td><td class="n">posts at close</td><td class="n">$6,844</td><td class="n">—</td></tr>
+<tr><td class="lbl">Vendor fees (4140.14)</td><td class="n">posts at close</td><td class="n">$9,400</td><td class="n">—</td></tr>
+<tr><td class="lbl">In-kind wine &amp; trade (7020)</td><td class="n">posts at close</td><td class="n">$24,796</td><td class="n">—</td></tr>
+<tr class="b"><td class="lbl">Total recognized to date</td><td class="n">$270,880</td><td class="n">$401,886</td><td class="n">($131,006)</td></tr>
+</table></div>
+<p class="note">*Recognition is <b>mid-stream, not a shortfall</b>: FY26 platform sales were deferred until the festival (the policy change footnoted in the statements) and the July close brings further Stripe catch-up plus sponsorships, vendor fees, and in-kind. The full festival read lands in the August report.</p>
+</div>
 <div><b style="color:#0A3A82">Favorable</b><ul>
 <li>Contributed revenue <b>${A['contrib']-B['contrib']:,.0f} (+22%) ahead of budget</b> — grants and major-donor cultivation ahead of plan.</li>
 <li>Front Row <b>${A['frontrow']-B['frontrow']:,.0f} (+50%) ahead of the year-to-date budget</b> — $150k against a $100k phased target; fall renewals ahead.</li>
@@ -241,10 +255,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <li>Front Row pledges receivable of <b>{m(BS['ar_frontrow'])}</b> remain the largest balance-sheet asset outside the building.</li>
 <li>Long-term debt <b>{m(BS['loans'])}</b>; YTD interest {m(A['interest'])} drives the below-operating-line figure.</li></ul>
 
-<h3>Other Updates</h3><ul>
-<li>June books are closed and reconciled; the payroll system migration to Gusto is complete.</li>
-<li>Opening a Fidelity brokerage account to reduce donor stock-transfer costs; the $100k lead gala pledge collects through it.</li>
-<li>In discussion with Community Banks / NBH on an operating line of credit ahead of the fall shoulder season.</li></ul>
+<p class="note"><b>Other updates:</b> June closed &amp; reconciled; Gusto payroll migration complete; Fidelity brokerage opening (the $100k gala pledge collects through it); operating line of credit in discussion with Community Banks / NBH.</p>
 
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 2.0</div><div class="tt">Financial Statements</div></div><div class="bn">2.</div></div>
