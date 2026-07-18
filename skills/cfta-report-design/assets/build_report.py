@@ -338,30 +338,37 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 
 <div style="display:flex; gap:20px;">
 <div style="flex:1.1">
-<p class="tcap">Per-attendee metrics (shows with complete POS capture)</p>
-<table>
-<tr class="hd"><td>Event</td><td class="n">Att.</td><td class="n">Drinks</td><td class="n">Bar Rev</td><td class="n">Dr/Tix</td><td class="n">$/Tix</td></tr>
-<tr><td class="lbl">String Cheese — N1</td><td class="n">617</td><td class="n">1,108</td><td class="n">$9,036</td><td class="n">1.80</td><td class="n">$14.65</td></tr>
-<tr><td class="lbl">String Cheese — N2</td><td class="n">628</td><td class="n">1,057</td><td class="n">$8,737</td><td class="n">1.68</td><td class="n">$13.91</td></tr>
-<tr><td class="lbl">Britney's Circus</td><td class="n">309</td><td class="n">474</td><td class="n">$4,569</td><td class="n">1.53</td><td class="n">$14.79</td></tr>
-<tr class="b"><td class="lbl">Blended</td><td class="n">1,554</td><td class="n">2,639</td><td class="n">$22,342</td><td class="n">1.70</td><td class="n">$14.38</td></tr>
-</table>
+<p class="tcap">Per-attendee bar — all major concerts</p>
+<div class="compact"><table>
+<tr class="hd"><td>Event</td><td class="n">Att.</td><td class="n">Bar (POS)</td><td class="n">$ / Att.</td></tr>
+<tr><td class="lbl">Ski Patrol: Attitude Adjustment Party</td><td class="n">566</td><td class="n">$10,756</td><td class="n">$19.00</td></tr>
+<tr><td class="lbl">Alpenphunk — JGB Celebration</td><td class="n">515</td><td class="n">$8,569</td><td class="n">$16.64</td></tr>
+<tr><td class="lbl">Britney's Circus</td><td class="n">309</td><td class="n">$4,569</td><td class="n">$14.79</td></tr>
+<tr><td class="lbl">String Cheese — N1</td><td class="n">617</td><td class="n">$9,036</td><td class="n">$14.65</td></tr>
+<tr><td class="lbl">String Cheese — N2</td><td class="n">628</td><td class="n">$8,737</td><td class="n">$13.91</td></tr>
+<tr><td class="lbl">Vandelux</td><td class="n">702</td><td class="n">$9,711</td><td class="n">$13.83</td></tr>
+<tr><td class="lbl">Beats Antique</td><td class="n">402</td><td class="n">$4,203</td><td class="n">$10.46</td></tr>
+<tr><td class="lbl">Alpenphunk — Soulive</td><td class="n">283</td><td class="n">$2,697</td><td class="n">$9.53</td></tr>
+<tr><td class="lbl">Hank Azaria + EZ Street Band</td><td class="n">570</td><td class="n">$4,952</td><td class="n">$8.69</td></tr>
+<tr><td class="lbl">The Brothers Comatose</td><td class="n">331</td><td class="n">$2,750</td><td class="n">$8.31</td></tr>
+<tr><td class="lbl">Kitchen Dwellers (2 nights)*</td><td class="n">1,045</td><td class="n">$8,552*</td><td class="n">$8.18*</td></tr>
+<tr class="b"><td class="lbl">Blended — 11 shows</td><td class="n">5,968</td><td class="n">$74,532</td><td class="n">$12.49</td></tr>
+</table></div>
 </div>
 <div style="flex:0.9">
 <p class="tcap">Product mix (June, % of bar revenue)</p>
 <table>
 <tr class="hd"><td>Category</td><td class="n">Units</td><td class="n">% Rev</td></tr>
-<tr><td class="lbl">Beer</td><td class="n">2,827</td><td class="n">33.5%</td></tr>
+<tr><td class="lbl">Beer (incl. 488 reusable cups sold)</td><td class="n">3,315</td><td class="n">37.2%</td></tr>
 <tr><td class="lbl">Liquor / Cocktails</td><td class="n">1,402</td><td class="n">26.7%</td></tr>
 <tr><td class="lbl">Wine</td><td class="n">595</td><td class="n">10.7%</td></tr>
 <tr><td class="lbl">Hard Seltzer</td><td class="n">406</td><td class="n">7.2%</td></tr>
 <tr><td class="lbl">Non-Alcoholic</td><td class="n">541</td><td class="n">5.3%</td></tr>
-<tr><td class="lbl">Reusable-Cup Program</td><td class="n">488</td><td class="n">3.7%</td></tr>
 <tr><td class="lbl">Other / Custom</td><td class="n">653</td><td class="n">13.0%</td></tr>
 </table>
 </div>
 </div>
-<p class="note"><b>Genre drives the bar:</b> jam nights ~1.7 drinks/attendee vs ~0.5 transactions/head for theater — book the mix, staff accordingly. Beer + cocktails &asymp;60% of sales.</p>
+<p class="note"><b>Genre drives the bar:</b> party and jam shows run $14&ndash;$19/attendee (SCI nights ~1.7 drinks/head) vs $8&ndash;$10 for seated and family shows — book the mix, staff accordingly. Beer + cocktails &asymp;64% of sales. *Kitchen Dwellers bar captured night 2 only; $/att. understated.</p>
 <p class="note">Revenue = GL 4110.11; operations = Clover POS (order/payment-level complete Nov&ndash;Jun; item-level from late April). Cash-sale tips estimated at 20% of cash sales. Margin vs alcohol COGS (5020.11); labor vs bar wages (6330.11).</p>
 
 <div style="display:flex; gap:20px; margin-top:8px;">
@@ -390,9 +397,9 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr><td class="lbl">2026 &middot; Mon Jun 29</td><td class="n">$13,720</td></tr>
 <tr class="b"><td class="lbl">2026 Alpenglow (3 nights)</td><td class="n">$41,073</td></tr>
 <tr><td class="lbl">2025 Alpenglow (thru Jun 30)</td><td class="n">~$34,991</td></tr>
-<tr><td class="lbl">2024 Alpenglow</td><td class="n">&mdash;</td></tr>
+<tr><td class="lbl">2024 Alpenglow (thru Jun 30 / full season)</td><td class="n">~$3,738 / $19,495</td></tr>
 </table>
-<p class="note"><b>Alpenglow is free — the bar pays for it.</b> Weekly cadence in year two: <b>$41,073</b> through June 30, ~+17% over the prior-year comparable.</p>
+<p class="note"><b>Alpenglow is free — the bar pays for it.</b> Now weekly: <b>$41,073</b> through June 30 is ~+17% over 2025&rsquo;s comparable and <b>more than double the entire 2024 season</b> ($19,495 across seven Mondays) in just three nights.</p>
 </div>
 </div>
 
