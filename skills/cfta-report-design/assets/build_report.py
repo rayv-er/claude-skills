@@ -283,41 +283,26 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 
 
 <div class="pb"></div>
-<div class="sechead"><div><div class="eb">Section 3.0</div><div class="tt">Programming — Planned vs. Actual</div></div><div class="bn">3.</div></div>
-<div class="lede">The self-produced concert lineup largely tracked the budget: the named winter and spring shows were delivered, and the budget's generic <b>touring "placeholder" slots</b> were filled with booked acts. The standout is the <b>String Cheese Incident</b> — the June touring placeholder, budgeted at roughly <b>$10k</b>, was booked as two sold-out SCI nights that delivered <b>$151k</b>. That single slot is the largest favorable programming variance of the year and the main reason earned revenue beat plan.</div>
+<div class="sechead"><div><div class="eb">Section 3.0</div><div class="tt">Programming</div></div><div class="bn">3.</div></div>
+<div class="lede">The concert lineup delivered <b>$360k of ticket revenue</b> across 13 headline shows and an estimated <b>$139k net contribution</b> before overhead. The standout is the <b>String Cheese Incident</b> — a June touring slot budgeted at roughly <b>$10k</b> became two sold-out nights that delivered <b>$151k</b>, the largest favorable programming variance of the year and the main reason earned revenue beat plan.</div>
 
-<h3>Delivered as Budgeted — Named Concert Lineup (per-event P&amp;L)</h3>
+<h3>Per-Event P&amp;L — Concert Lineup (Nov&ndash;Jun)</h3>
 <div class="compact"><table><tr class="hd"><td>Event</td><td class="n">Date</td><td class="n">Tickets</td><td class="n">Bar (net est.)</td><td class="n">Perf. Fee</td><td class="n">Staffing</td><td class="n">Est. Net</td></tr>
+<tr><td class="lbl"><b>The String Cheese Incident (two nights)</b></td><td class="n">Jun 3&ndash;4</td><td class="n">$151,126</td><td class="n">$15,463</td><td class="n">($135,500)</td><td class="n">($8,129)&Dagger;</td><td class="n"><b>$22,960</b></td></tr>
 <tr><td class="lbl">Kitchen Dwellers (two nights)</td><td class="n">Jan 17&ndash;18</td><td class="n">$35,564</td><td class="n">$7,440</td><td class="n">($24,690)</td><td class="n">($4,488)</td><td class="n">$13,826</td></tr>
 <tr><td class="lbl">Alpenphunk — JGB / Grateful Dead Celebration</td><td class="n">Feb 1</td><td class="n">$28,290</td><td class="n">$7,455</td><td class="n">($1,000)*</td><td class="n">($2,289)</td><td class="n">$32,456</td></tr>
 <tr><td class="lbl">Hank Azaria + The EZ Street Band</td><td class="n">Dec 28</td><td class="n">$27,995</td><td class="n">$4,308</td><td class="n">($25,742)&dagger;</td><td class="n">($2,257)</td><td class="n">$4,304</td></tr>
 <tr><td class="lbl">Vandelux (Sleds &amp; Kegs)</td><td class="n">Mar 7</td><td class="n">$24,265</td><td class="n">$8,449</td><td class="n">($12,137)&dagger;</td><td class="n">($3,714)</td><td class="n">$16,863</td></tr>
 <tr><td class="lbl">Nutcracker! [Rated CB]</td><td class="n">Dec 13</td><td class="n">$20,660</td><td class="n">$1,512</td><td class="n">co-pro</td><td class="n">($3,543)</td><td class="n">$18,629*</td></tr>
 <tr><td class="lbl">Alpenphunk — Soulive</td><td class="n">Jan 31</td><td class="n">$15,383</td><td class="n">$2,346</td><td class="n">—*</td><td class="n">($2,107)</td><td class="n">$15,622*</td></tr>
+<tr><td class="lbl">Beats Antique</td><td class="n">Mar 13</td><td class="n">$14,115</td><td class="n">$3,657</td><td class="n">($12,100)</td><td class="n">($2,655)</td><td class="n">$3,017</td></tr>
 <tr><td class="lbl">Ski Patrol: Attitude Adjustment Party</td><td class="n">Feb 8</td><td class="n">$12,205</td><td class="n">$9,358</td><td class="n">($12,000)</td><td class="n">($6,894)</td><td class="n">$2,669</td></tr>
+<tr><td class="lbl">The Brothers Comatose</td><td class="n">Feb 26</td><td class="n">$10,102</td><td class="n">$2,393</td><td class="n">($5,403)</td><td class="n">($3,826)</td><td class="n">$3,266</td></tr>
 <tr><td class="lbl">Deadhead Ed's End of Season Party</td><td class="n">Apr 3</td><td class="n">$8,867</td><td class="n">$3,218</td><td class="n">($5,000)</td><td class="n">($9,434)</td><td class="n">($2,349)</td></tr>
 <tr><td class="lbl">Opera Colorado: Pirates of Penzance</td><td class="n">Feb 5</td><td class="n">$6,165</td><td class="n">$648</td><td class="n">($600)</td><td class="n">($753)</td><td class="n">$5,460</td></tr>
 <tr><td class="lbl">Mr. Sun Plays Ellington's Nutcracker</td><td class="n">Dec 20</td><td class="n">$5,376</td><td class="n">$831</td><td class="n">($3,000)</td><td class="n">($1,056)</td><td class="n">$2,151</td></tr>
-<tr><td class="lbl">Community &amp; small-format series — delivered</td><td class="n"></td><td class="n">—</td><td class="n">—</td><td class="n">—</td><td class="n">—</td><td class="n">—</td></tr>
-<tr class="b"><td class="lbl"><b>Subtotal — named lineup</b></td><td class="n"></td><td class="n">$184,770</td><td class="n">$45,565</td><td class="n">($84,169)</td><td class="n">($36,535)</td><td class="n"><b>$109,631</b></td></tr></table></div>
-
-<h3 style="color:#0A3A82">Budgeted "Placeholder" Touring Slots — Filled &amp; Over-Delivered</h3>
-<div class="compact"><table><tr class="hd"><td>Event</td><td class="n">Date</td><td class="n">Tickets</td><td class="n">Bar (net est.)</td><td class="n">Perf. Fee</td><td class="n">Staffing</td><td class="n">Est. Net</td></tr>
-<tr class="b"><td class="lbl"><b>The String Cheese Incident (two nights, ~$10k budgeted slot)</b></td><td class="n">Jun 3&ndash;4</td><td class="n">$151,126</td><td class="n">$15,463</td><td class="n">($135,500)</td><td class="n">($8,129)&Dagger;</td><td class="n"><b>$22,960</b></td></tr>
-<tr><td class="lbl">Beats Antique</td><td class="n">Mar 13</td><td class="n">$14,115</td><td class="n">$3,657</td><td class="n">($12,100)</td><td class="n">($2,655)</td><td class="n">$3,017</td></tr>
-<tr><td class="lbl">The Brothers Comatose</td><td class="n">Feb 26</td><td class="n">$10,102</td><td class="n">$2,393</td><td class="n">($5,403)</td><td class="n">($3,826)</td><td class="n">$3,266</td></tr>
-<tr class="b"><td class="lbl"><b>Subtotal — placeholder slots</b></td><td class="n"></td><td class="n">$175,343</td><td class="n">$21,513</td><td class="n">($153,003)</td><td class="n">($14,610)&Dagger;</td><td class="n"><b>$29,243</b></td></tr></table></div>
-<p class="note">Generic touring placeholders backfilled: February holds (Greyboy, Warren Haynes) did not confirm; the ~$10k June slot became String Cheese ($151k).</p>
+<tr class="b"><td class="lbl"><b>Total — concert lineup</b></td><td class="n"></td><td class="n">$360,113</td><td class="n">$67,078</td><td class="n">($237,172)</td><td class="n">($51,145)&Dagger;</td><td class="n"><b>$138,874</b></td></tr></table></div>
 <p class="fine">Per-event basis: bar = event-night POS net of estimated alcohol COGS (~13%). Performer fees shown where directly attributable in the ledger; &dagger; = agent-routed (UTA attributed to Azaria; Wasserman to Vandelux); * = not separately identified (Soulive/JGB fees not individually billed); &Dagger; = SCI staffing from Homebase show-day hourly labor ($10,381 across Jun 3&ndash;4, net of the ~$1.1k/day ops baseline) pending the June timesheet allocation. Unattributed fees remain in the consolidated totals below. Staffing = per-event journal allocations from timesheet hours.</p>
-
-<h3 style="color:#A7182F">Budgeted but Did Not Convert</h3>
-<table>
-<tr class="hd"><td>Event</td><td class="n">Budgeted Date</td><td class="n">Status</td></tr>
-<tr><td class="lbl">Touring Music — Greyboy Allstars (HOLD)</td><td class="n">Feb</td><td class="n">Did not confirm</td></tr>
-<tr><td class="lbl">Touring Music — Warren Haynes (HOLD)</td><td class="n">Feb</td><td class="n">Did not confirm</td></tr>
-<tr><td class="lbl">Festival: Survival Fest</td><td class="n">Mar</td><td class="n">Not held</td></tr>
-<tr><td class="lbl">Family Series: PTA Benefit Concert (HOLD)</td><td class="n">Nov</td><td class="n">Not held</td></tr>
-</table>
 <h3>Concert &amp; Series Economics — Consolidated Year-over-Year (Nov&ndash;Jun)</h3>
 <div class="compact"><table>
 <tr class="hd"><td>Direct programming P&amp;L</td><td class="n">FY26 YTD</td><td class="n">FY25 YTD</td><td class="n">Change</td></tr>
@@ -406,10 +391,11 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr><td class="lbl">2026 &middot; Mon Jun 29</td><td class="n">$13,720</td></tr>
 <tr class="b"><td class="lbl">2026 Alpenglow (3 nights)</td><td class="n">$41,073</td></tr>
 <tr><td class="lbl">2025 &middot; same three-night window</td><td class="n">$30,121</td></tr>
+<tr><td class="lbl">2024 &middot; same three-night window</td><td class="n">$32,843</td></tr>
 <tr><td class="lbl">2025 full season (9 nights)</td><td class="n">$99,383</td></tr>
 <tr><td class="lbl">2024 full season (9 nights)</td><td class="n">$97,658</td></tr>
 </table>
-<p class="note"><b>Alpenglow is free — the bar pays for it.</b> 2026&rsquo;s three June nights did <b>$41,073 — +36% over the same window last year</b> ($30,121) — pacing toward a <b>~$120k+ season</b> vs $99k in 2025 and $98k in 2024. Night-of attribution: summer-Monday POS shifted to local time (prior years card-net; 2026 order-net incl. cash).</p>
+<p class="note"><b>Alpenglow is free — the bar pays for it.</b> 2026&rsquo;s three June nights did <b>$41,073 — +36% over the same window in 2025</b> ($30,121) and <b>+25% over 2024</b> ($32,843) — pacing toward a <b>~$120k+ season</b> vs $99k in 2025 and $98k in 2024. Night-of attribution: summer-Monday POS shifted to local time (prior years card-net; 2026 order-net incl. cash).</p>
 </div>
 </div>
 
