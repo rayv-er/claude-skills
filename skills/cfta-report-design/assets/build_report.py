@@ -332,7 +332,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <div class="kpis">
 <div class="kpi"><div class="k">Bar Gross Margin</div><div class="val">~87%</div><div class="d">rev vs alcohol COGS</div></div>
 <div class="kpi"><div class="k">Avg Bar Ticket</div><div class="val">$15.73</div><div class="d">per sale, Nov&ndash;Jun</div></div>
-<div class="kpi"><div class="k">Tip Rate</div><div class="val">16.6%</div><div class="d">full-year, of net sales</div></div>
+<div class="kpi"><div class="k">Est. Tip Rate</div><div class="val">18.0%</div><div class="d">card + 20% est. on cash</div></div>
 <div class="kpi"><div class="k">Rev per $1 Bar Labor</div><div class="val">$16.62</div><div class="d">labor efficiency</div></div>
 </div>
 
@@ -362,24 +362,24 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 </div>
 </div>
 <p class="note"><b>Genre drives the bar:</b> jam nights ~1.7 drinks/attendee vs ~0.5 transactions/head for theater — book the mix, staff accordingly. Beer + cocktails &asymp;60% of sales.</p>
-<p class="note">Revenue = GL 4110.11; operations = Clover POS (order/payment-level complete Nov&ndash;Jun; item-level from late April). Margin vs alcohol COGS (5020.11); labor vs bar wages (6330.11).</p>
+<p class="note">Revenue = GL 4110.11; operations = Clover POS (order/payment-level complete Nov&ndash;Jun; item-level from late April). Cash-sale tips estimated at 20% of cash sales. Margin vs alcohol COGS (5020.11); labor vs bar wages (6330.11).</p>
 
 <div style="display:flex; gap:20px; margin-top:8px;">
 <div style="flex:1.5">
 <p class="tcap">Bar by month — full year (revenue GL 4110.11; operations Clover POS)</p>
 <table>
-<tr class="hd"><td>Month</td><td class="n">Bar Rev</td><td class="n">% YTD</td><td class="n">POS Sales</td><td class="n">Avg Ticket</td><td class="n">Tip %</td></tr>
-<tr><td class="lbl">November</td><td class="n">$5,442</td><td class="n">3%</td><td class="n">353</td><td class="n">$20.43</td><td class="n">11.0%</td></tr>
-<tr><td class="lbl">December</td><td class="n">$14,078</td><td class="n">8%</td><td class="n">888</td><td class="n">$16.04</td><td class="n">17.0%</td></tr>
-<tr><td class="lbl">January</td><td class="n">$24,421</td><td class="n">13%</td><td class="n">1,088</td><td class="n">$14.90</td><td class="n">18.8%</td></tr>
-<tr><td class="lbl">February</td><td class="n">$27,378</td><td class="n">15%</td><td class="n">2,125</td><td class="n">$16.92</td><td class="n">16.5%</td></tr>
-<tr><td class="lbl">March</td><td class="n">$29,205</td><td class="n">16%</td><td class="n">1,654</td><td class="n">$17.14</td><td class="n">18.6%</td></tr>
-<tr><td class="lbl">April</td><td class="n">$5,205</td><td class="n">3%</td><td class="n">275</td><td class="n">$14.44</td><td class="n">19.5%</td></tr>
+<tr class="hd"><td>Month</td><td class="n">Bar Rev</td><td class="n">% YTD</td><td class="n">POS Sales</td><td class="n">Avg Ticket</td><td class="n">Est. Tip %</td></tr>
+<tr><td class="lbl">November</td><td class="n">$5,442</td><td class="n">3%</td><td class="n">353</td><td class="n">$20.43</td><td class="n">12.5%</td></tr>
+<tr><td class="lbl">December</td><td class="n">$14,078</td><td class="n">8%</td><td class="n">888</td><td class="n">$16.04</td><td class="n">18.4%</td></tr>
+<tr><td class="lbl">January</td><td class="n">$24,421</td><td class="n">13%</td><td class="n">1,088</td><td class="n">$14.90</td><td class="n">20.5%</td></tr>
+<tr><td class="lbl">February</td><td class="n">$27,378</td><td class="n">15%</td><td class="n">2,125</td><td class="n">$16.92</td><td class="n">18.5%</td></tr>
+<tr><td class="lbl">March</td><td class="n">$29,205</td><td class="n">16%</td><td class="n">1,654</td><td class="n">$17.14</td><td class="n">20.1%</td></tr>
+<tr><td class="lbl">April</td><td class="n">$5,205</td><td class="n">3%</td><td class="n">275</td><td class="n">$14.44</td><td class="n">19.6%</td></tr>
 <tr><td class="lbl">May</td><td class="n">$7,040</td><td class="n">4%</td><td class="n">433</td><td class="n">$14.02</td><td class="n">18.2%</td></tr>
-<tr><td class="lbl">June</td><td class="n">$71,491</td><td class="n">39%</td><td class="n">4,759</td><td class="n">$14.77</td><td class="n">16.5%</td></tr>
-<tr class="b"><td class="lbl">Total YTD (Nov&ndash;Jun)</td><td class="n">$184,259</td><td class="n">100%</td><td class="n">11,575</td><td class="n">$15.73</td><td class="n">16.6%</td></tr>
+<tr><td class="lbl">June</td><td class="n">$71,491</td><td class="n">39%</td><td class="n">4,759</td><td class="n">$14.77</td><td class="n">16.7%</td></tr>
+<tr class="b"><td class="lbl">Total YTD (Nov&ndash;Jun)</td><td class="n">$184,259</td><td class="n">100%</td><td class="n">11,575</td><td class="n">$15.73</td><td class="n">18.0%</td></tr>
 </table>
-<p class="note">Two seasons: the winter run (Dec&ndash;Mar, 52%) and the June launch (39%). Tip rate steady ~17% all year; April&ndash;May is the shoulder.</p>
+<p class="note">Two seasons: the winter run (Dec&ndash;Mar, 52%) and the June launch (39%). Est. tip rate ~18&ndash;20% all year (card tips + 20% assumed on cash sales); April&ndash;May is the shoulder.</p>
 </div>
 <div style="flex:1">
 <p class="tcap">Alpenglow free concert series &mdash; this year vs. prior (through June 30)</p>
