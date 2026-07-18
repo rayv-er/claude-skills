@@ -201,7 +201,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 </div>
 <!--SPLIT-->
 <div class="sechead"><div><div class="eb">Section 1.0</div><div class="tt">Executive Summary</div></div><div class="bn">1.</div></div>
-<div class="lede">Net revenue of <b>({abs(A['netrev']):,.0f})</b> for the first eight months sits close to break-even and well ahead of the budgeted seasonal deficit. The year&rsquo;s earnings season (Wine + Food, the Arts Ball) is just beginning, and the Center is ahead of the glide path: revenue of <b>$1.82M</b> is running <b>${rev_vs_bud:,.0f} ahead of budget</b> and <b>${rev_vs_py:,.0f} ahead of the restated prior year</b>. Expenditures of <b>$1.69M</b> are <b>${exp_vs_bud:,.0f} over the year-to-date budget</b>, driven by a strong summer programming slate, but the revenue outperformance more than covers it: operating income is positive at <b>${A['netop']/1000:.0f}k</b> against a budgeted seasonal deficit of <b>(${abs(B['netop']):,.0f})</b>.</div>
+<div class="lede">Net revenue of <b>({abs(A['netrev']):,.0f})</b> for the first eight months sits close to break-even and well ahead of the budgeted seasonal deficit. The year&rsquo;s earnings season (Wine + Food, the Arts Ball) is just beginning, and the Center is ahead of the glide path: revenue of <b>$1.82M</b> is running <b>${rev_vs_bud:,.0f} ahead of budget</b> and <b>${rev_vs_py:,.0f} ahead of the restated prior year</b>. Expenditures of <b>$1.69M</b> are <b>${exp_vs_bud:,.0f} over the year-to-date budget</b>, but revenue outperformance more than covers it: operating income is <b>${A['netop']/1000:.0f}k</b> against a budgeted seasonal deficit of <b>(${abs(B['netop']):,.0f})</b>.</div>
 
 <div style="border:1px solid #d5e0f0; border-radius:6px; background:#fbfdfc; padding:5px 10px; margin:5px 0; font-size:9px;">
 <b style="color:#0A3A82;">Arts Ball 2026 — Full Event Fundraising vs. Budget &amp; FY25 (event held July 9)</b>
@@ -212,7 +212,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr><td class="lbl">Corporate sponsorship (4030.12)</td><td class="n">$0</td><td class="n">$10,000</td><td class="n v">($10,000)</td><td class="n">$3,000</td><td class="n v">($3,000)</td></tr>
 <tr class="b"><td class="lbl">Total Arts Ball</td><td class="n">$917,192</td><td class="n">$857,363</td><td class="n v">$59,829 / +7%</td><td class="n">$809,660</td><td class="n v">$107,532 / +13%</td></tr>
 </table></div>
-<p class="note">The Ball raised <b>$917,192 as booked (+7% vs budget, +13% vs FY25)</b>; ~$931k event-attributed once $13,750 of CFGV-routed gifts recodes. $229k of lead gifts arrived Nov&ndash;Jun; the $100k lead pledge collects via stock; ~$18k of card authorizations capture this week.</p>
+<p class="note">The Ball raised <b>$917,192 as booked (+7% vs budget, +13% vs FY25)</b>; ~$931k event-attributed once $13,750 of CFGV-routed gifts recodes. The $100k lead pledge collects via stock; ~$18k of authorizations capture this week.</p>
 
 <h3>Year to Date — vs. Budget</h3>
 <div><b>Total revenue of $1.82M is ${rev_vs_bud:,.0f} (+14%) ahead of budget; expenditures of $1.69M are ${exp_vs_bud:,.0f} (+4%) over budget. The revenue outperformance carries operating income to a ${A['netop']/1000:.0f}k surplus against a budgeted (${abs(B['netop'])/1000:.0f}k) seasonal deficit.</b></div>
@@ -228,7 +228,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr><td class="lbl">In-kind wine &amp; trade (7020)</td><td class="n">posts at close</td><td class="n">$24,796</td><td class="n">—</td></tr>
 <tr class="b"><td class="lbl">Total recognized to date</td><td class="n">$270,880</td><td class="n">$401,886</td><td class="n">($131,006)</td></tr>
 </table></div>
-<p class="note">*Recognition is <b>mid-stream, not a shortfall</b>: shop platform sales already total <b>$327,002</b> across 1,222 orders (~1,550 tickets, through 7/18) — recognition covers $270,880 so far, with the balance plus sponsorships, vendor fees, and in-kind posting at the July close. Sales highlights: <b>patron passes $146k</b> (Pearl + Star, both effectively sold out), Wild Dusk Tour de Fork 142 of 145 seats ($43k), Grand Tasting 455 + 156 VIP, Annual Dinner on the Taylor sold out. Full festival read in the August report.</p>
+<p class="note">*Recognition is <b>mid-stream, not a shortfall</b>: shop platform sales already total <b>$327,002</b> across 1,222 orders (~1,550 tickets, through 7/18) — recognition covers $270,880 so far, with the balance plus sponsorships, vendor fees, and in-kind posting at the July close. Sales highlights: <b>patron passes $146k</b> (Pearl + Star, both effectively sold out), Wild Dusk Tour de Fork 142 of 145 seats ($43k), Taylor dinner sold out. Full festival read in the August report.</p>
 </div>
 <div><b style="color:#0A3A82">Favorable</b><ul>
 <li>Contributed revenue <b>${A['contrib']-B['contrib']:,.0f} (+22%) ahead of budget</b> — grants and major-donor cultivation ahead of plan.</li>
