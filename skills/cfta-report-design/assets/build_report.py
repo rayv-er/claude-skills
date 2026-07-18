@@ -253,7 +253,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <li><b>{m(deferred_future)}</b> already collected and sitting in deferred revenue for future events and rentals — cash in hand, not yet in the P&amp;L.</li>
 <li>Front Row pledges receivable <b>{m(BS['ar_frontrow'])}</b>; long-term debt <b>{m(BS['loans'])}</b> with YTD interest {m(A['interest'])} driving the below-operating-line figure.</li></ul>
 
-<p class="note"><b>Other updates:</b> June closed &amp; reconciled; Gusto payroll migration complete; Fidelity brokerage opening (the $100k gala pledge collects through it); operating line of credit in discussion with Community Banks / NBH.</p>
+<p class="note"><b>Other updates:</b> June closed &amp; reconciled; Gusto payroll migration complete; Fidelity brokerage opening (the $100k gala pledge collects through it); cash sweep renegotiated with Community Banks / NBH to <b>3.25% less 20 bps for FDIC insurance — 3.05% effective, +1.0% vs. the prior rate</b>, worth <b>~$4,500/yr</b> at FY26 average sweep balances (~$447k; more at current summer levels).</p>
 
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 2.0</div><div class="tt">Financial Statements</div></div><div class="bn">2.</div></div>
