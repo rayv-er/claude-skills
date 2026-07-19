@@ -475,14 +475,14 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 </table>
 <p class="note">Line items from the budget&rsquo;s own Rental Schedule tab; outcomes evidenced by staffing timesheets and named ledger entries. <b>Every Hold booking delivered</b>; placeholders largely rescued (McCoy $7.4k).</p>
 
-<h3>Building Utilization — Room Calendars (Nov 1 &ndash; Jun 30)</h3>
+<h3>Building Utilization — All 14 Room Calendars (Nov 1 &ndash; Jun 30)</h3>
 <div class="kpis">
-<div class="kpi"><div class="k">Days in Use</div><div class="val">231 / 242</div><div class="d">95% &mdash; only 11 dark days</div></div>
-<div class="kpi"><div class="k">Dance Sessions</div><div class="val">580</div><div class="d">SOD + Wild Hare &middot; 203 days</div></div>
-<div class="kpi"><div class="k">External Rentals</div><div class="val">74</div><div class="d">33 room &middot; 39 event &middot; 2 wedding</div></div>
-<div class="kpi"><div class="k">Total Room Bookings</div><div class="val">783</div><div class="d">Steddy &middot; Jones &middot; Schaul &middot; King</div></div>
+<div class="kpi"><div class="k">Days in Use</div><div class="val">235 / 242</div><div class="d">97% &mdash; only 7 dark days</div></div>
+<div class="kpi"><div class="k">Dance Sessions</div><div class="val">320</div><div class="d">SOD + Wild Hare studios</div></div>
+<div class="kpi"><div class="k">External Rentals</div><div class="val">96</div><div class="d">48 room &middot; 46 event &middot; 2 wedding</div></div>
+<div class="kpi"><div class="k">Total Room Bookings</div><div class="val">1,316</div><div class="d">14 spaces incl. Atrium &amp; Gallery</div></div>
 </div>
-<p class="note">From the four room resource calendars. The building had scheduled activity on <b>231 of 242 days</b>. Dance studios (School of Dance, Wild Hare) account for 580 sessions across 203 days; the 74 external rentals include nonprofit events (Banff, KBUT, WTF Conference), school programs, and weddings. Balance of bookings are Center programming and operations (changeovers, maintenance, load-ins).</p>
+<p class="note">From all 14 room resource calendars in Google Workspace (theaters, studios, Atrium, Gallery, Courtyard, conference and support spaces). The building had scheduled activity on <b>235 of 242 days</b>. Counts are deduplicated across rooms, so one event booking several spaces counts once: dance studios (School of Dance, Wild Hare) ran 320 class sessions, and the 96 external rentals include nonprofit events (Banff, KBUT, WTF Conference), school programs, and weddings. The balance of bookings is Center programming and operations (changeovers, maintenance, load-ins).</p>
 
 
 
