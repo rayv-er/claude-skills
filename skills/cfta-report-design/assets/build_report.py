@@ -286,6 +286,13 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <div class="sechead"><div><div class="eb">Section 3.0</div><div class="tt">Programming</div></div><div class="bn">3.</div></div>
 <div class="lede">The concert lineup delivered <b>$360k of ticket revenue</b> across 13 headline shows and an estimated <b>$143k net contribution</b> before overhead. The standout is the <b>String Cheese Incident</b> — a June touring slot budgeted at roughly <b>$10k</b> became two sold-out nights that delivered <b>$151k</b>, the largest favorable programming variance of the year and the main reason earned revenue beat plan.</div>
 
+<div class="kpis">
+<div class="kpi"><div class="k">Concert Ticket Revenue</div><div class="val">$360,113</div><div class="d">+51% vs FY25 ($239,230)</div></div>
+<div class="kpi"><div class="k">Headline Attendance</div><div class="val">5,968</div><div class="d">across 11 major shows</div></div>
+<div class="kpi"><div class="k">Est. Net &mdash; 13 Shows</div><div class="val">$143,024</div><div class="d">tickets + bar less fees &amp; staffing</div></div>
+<div class="kpi"><div class="k">Net Direct Contribution</div><div class="val">$52,931</div><div class="d">vs ($17,330) FY25 &mdash; $70k swing</div></div>
+</div>
+
 <h3>Per-Event P&amp;L — Concert Lineup (Nov&ndash;Jun)</h3>
 <div class="compact"><table><tr class="hd"><td>Event</td><td class="n">Date</td><td class="n">Tickets</td><td class="n">Bar (net est.)</td><td class="n">Perf. Fee</td><td class="n">Staffing</td><td class="n">Est. Net</td></tr>
 <tr><td class="lbl"><b>The String Cheese Incident (two nights)</b></td><td class="n">Jun 3&ndash;4</td><td class="n">$151,126</td><td class="n">$15,463</td><td class="n">($135,500)</td><td class="n">($8,129)</td><td class="n"><b>$22,960</b></td></tr>
