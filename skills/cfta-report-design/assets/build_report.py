@@ -284,12 +284,12 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 3.0</div><div class="tt">Programming</div></div><div class="bn">3.</div></div>
-<div class="lede">The concert lineup delivered <b>$360k of ticket revenue</b> across 13 headline shows and an estimated <b>$139k net contribution</b> before overhead. The standout is the <b>String Cheese Incident</b> — a June touring slot budgeted at roughly <b>$10k</b> became two sold-out nights that delivered <b>$151k</b>, the largest favorable programming variance of the year and the main reason earned revenue beat plan.</div>
+<div class="lede">The concert lineup delivered <b>$360k of ticket revenue</b> across 13 headline shows and an estimated <b>$143k net contribution</b> before overhead. The standout is the <b>String Cheese Incident</b> — a June touring slot budgeted at roughly <b>$10k</b> became two sold-out nights that delivered <b>$151k</b>, the largest favorable programming variance of the year and the main reason earned revenue beat plan.</div>
 
 <h3>Per-Event P&amp;L — Concert Lineup (Nov&ndash;Jun)</h3>
 <div class="compact"><table><tr class="hd"><td>Event</td><td class="n">Date</td><td class="n">Tickets</td><td class="n">Bar (net est.)</td><td class="n">Perf. Fee</td><td class="n">Staffing</td><td class="n">Est. Net</td></tr>
 <tr><td class="lbl"><b>The String Cheese Incident (two nights)</b></td><td class="n">Jun 3&ndash;4</td><td class="n">$151,126</td><td class="n">$15,463</td><td class="n">($135,500)</td><td class="n">($8,129)</td><td class="n"><b>$22,960</b></td></tr>
-<tr><td class="lbl">Kitchen Dwellers (two nights)</td><td class="n">Jan 17&ndash;18</td><td class="n">$35,564</td><td class="n">$7,440</td><td class="n">($24,690)</td><td class="n">($4,488)</td><td class="n">$13,826</td></tr>
+<tr><td class="lbl">Kitchen Dwellers (two nights)</td><td class="n">Jan 17&ndash;18</td><td class="n">$35,564</td><td class="n">$11,590</td><td class="n">($24,690)</td><td class="n">($4,488)</td><td class="n">$17,976</td></tr>
 <tr><td class="lbl">Alpenphunk — JGB / Grateful Dead Celebration</td><td class="n">Feb 1</td><td class="n">$28,290</td><td class="n">$7,455</td><td class="n">($1,000)</td><td class="n">($2,289)</td><td class="n">$32,456</td></tr>
 <tr><td class="lbl">Hank Azaria + The EZ Street Band</td><td class="n">Dec 28</td><td class="n">$27,995</td><td class="n">$4,308</td><td class="n">($25,742)</td><td class="n">($2,257)</td><td class="n">$4,304</td></tr>
 <tr><td class="lbl">Vandelux (Sleds &amp; Kegs)</td><td class="n">Mar 7</td><td class="n">$24,265</td><td class="n">$8,449</td><td class="n">($12,137)</td><td class="n">($3,714)</td><td class="n">$16,863</td></tr>
@@ -301,7 +301,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr><td class="lbl">Deadhead Ed's End of Season Party</td><td class="n">Apr 3</td><td class="n">$8,867</td><td class="n">$3,218</td><td class="n">($5,000)</td><td class="n">($9,434)</td><td class="n">($2,349)</td></tr>
 <tr><td class="lbl">Opera Colorado: Pirates of Penzance</td><td class="n">Feb 5</td><td class="n">$6,165</td><td class="n">$648</td><td class="n">($600)</td><td class="n">($753)</td><td class="n">$5,460</td></tr>
 <tr><td class="lbl">Mr. Sun Plays Ellington's Nutcracker</td><td class="n">Dec 20</td><td class="n">$5,376</td><td class="n">$831</td><td class="n">($3,000)</td><td class="n">($1,056)</td><td class="n">$2,151</td></tr>
-<tr class="b"><td class="lbl"><b>Total — concert lineup</b></td><td class="n"></td><td class="n">$360,113</td><td class="n">$67,078</td><td class="n">($237,172)</td><td class="n">($51,145)</td><td class="n"><b>$138,874</b></td></tr></table></div>
+<tr class="b"><td class="lbl"><b>Total — concert lineup</b></td><td class="n"></td><td class="n">$360,113</td><td class="n">$71,228</td><td class="n">($237,172)</td><td class="n">($51,145)</td><td class="n"><b>$143,024</b></td></tr></table></div>
 <p class="fine">Per-event basis: bar = event-night POS net of estimated alcohol COGS (~13%).</p>
 <h3>Concert &amp; Series Economics — Consolidated Year-over-Year (Nov&ndash;Jun)</h3>
 <div class="compact"><table>
@@ -317,7 +317,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 </table></div>
 <p class="note"><b>A $70k year-over-year swing in programming economics:</b> ticket income +$121k and bar +$26k against flat staffing, and <b>alcohol margin improved from 76% to 87%</b> (better buying + the reusable-cup program) — turning last year&rsquo;s ($17k) direct loss into a $53k contribution. Merchandise excluded. FY25 tickets = GL ticket income excluding festivals (W+FF, Mountain Words) and Arts Ball for comparability. Staffing led by Event ($46.7k) and Tech ($46.0k); the July&ndash;Oct festivals still carry the year.</p>
 
-<p class="note">Humanitix net box-office; door/cash excluded; bar = event-night POS (Jan 17 in a coverage gap). Rentals like KBUT flow through rental revenue. Arts Ball and W+FF land after 6/30; Mountain Words (May) is within YTD figures.</p>
+<p class="note">Humanitix net box-office; door/cash excluded; bar = event-night POS. Rentals like KBUT flow through rental revenue. Arts Ball and W+FF land after 6/30; Mountain Words (May) is within YTD figures.</p>
 
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 4.0</div><div class="tt">Bar &amp; Concessions</div></div><div class="bn">4.</div></div>
@@ -341,12 +341,12 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr><td class="lbl">String Cheese — N1</td><td class="n">617</td><td class="n">$9,036</td><td class="n">$14.65</td></tr>
 <tr><td class="lbl">String Cheese — N2</td><td class="n">628</td><td class="n">$8,737</td><td class="n">$13.91</td></tr>
 <tr><td class="lbl">Vandelux</td><td class="n">702</td><td class="n">$9,711</td><td class="n">$13.83</td></tr>
+<tr><td class="lbl">Kitchen Dwellers (2 nights)</td><td class="n">1,045</td><td class="n">$13,322</td><td class="n">$12.75</td></tr>
 <tr><td class="lbl">Beats Antique</td><td class="n">402</td><td class="n">$4,203</td><td class="n">$10.46</td></tr>
 <tr><td class="lbl">Alpenphunk — Soulive</td><td class="n">283</td><td class="n">$2,697</td><td class="n">$9.53</td></tr>
 <tr><td class="lbl">Hank Azaria + EZ Street Band</td><td class="n">570</td><td class="n">$4,952</td><td class="n">$8.69</td></tr>
 <tr><td class="lbl">The Brothers Comatose</td><td class="n">331</td><td class="n">$2,750</td><td class="n">$8.31</td></tr>
-<tr><td class="lbl">Kitchen Dwellers (2 nights)*</td><td class="n">1,045</td><td class="n">$8,552*</td><td class="n">$8.18*</td></tr>
-<tr class="b"><td class="lbl">Blended — 11 shows</td><td class="n">5,968</td><td class="n">$74,532</td><td class="n">$12.49</td></tr>
+<tr class="b"><td class="lbl">Blended — 11 shows</td><td class="n">5,968</td><td class="n">$79,302</td><td class="n">$13.29</td></tr>
 </table></div>
 </div>
 <div style="flex:0.9">
@@ -362,7 +362,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 </table>
 </div>
 </div>
-<p class="note"><b>Genre drives the bar:</b> party and jam shows run $14&ndash;$19/attendee (SCI nights ~1.7 drinks/head) vs $8&ndash;$10 for seated and family shows — book the mix, staff accordingly. Beer + cocktails &asymp;64% of sales. *Kitchen Dwellers bar captured night 2 only; $/att. understated.</p>
+<p class="note"><b>Genre drives the bar:</b> party and jam shows run $14&ndash;$19/attendee (SCI nights ~1.7 drinks/head) vs $8&ndash;$10 for seated and family shows — book the mix, staff accordingly. Beer + cocktails &asymp;64% of sales.</p>
 <p class="note">Revenue = GL 4110.11; operations = Clover POS (order/payment-level complete Nov&ndash;Jun; item-level from late April). Cash-sale tips estimated at 20% of cash sales. Margin vs alcohol COGS (5020.11); labor vs bar wages (6330.11).</p>
 
 <div style="display:flex; gap:20px; margin-top:8px;">
