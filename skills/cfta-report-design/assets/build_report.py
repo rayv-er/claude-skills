@@ -425,6 +425,13 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <div class="sechead"><div><div class="eb">Section 5.0</div><div class="tt">Rentals</div></div><div class="bn">5.</div></div>
 <div class="lede">Rental income of <b>$103,639</b> is running <b>+21% ahead of its phased budget and +11% over last year</b>, and the <b>mix has shifted toward higher-touch, full-service rentals</b>: staffing fees are up <b>+51%</b> and hosted-bar revenue is up <b>+88%</b> year-over-year, even as bare facility fees eased. Full-service events carry staff and bar revenue the Center captures directly — a favorable trade. Hosted bar still lags its ambitious $24.4k phased budget. The forward pipeline is strong heading into summer.</div>
 
+<div class="kpis">
+<div class="kpi"><div class="k">Rental Income YTD</div><div class="val">$103,639</div><div class="d">+21% vs budget &middot; +11% YoY</div></div>
+<div class="kpi"><div class="k">Staffing Fees</div><div class="val">+51%</div><div class="d">YoY — full-service shift</div></div>
+<div class="kpi"><div class="k">Signed Jul&ndash;Oct Book</div><div class="val">$97,322</div><div class="d">$54,725 already collected</div></div>
+<div class="kpi"><div class="k">Contracted into FY27</div><div class="val">$65,155</div><div class="d">weddings book 15 months out</div></div>
+</div>
+
 <h3>Recognized Rental Revenue (QuickBooks)</h3>
 <table>
 <tr class="hd"><td>Line</td><td class="n">FY26 YTD</td><td class="n">Budget YTD</td><td class="n v">Var $</td><td class="n">Prior YTD</td><td class="n v">YoY $</td><td class="n v">YoY %</td></tr>
@@ -439,25 +446,25 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 
 <h3>Budgeted Rental Schedule — Line-Item Outcomes (Nov&ndash;Jun)</h3>
 <table>
-<tr class="hd"><td>Budgeted booking</td><td class="n">Mo.</td><td class="n">Budget status</td><td class="n">Budget</td><td class="n">Outcome</td></tr>
-<tr><td class="lbl">Recurring studio rentals — WHD + SOD (Nov&ndash;Jun)</td><td class="n">all</td><td class="n">Confirmed</td><td class="n">$16,000</td><td class="n">Delivered — ledger shows ~$21k of SOD/WHD fees &amp; staffing</td></tr>
-<tr><td class="lbl">MTB Fall Show</td><td class="n">Nov</td><td class="n">Confirmed</td><td class="n">$3,000</td><td class="n">Delivered — fall dance show 11/7</td></tr>
-<tr><td class="lbl">Dean's List Ski Film</td><td class="n">Nov</td><td class="n">Confirmed</td><td class="n">$2,000</td><td class="n">Delivered 11/9</td></tr>
-<tr><td class="lbl">Makers Market + Figure Drawing</td><td class="n">Nov</td><td class="n">Confirmed</td><td class="n">$600</td><td class="n">Delivered</td></tr>
-<tr><td class="lbl">PTA Event</td><td class="n">Nov</td><td class="n">Hold</td><td class="n">$1,500</td><td class="n">Did not convert</td></tr>
-<tr><td class="lbl">Avalanche Awareness Night</td><td class="n">Dec</td><td class="n">Confirmed</td><td class="n">$2,000</td><td class="n">Delivered 12/6</td></tr>
-<tr><td class="lbl">MTB Spring Show (Move The Butte)</td><td class="n">Feb</td><td class="n">Confirmed</td><td class="n">$3,000</td><td class="n">Delivered — Feb run</td></tr>
-<tr><td class="lbl">Ski Patrol</td><td class="n">Feb</td><td class="n">Proposed</td><td class="n">$3,500</td><td class="n">Converted to co-produced show — revenue in ticket income ($12.2k)</td></tr>
-<tr><td class="lbl">WTF Conference</td><td class="n">Mar</td><td class="n">Hold</td><td class="n">$2,200</td><td class="n">Delivered 3/2</td></tr>
-<tr><td class="lbl">Banff Film Festival</td><td class="n">Mar</td><td class="n">Hold</td><td class="n">$4,000</td><td class="n">Delivered 3/20</td></tr>
-<tr><td class="lbl">KBUT Disco Inferno</td><td class="n">Mar</td><td class="n">Hold</td><td class="n">$6,000</td><td class="n">Delivered 3/27</td></tr>
-<tr><td class="lbl">CB Snowsports Fundraiser</td><td class="n">Apr</td><td class="n">Proposed</td><td class="n">$5,000</td><td class="n">Did not convert</td></tr>
-<tr><td class="lbl">CBCS Prom</td><td class="n">Apr</td><td class="n">Hold</td><td class="n">$1,000</td><td class="n">Delivered 4/25</td></tr>
-<tr><td class="lbl">SOD Spring Show</td><td class="n">May</td><td class="n">Hold</td><td class="n">$3,000</td><td class="n">Delivered 5/8&ndash;9</td></tr>
-<tr><td class="lbl">Wedding: Cornish + June wedding placeholder</td><td class="n">Jun</td><td class="n">Conf./Prop.</td><td class="n">$20,000</td><td class="n">Cornish delivered 6/27 — June facility actual $27.5k vs $22.6k month budget</td></tr>
-<tr><td class="lbl">Public Policy Forum (June session)</td><td class="n">Jun</td><td class="n">Hold</td><td class="n">$600</td><td class="n">Series moved to July</td></tr>
-<tr><td class="lbl">Generic placeholders (Jan $10k community; Feb&ndash;Mar $2k weddings)</td><td class="n">—</td><td class="n">Proposed</td><td class="n">$12,000</td><td class="n">Partially backfilled — McCoy Wedding 3/28 ($7.4k billed)</td></tr>
-<tr class="b"><td class="lbl">Total budgeted rental facility income</td><td class="n"></td><td class="n"></td><td class="n">$85,400</td><td class="n">Actual all-in $103,639 (+21%)</td></tr>
+<tr class="hd"><td>Budgeted booking</td><td class="n">Mo.</td><td class="n" style="padding-left:24px">Budget</td><td class="n" style="padding-left:24px">Outcome</td></tr>
+<tr><td class="lbl">Recurring studio rentals — WHD + SOD (Nov&ndash;Jun)</td><td class="n">all</td><td class="n" style="padding-left:24px">$16,000</td><td class="n" style="padding-left:24px">Delivered — ledger shows ~$21k of SOD/WHD fees &amp; staffing</td></tr>
+<tr><td class="lbl">MTB Fall Show</td><td class="n">Nov</td><td class="n" style="padding-left:24px">$3,000</td><td class="n" style="padding-left:24px">Delivered — fall dance show 11/7</td></tr>
+<tr><td class="lbl">Dean's List Ski Film</td><td class="n">Nov</td><td class="n" style="padding-left:24px">$2,000</td><td class="n" style="padding-left:24px">Delivered 11/9</td></tr>
+<tr><td class="lbl">Makers Market + Figure Drawing</td><td class="n">Nov</td><td class="n" style="padding-left:24px">$600</td><td class="n" style="padding-left:24px">Delivered</td></tr>
+<tr><td class="lbl">PTA Event</td><td class="n">Nov</td><td class="n" style="padding-left:24px">$1,500</td><td class="n" style="padding-left:24px">Did not convert</td></tr>
+<tr><td class="lbl">Avalanche Awareness Night</td><td class="n">Dec</td><td class="n" style="padding-left:24px">$2,000</td><td class="n" style="padding-left:24px">Delivered 12/6</td></tr>
+<tr><td class="lbl">MTB Spring Show (Move The Butte)</td><td class="n">Feb</td><td class="n" style="padding-left:24px">$3,000</td><td class="n" style="padding-left:24px">Delivered — Feb run</td></tr>
+<tr><td class="lbl">Ski Patrol</td><td class="n">Feb</td><td class="n" style="padding-left:24px">$3,500</td><td class="n" style="padding-left:24px">Converted to co-produced show — revenue in ticket income ($12.2k)</td></tr>
+<tr><td class="lbl">WTF Conference</td><td class="n">Mar</td><td class="n" style="padding-left:24px">$2,200</td><td class="n" style="padding-left:24px">Delivered 3/2</td></tr>
+<tr><td class="lbl">Banff Film Festival</td><td class="n">Mar</td><td class="n" style="padding-left:24px">$4,000</td><td class="n" style="padding-left:24px">Delivered 3/20</td></tr>
+<tr><td class="lbl">KBUT Disco Inferno</td><td class="n">Mar</td><td class="n" style="padding-left:24px">$6,000</td><td class="n" style="padding-left:24px">Delivered 3/27</td></tr>
+<tr><td class="lbl">CB Snowsports Fundraiser</td><td class="n">Apr</td><td class="n" style="padding-left:24px">$5,000</td><td class="n" style="padding-left:24px">Did not convert</td></tr>
+<tr><td class="lbl">CBCS Prom</td><td class="n">Apr</td><td class="n" style="padding-left:24px">$1,000</td><td class="n" style="padding-left:24px">Delivered 4/25</td></tr>
+<tr><td class="lbl">SOD Spring Show</td><td class="n">May</td><td class="n" style="padding-left:24px">$3,000</td><td class="n" style="padding-left:24px">Delivered 5/8&ndash;9</td></tr>
+<tr><td class="lbl">Wedding: Cornish + June wedding placeholder</td><td class="n">Jun</td><td class="n" style="padding-left:24px">$20,000</td><td class="n" style="padding-left:24px">Cornish delivered 6/27 — June facility actual $27.5k vs $22.6k month budget</td></tr>
+<tr><td class="lbl">Public Policy Forum (June session)</td><td class="n">Jun</td><td class="n" style="padding-left:24px">$600</td><td class="n" style="padding-left:24px">Series moved to July</td></tr>
+<tr><td class="lbl">Generic placeholders (Jan $10k community; Feb&ndash;Mar $2k weddings)</td><td class="n">—</td><td class="n" style="padding-left:24px">$12,000</td><td class="n" style="padding-left:24px">Partially backfilled — McCoy Wedding 3/28 ($7.4k billed)</td></tr>
+<tr class="b"><td class="lbl">Total budgeted rental facility income</td><td class="n"></td><td class="n" style="padding-left:24px">$85,400</td><td class="n" style="padding-left:24px">Actual all-in $103,639 (+21%)</td></tr>
 </table>
 <p class="note">Line items from the budget&rsquo;s own Rental Schedule tab; outcomes evidenced by staffing timesheets and named ledger entries. <b>Every Hold booking delivered</b>; placeholders largely rescued (McCoy $7.4k).</p>
 
