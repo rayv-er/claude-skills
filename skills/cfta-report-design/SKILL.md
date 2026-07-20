@@ -106,6 +106,12 @@ build time, so restyling build_report.py restyles both reports. Data:
 strategy.v_kpi_scorecard + the plan workbook's mid-year checks; update
 the values in the section strings on refresh.
 
+`assets/build_programming_report.py` — the Programming Report
+(finance x strategic plan blend: per-event P&L, consolidated direct
+contribution, audience/experience KPIs, plan-alignment matrix, forward
+book with presales). Same extraction pattern; adds .aligntbl for
+multi-line prose tables.
+
 ## Refresh cadence
 
 Each month: update the A/B/P dicts from QBO (actuals + budget object +
