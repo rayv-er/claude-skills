@@ -97,6 +97,15 @@ Forward-Looking Outlook.
   "Total Net Revenue" bottom line, accrual basis, Favorable/
   Unfavorable narrative bullets, no dashes in emails.
 
+## Sibling builders
+
+`assets/build_strategy_report.py` — the Strategic Plan KPI Report
+(7-page mid-year edition + single-page scorecard). It extracts the
+style block and STEDDY/SEAT/ROOF/mark assets from build_report.py at
+build time, so restyling build_report.py restyles both reports. Data:
+strategy.v_kpi_scorecard + the plan workbook's mid-year checks; update
+the values in the section strings on refresh.
+
 ## Refresh cadence
 
 Each month: update the A/B/P dicts from QBO (actuals + budget object +
