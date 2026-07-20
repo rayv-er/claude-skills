@@ -112,6 +112,10 @@ contribution, audience/experience KPIs, plan-alignment matrix, forward
 book with presales). Same extraction pattern; adds .aligntbl for
 multi-line prose tables.
 
+`assets/build_operations_report.py` — the Operations Report
+(cost & labor discipline, bar operations, facility & building
+utilization, people & plan alignment). Same extraction pattern.
+
 ## Refresh cadence
 
 Each month: update the A/B/P dicts from QBO (actuals + budget object +
