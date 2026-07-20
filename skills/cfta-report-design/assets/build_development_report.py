@@ -4,8 +4,10 @@
 Blends the Finance Committee report's contributed-revenue results and Donor
 Intelligence section (pyramid, retention pipeline, prospect model) with the
 strategic plan's Development goals, KPIs, and mid-year checks. Same
-design-system extraction pattern as the other sibling builders. Aggregates
-only — no donor names or individual wealth detail in this report.
+design-system extraction pattern as the other sibling builders. Sections
+1-5 are aggregates only; Section 6 (named cultivation targets) renders
+ONLY when development_targets.json is present beside this file — that
+file is gitignored and must be regenerated from the warehouse per build.
 
 Render:
   python3 build_development_report.py
@@ -16,6 +18,7 @@ report (QBO accrual; CRM pyramid Nov-Jun), warehouse KPIs through 07.20
 (strategy.v_kpi_scorecard), plan status from strategy.plan_items.
 """
 
+import json
 import pathlib
 import re
 
@@ -102,7 +105,7 @@ S1 = sechead(1, "Executive Summary") + """
 <li><b>Planned gifts</b>: zero of the &ge;3 major/planned-gift commitments so far; expected in summer per Leadership&rsquo;s check.</li>
 <li><b>Business sponsorship dollars &minus;5%</b> vs +10% target (72% sponsor count retention) &mdash; shared with Marketing.</li>
 </ul></div></div>
-<div class="note">Financial figures from the 07.20.2026 Finance Committee report (QBO accrual; CRM pyramid Nov&ndash;Jun); warehouse KPIs through July 20 (the finance report&rsquo;s 64 new donors + 10 in July = 74 here). Aggregates only; named cultivation lists live in Development&rsquo;s working documents.</div>"""
+<div class="note">Financial figures from the 07.20.2026 Finance Committee report (QBO accrual; CRM pyramid Nov&ndash;Jun); warehouse KPIs through July 20 (the finance report&rsquo;s 64 new donors + 10 in July = 74 here). Sections 1&ndash;5 are aggregates; named cultivation targets appear in the confidential Section 6.</div>"""
 
 # ── 2.0 Giving Performance ────────────────────────────────────────────────────
 S2 = sechead(2, "Giving Performance") + """
@@ -191,9 +194,74 @@ S5 = sechead(5, "Plan Alignment &amp; Systems") + """
 <tr><td class="lbl">Long-term resilience</td><td class="v">Front Row pledges receivable $1.4M; zero planned gifts booked</td><td class="v pad">capital secured; the planned-giving lane (&ge;3 commitments) is summer&rsquo;s open item</td></tr></table>
 <div class="foot">Sources: Finance Committee Report 07.20.2026 (&sect;1 Executive Summary, &sect;6 Donor Intelligence); strategy.plan_items mid-year checks; strategy.v_kpi_scorecard and bloomerang via the data warehouse, 07.20.2026. Donor data presented in aggregate only. Not audited.</div>"""
 
+# ── 6.0 Named cultivation targets (CONFIDENTIAL, from gitignored JSON) ────────
+def _money(v):
+    v = float(v)
+    return f"${v/1_000_000:.1f}M" if v >= 1_000_000 else f"${v:,.0f}"
+
+S6 = ""
+_tj = HERE / "development_targets.json"
+if _tj.exists():
+    D = json.loads(_tj.read_text())
+
+    def lapsed_action(fy25):
+        fy25 = float(fy25)
+        if fy25 >= 10000: return "personal / ED outreach"
+        if fy25 >= 5000: return "personal + event invite"
+        return "targeted appeal / call"
+
+    lrows = ""
+    for name, city, fy25, life, gifts, last, maxg, focus, events, mctier, prop in D["lapsed"]:
+        sig = []
+        if float(prop) > 500000: sig.append("prop " + _money(prop))
+        if int(events): sig.append(f"{events} events")
+        if mctier and mctier not in ("", "Passive"): sig.append(mctier.lower() + " email")
+        lrows += (f"<tr><td class='lbl'><b>{name}</b> &middot; <span style='color:#6D6E71'>{city}</span></td>"
+                  f"<td class='n'>{_money(fy25)}</td><td class='n'>{_money(life)}</td>"
+                  f"<td class='n'>{gifts}</td><td class='n'>{last}</td><td class='n'>{_money(maxg)}</td>"
+                  f"<td class='v pad'>{', '.join(sig) if sig else '&mdash;'}</td>"
+                  f"<td class='v pad'><b style='color:#0A3A82'>{lapsed_action(fy25)}</b></td></tr>")
+
+    prows = ""
+    for name, city, score, tier, prop, pcities, pub, peers, biz, events, spend, mctier in D["prospects"]:
+        sig = []
+        if float(prop) > 0: sig.append("property " + _money(prop) + (f" ({pcities})" if pcities else ""))
+        if float(pub) > 0: sig.append("public giving " + _money(pub))
+        if int(peers): sig.append(f"{peers} peer arts org{'s' if int(peers)>1 else ''}")
+        if biz in (True, "True", "true"): sig.append("business owner")
+        if int(events): sig.append(f"{events} events / {_money(spend)} tickets")
+        if mctier and mctier != "Passive": sig.append(mctier.lower() + " email engagement")
+        prows += (f"<tr><td class='lbl'><b>{name}</b> &middot; <span style='color:#6D6E71'>{city}</span></td>"
+                  f"<td class='n'>{float(score):.0f} &middot; {tier}</td>"
+                  f"<td class='v pad'>{'; '.join(sig) if sig else '&mdash;'}</td></tr>")
+
+    urows = ""
+    for name, city, fy26, life, cap, prop, pub, peers, events in D["upgrades"]:
+        sig = []
+        if float(prop) > 0: sig.append("property " + _money(prop))
+        if float(pub) > 0: sig.append("public giving " + _money(pub))
+        if int(peers): sig.append(f"{peers} peer orgs")
+        if int(events): sig.append(f"{events} events")
+        urows += (f"<tr><td class='lbl'><b>{name}</b> &middot; <span style='color:#6D6E71'>{city}</span></td>"
+                  f"<td class='n'>{_money(fy26)}</td><td class='n'>{_money(life)}</td>"
+                  f"<td class='n'>{float(cap):.0f}</td>"
+                  f"<td class='v pad'>{'; '.join(sig) if sig else '&mdash;'}</td></tr>")
+
+    S6 = sechead(6, "Cultivation Targets &mdash; Named") + """
+<div style="background:#A7182F;color:#fff;font-family:'Flama Book','Flama',sans-serif;font-size:8px;font-weight:700;text-transform:uppercase;letter-spacing:2px;padding:6px 12px;margin-bottom:10px">Confidential &middot; internal cultivation use only &middot; do not distribute beyond the Development team</div>
+<div class="lede">The named lists behind Sections 3 and 4: the top lapsed re-engagement targets by prior-year giving, the highest-scoring never-given prospects, and the strongest upgrade candidates among current donors. Capacity signals are from the cross-system prospect model; suggested actions follow the tier playbook.</div>
+<div class="tcap">Top lapsed &mdash; re-engagement targets (FY25 donors, no FY26 gift)</div>
+<table class="compact aligntbl"><tr class="hd"><td class="lbl">Donor</td><td class="n">FY25 giving</td><td class="n">Lifetime</td><td class="n">Gifts</td><td class="n">Last gift</td><td class="n">Largest</td><td class="lbl pad">Signals</td><td class="lbl pad">Suggested action</td></tr>""" + lrows + """</table>
+<div class="tcap">Top never-given prospects (cross-system model)</div>
+<table class="compact aligntbl"><tr class="hd"><td class="lbl" style="width:200px">Prospect</td><td class="n" style="width:80px">Score &middot; tier</td><td class="lbl pad">Capacity &amp; affinity signals</td></tr>""" + prows + """</table>
+<div class="tcap">Upgrade candidates &mdash; current donors, top capacity</div>
+<table class="compact aligntbl"><tr class="hd"><td class="lbl" style="width:200px">Donor</td><td class="n">FY26 given</td><td class="n">Lifetime</td><td class="n">Capacity</td><td class="lbl pad">Signals</td></tr>""" + urows + """</table>
+<div class="fine">Source: prospects.prospect_scores (cross-system model: Bloomerang giving, Humanitix attendance, Mailchimp engagement, Gunnison County property records, state/federal public-giving data) and bloomerang transactions, extracted 07.20.2026. Data file is excluded from version control; regenerate with the named-targets extraction before each rebuild. Property figures are assessor market values, not appraisals.</div>"""
+
 HTML = ("<!doctype html><html><head><meta charset='utf-8'><style>" + STYLE +
         "</style></head><body>" + COVER +
         page(S1, first=True) + page(S2) + page(S3) + page(S4) + page(S5) +
+        (page(S6) if S6 else "") +
         "</body></html>")
 (HERE / "development_report.html").write_text(HTML)
 print(f"development_report.html written ({len(HTML)//1024}KB)")
