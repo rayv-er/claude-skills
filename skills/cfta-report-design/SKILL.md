@@ -116,6 +116,11 @@ multi-line prose tables.
 (cost & labor discipline, bar operations, facility & building
 utilization, people & plan alignment). Same extraction pattern.
 
+`assets/build_development_report.py` — the Development Report
+(giving performance with the three-lens reconciliation, donor
+pipeline & festival-effect seasonality, prospect intelligence,
+plan alignment & systems). Aggregates only — no donor names.
+
 ## Refresh cadence
 
 Each month: update the A/B/P dicts from QBO (actuals + budget object +
