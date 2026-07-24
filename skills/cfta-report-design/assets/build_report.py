@@ -323,24 +323,17 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 4.0</div><div class="tt">Programming</div></div><div class="bn">4.</div></div>
-<div class="lede">The concert lineup delivered <b>$360k of ticket revenue</b> across 13 headline shows and an estimated <b>$143k net contribution</b> before overhead. The standout is the <b>String Cheese Incident</b> — a June touring slot budgeted at roughly <b>$10k</b> became two sold-out nights that delivered <b>$151k</b>, the largest favorable programming variance of the year and the main reason earned revenue beat plan.</div>
-
-<div class="kpis">
-<div class="kpi"><div class="k">Concert Ticket Revenue</div><div class="val">$360,113</div><div class="d">+51% vs FY25 ($239,230)</div></div>
-<div class="kpi"><div class="k">Headline Attendance</div><div class="val">5,968</div><div class="d">across 11 major shows</div></div>
-<div class="kpi"><div class="k">Est. Net &mdash; 13 Shows</div><div class="val">$143,024</div><div class="d">tickets + bar less fees &amp; staffing</div></div>
-<div class="kpi"><div class="k">Net Direct Contribution</div><div class="val">$52,931</div><div class="d">vs ($17,330) FY25 &mdash; $70k swing</div></div>
-</div>
+<div class="lede">The concert lineup delivered <b>$360k of ticket revenue</b> (+51% vs FY25) across 13 headline shows and <b>5,968 attendees</b>, for an estimated <b>$143k net contribution</b> before overhead and a <b>$27k net direct contribution</b> after co-production splits, show labor, hospitality and alcohol — the <b>first positive year of the last three</b>. The standout is the <b>String Cheese Incident</b> — a June touring slot budgeted at roughly <b>$10k</b> became two sold-out nights that delivered <b>$151k</b>, the largest favorable programming variance of the year and the main reason earned revenue beat plan.</div>
 
 <h3>Per-Event P&amp;L — Concert Lineup (Nov&ndash;Jun)</h3>
 <div class="compact"><table><tr class="hd"><td>Event</td><td class="n">Date</td><td class="n">Tickets</td><td class="n">Bar (net est.)</td><td class="n">Perf. Fee</td><td class="n">Staffing</td><td class="n">Est. Net</td></tr>
 <tr><td class="lbl"><b>The String Cheese Incident (two nights)</b></td><td class="n">Jun 3&ndash;4</td><td class="n">$151,126</td><td class="n">$15,463</td><td class="n">($135,500)</td><td class="n">($8,129)</td><td class="n"><b>$22,960</b></td></tr>
 <tr><td class="lbl">Kitchen Dwellers (two nights)</td><td class="n">Jan 17&ndash;18</td><td class="n">$35,564</td><td class="n">$11,590</td><td class="n">($24,690)</td><td class="n">($4,488)</td><td class="n">$17,976</td></tr>
-<tr><td class="lbl">Alpenphunk — JGB / Grateful Dead Celebration</td><td class="n">Feb 1</td><td class="n">$28,290</td><td class="n">$7,455</td><td class="n">($1,000)</td><td class="n">($2,289)</td><td class="n">$32,456</td></tr>
+<tr><td class="lbl">Alpenphunk Incident (2 nights, co-pro)</td><td class="n">Jan 31&ndash;Feb 1</td><td class="n">$43,673</td><td class="n">$9,801</td><td class="n">($15,000)</td><td class="n">($4,396)</td><td class="n">$34,078</td></tr>
 <tr><td class="lbl">Hank Azaria + The EZ Street Band</td><td class="n">Dec 28</td><td class="n">$27,995</td><td class="n">$4,308</td><td class="n">($25,742)</td><td class="n">($2,257)</td><td class="n">$4,304</td></tr>
 <tr><td class="lbl">Vandelux (Sleds &amp; Kegs)</td><td class="n">Mar 7</td><td class="n">$24,265</td><td class="n">$8,449</td><td class="n">($12,137)</td><td class="n">($3,714)</td><td class="n">$16,863</td></tr>
 <tr><td class="lbl">Nutcracker! [Rated CB]</td><td class="n">Dec 13</td><td class="n">$20,660</td><td class="n">$1,512</td><td class="n">co-pro</td><td class="n">($3,543)</td><td class="n">&plusmn;$2,800</td></tr>
-<tr><td class="lbl">Alpenphunk — Soulive</td><td class="n">Jan 31</td><td class="n">$15,383</td><td class="n">$2,346</td><td class="n">—</td><td class="n">($2,107)</td><td class="n">$15,622</td></tr>
+
 <tr><td class="lbl">Beats Antique</td><td class="n">Mar 13</td><td class="n">$14,115</td><td class="n">$3,657</td><td class="n">($12,100)</td><td class="n">($2,655)</td><td class="n">$3,017</td></tr>
 <tr><td class="lbl">Ski Patrol <span style="color:#0A3A82;">(community benefit)</span></td><td class="n">Feb 8</td><td class="n">$12,205</td><td class="n">$9,358</td><td class="n">($4,000)</td><td class="n">($6,894)</td><td class="n">&plusmn;$900</td></tr>
 <tr><td class="lbl">The Brothers Comatose</td><td class="n">Feb 26</td><td class="n">$10,102</td><td class="n">$2,393</td><td class="n">($5,403)</td><td class="n">($3,826)</td><td class="n">$3,266</td></tr>
@@ -349,22 +342,33 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr><td class="lbl">Mr. Sun Plays Ellington's Nutcracker</td><td class="n">Dec 20</td><td class="n">$5,376</td><td class="n">$831</td><td class="n">($3,000)</td><td class="n">($1,056)</td><td class="n">$2,151</td></tr>
 <tr class="b"><td class="lbl"><b>Total — concert lineup</b></td><td class="n"></td><td class="n">$360,113</td><td class="n">$71,228</td><td class="n">($237,172)</td><td class="n">($51,145)</td><td class="n"><b>$143,024</b></td></tr></table></div>
 <p class="fine">Per-event basis: bar = event-night POS net of estimated alcohol COGS (~13%).</p>
-<h3>Concert &amp; Series Economics — Consolidated Year-over-Year (Nov&ndash;Jun)</h3>
+<h3>Programming Economics — FY24 to FY26 (Nov&ndash;Jun)</h3>
 <div class="compact"><table>
-<tr class="hd"><td>Direct programming P&amp;L</td><td class="n">FY26 YTD</td><td class="n">FY25 YTD</td><td class="n">Change</td></tr>
-<tr><td class="lbl">Net ticket sales — concerts &amp; series</td><td class="n">$360,113</td><td class="n">$239,230</td><td class="n">$120,883</td></tr>
-<tr><td class="lbl">Bar sales — all programming nights</td><td class="n">$184,259</td><td class="n">$157,798</td><td class="n">$26,461</td></tr>
-<tr class="b"><td class="lbl">Direct revenue</td><td class="n">$544,372</td><td class="n">$397,028</td><td class="n">$147,344</td></tr>
-<tr><td class="lbl">Performer / presenter fees</td><td class="n">($317,476)</td><td class="n">($222,498)</td><td class="n">($94,978)</td></tr>
-<tr><td class="lbl">Variable hourly staffing</td><td class="n">($149,555)</td><td class="n">($153,651)</td><td class="n">$4,096</td></tr>
-<tr class="b"><td class="lbl">Direct contribution before alcohol cost</td><td class="n">$77,341</td><td class="n">$20,879</td><td class="n">$56,462</td></tr>
-<tr><td class="lbl">Alcohol cost of sales</td><td class="n">($24,410)</td><td class="n">($38,209)</td><td class="n">$13,799</td></tr>
-<tr class="b"><td class="lbl">Net direct contribution</td><td class="n">$52,931</td><td class="n">($17,330)</td><td class="n">$70,261</td></tr>
+<tr class="hd"><td>Concert &amp; series direct P&amp;L</td><td class="n">FY24</td><td class="n">FY25</td><td class="n">FY26</td></tr>
+<tr><td class="lbl">Gross ticket sales — concerts &amp; series</td><td class="n">$256,888</td><td class="n">$239,230</td><td class="n">$360,113</td></tr>
+<tr><td class="lbl">Less: co-production partner splits</td><td class="n">($30,286)</td><td class="n">($33,346)</td><td class="n">($31,446)</td></tr>
+<tr><td class="lbl">Net ticket sales</td><td class="n">$226,601</td><td class="n">$205,884</td><td class="n">$328,667</td></tr>
+<tr><td class="lbl">Bar sales — programming nights</td><td class="n">$141,584</td><td class="n">$157,798</td><td class="n">$184,259</td></tr>
+<tr><td class="lbl">Gallery sales</td><td class="n">$2,390</td><td class="n">$2,059</td><td class="n">$2,598</td></tr>
+<tr class="b"><td class="lbl">Direct revenue</td><td class="n">$370,575</td><td class="n">$365,741</td><td class="n">$515,524</td></tr>
+<tr><td class="lbl">Performer / presenter fees</td><td class="n">($215,507)</td><td class="n">($222,498)</td><td class="n">($317,476)</td></tr>
+<tr><td class="lbl">Show labor — event, tech, bar, set-up, gallery</td><td class="n">($109,980)</td><td class="n">($86,941)</td><td class="n">($118,245)</td></tr>
+<tr><td class="lbl">Hospitality — lodging, travel, food</td><td class="n">($30,674)</td><td class="n">($37,032)</td><td class="n">($28,741)</td></tr>
+<tr><td class="lbl">Alcohol cost of sales</td><td class="n">($27,098)</td><td class="n">($38,209)</td><td class="n">($24,410)</td></tr>
+<tr class="b"><td class="lbl">Total direct cost</td><td class="n">($383,259)</td><td class="n">($384,680)</td><td class="n">($488,872)</td></tr>
+<tr class="b"><td class="lbl">Net direct contribution</td><td class="n">($12,684)</td><td class="n">($18,939)</td><td class="n">$26,652</td></tr>
+<tr><td class="lbl"><b>Margin on direct revenue</b></td><td class="n">(3.4%)</td><td class="n">(5.2%)</td><td class="n"><b>5.2%</b></td></tr>
+<tr><td class="lbl">Artist share of direct cost</td><td class="n">56%</td><td class="n">58%</td><td class="n"><b>65%</b></td></tr>
+<tr><td class="lbl">Largest single artist commitment</td><td class="n">$27,425</td><td class="n">&mdash;</td><td class="n">$75,500</td></tr>
+<tr><td class="lbl">Beckwith donated lodging (in-kind, no cash)</td><td class="n">&mdash;</td><td class="n">$30,000</td><td class="n">$15,000</td></tr>
 </table></div>
-<p class="note"><b>A $70k year-over-year swing in programming economics:</b> ticket income +$121k and bar +$26k against flat staffing, and <b>alcohol margin improved from 76% to 87%</b> (better buying + the reusable-cup program) — turning last year&rsquo;s ($17k) direct loss into a $53k contribution. Merchandise excluded. FY25 tickets = GL ticket income excluding festivals (W+FF, Mountain Words) and Arts Ball for comparability. Staffing led by Event ($46.7k) and Tech ($46.0k); the July&ndash;Oct festivals still carry the year.</p>
+<p class="note"><b>The zen garden approach took three years to pay.</b> The FY24 commitment to fewer, higher-quality, more harmonious programming took shape in FY25 and turned positive in FY26 — <b>the first positive direct contribution of the three years</b>. FY24 and FY25 both ran small deficits on a similar cost base (±$383k and ±$385k); FY26 lifted direct revenue <b>41% to $516k</b> by concentrating on anchor acts. Artist investment rose <b>47% to $317k</b> and the artist share of direct cost climbed <b>56% &rarr; 58% &rarr; 65%</b>, while the largest single commitment went from <b>$27k to $75.5k</b> — the String Cheese booking alone returned $151k in tickets. The gallery tells the story in miniature: FY24 staffed it at <b>$17,327 against $2,390 of sales</b>; FY26 runs it unstaffed on higher sales.</p>
+<p class="note"><b>Basis.</b> Concert and series only, excluding festivals and Arts Ball, on identical footing all three years. <b>FY24 ticket revenue is rebuilt from the monthly Humanitix earnings reports filed as support to the revenue journal entries</b> (27 events, deduped, each taken at its final snapshot) because the ledger&rsquo;s &ldquo;Funds Held by Humanitix&rdquo; captions cover all channels and cannot separate concert from festival income. Those reports reconcile to the entries they support — the 31 Jan and 30 Apr files tie exactly to $71,338 and $30,638. <b>Co-production splits are identified by event, not ledger label</b>, and deducted in every year; FY25&rsquo;s Nutcracker split posts as &ldquo;2024.12.13 - Nutcracker&rdquo; with no co-pro wording. Bar is account 4110.11, programming nights only. <b>Show labor is event, tech, bar, set-up, overtime, tipped and gallery wages</b>; facilities, consulting/coordination and rental staffing are excluded from all three years because FY24 carried roles in programming payroll that FY26 does not. FY24 alcohol includes $16,262 of distributor invoices miscoded to Catering. FY26 hospitality excludes $5,961 of winter lodging pending confirmation.</p>
 
-<p class="note"><b>Co-productions:</b> the Center pays the partner a share of ticket sales, netted into Est. Net (not a separate column). FY26 payouts: <b>School of Dance / Nutcracker $15,859 (75%)</b>, <b>Ski Patrol $9,764 (80%, a community-benefit event)</b>, Rocky Horror $1,974. Ski Patrol Motet fee corrected to $4,000 (the $12k figure included the Motet&rsquo;s separate June Alpenglow show). Deadhead Ed&rsquo;s staffing is shown at <b>actual wages ($2,661)</b>, not the April pooled allocation ($9,434), which over-charged the event &plusmn;$6,773 (the month&rsquo;s event-payroll pool was 3.5&times; actual event wages). Humanitix net box-office; door/cash excluded; bar = event-night POS. Rentals like KBUT flow through rental revenue. Arts Ball and W+FF land after 6/30; Mountain Words (May) is within YTD figures.</p>
+<p class="note"><b>Co-productions and adjustments:</b> the Center pays the partner a share of ticket sales, netted into Est. Net. FY26 payouts: <b>School of Dance / Nutcracker $15,859 (75%)</b>, <b>Ski Patrol $9,764 (80%, community benefit)</b>, Rocky Horror $1,974; Alpenphunk carries an estimated <b>$15,000</b> (two nights). Ski Patrol Motet fee corrected to $4,000; Deadhead Ed&rsquo;s staffing shown at <b>actual wages ($2,661)</b>, not the April pooled allocation ($9,434). Humanitix net box-office; bar = event-night POS. Arts Ball and W+FF land after 6/30; Mountain Words (May) is within YTD.</p>
 
+
+<p class="note"><b>Grants:</b> institutional grant income totals <b>$58,050 YTD</b> against $15,500 in the same FY25 period — <b>up 274%</b> and already 2.3&times; all of FY25 ($24,918), nearly all restricted to programs. Sources: <b>MetRec $40,460</b> (new), Creative District $7,500 (flat), Town of Crested Butte $7,350 (new, Fall + Spring), other $2,740. A defined foundation and government pipeline is the clearest opportunity to grow contributed revenue in FY27.</p>
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 5.0</div><div class="tt">Bar &amp; Concessions</div></div><div class="bn">5.</div></div>
 
@@ -382,14 +386,14 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <div class="compact"><table>
 <tr class="hd"><td>Event</td><td class="n">Att.</td><td class="n">Bar (POS)</td><td class="n">$ / Att.</td></tr>
 <tr><td class="lbl">Ski Patrol: Attitude Adjustment Party</td><td class="n">566</td><td class="n">$10,756</td><td class="n">$19.00</td></tr>
-<tr><td class="lbl">Alpenphunk — JGB Celebration</td><td class="n">515</td><td class="n">$8,569</td><td class="n">$16.64</td></tr>
+<tr><td class="lbl">Alpenphunk (2 nights)</td><td class="n">798</td><td class="n">$11,266</td><td class="n">$14.12</td></tr>
 <tr><td class="lbl">Britney's Circus</td><td class="n">309</td><td class="n">$4,569</td><td class="n">$14.79</td></tr>
 <tr><td class="lbl">String Cheese Incident (2 nights)</td><td class="n">1,245</td><td class="n">$17,773</td><td class="n">$14.28</td></tr>
 
 <tr><td class="lbl">Vandelux</td><td class="n">702</td><td class="n">$9,711</td><td class="n">$13.83</td></tr>
 <tr><td class="lbl">Kitchen Dwellers (2 nights)</td><td class="n">1,045</td><td class="n">$13,322</td><td class="n">$12.75</td></tr>
 <tr><td class="lbl">Beats Antique</td><td class="n">402</td><td class="n">$4,203</td><td class="n">$10.46</td></tr>
-<tr><td class="lbl">Alpenphunk — Soulive</td><td class="n">283</td><td class="n">$2,697</td><td class="n">$9.53</td></tr>
+
 <tr><td class="lbl">Hank Azaria + EZ Street Band</td><td class="n">570</td><td class="n">$4,952</td><td class="n">$8.69</td></tr>
 <tr><td class="lbl">The Brothers Comatose</td><td class="n">331</td><td class="n">$2,750</td><td class="n">$8.31</td></tr>
 <tr class="b"><td class="lbl">Blended — 11 shows</td><td class="n">5,968</td><td class="n">$79,302</td><td class="n">$13.29</td></tr>
@@ -630,21 +634,6 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <p class="note">The model ranks every constituent on capacity + engagement across Bloomerang giving, Humanitix attendance, Mailchimp engagement, Gunnison County property records, and state/federal public-giving data. It flags <b>2,833 Hot/Warm prospects who have never given</b> — the summer festival season is the natural cultivation moment for the property-owning and peer-org segments above. Ranked, named cultivation lists (top prospects and top lapsed) can be pulled for the Development team as a separate working document.</p>
 <p class="fine">Prospect figures are for internal cultivation planning and draw on wealth-screening and public-records data; they do not reconcile to QuickBooks contributed revenue and should not be cited as financial figures. Individual names and capacity detail are held in the Development working file, not this report.</p>
 
-<div class="pb"></div>
-<div class="sechead"><div><div class="eb">Section 9.0</div><div class="tt">Grants</div></div><div class="bn">9.</div></div>
-<div class="lede">Institutional grant income of <b>$58,050</b> was recognized year to date &mdash; <b>up 274% over the same period last year ($15,500)</b>, and already <b>2.3&times; all of FY25 ($24,918)</b>. Nearly all is <b>restricted</b> to specific programs. These are operating and program grants; event-driven foundation and donor-advised gifts (e.g. Arts Ball) are reported under Development.</div>
-<div class="compact"><table>
-<tr class="hd"><td>Grantor</td><td class="n">FY26 YTD</td><td class="n">Type</td></tr>
-<tr><td class="lbl">MetRec (regional district grant)</td><td class="n">$40,460</td><td class="n">Restricted</td></tr>
-<tr><td class="lbl">Creative District (Colorado Creative Industries)</td><td class="n">$7,500</td><td class="n">Restricted</td></tr>
-<tr><td class="lbl">Town of Crested Butte — Fall 2025 Community</td><td class="n">$5,000</td><td class="n">Restricted</td></tr>
-<tr><td class="lbl">Town of Crested Butte — Spring 2026 Community</td><td class="n">$2,350</td><td class="n">Restricted</td></tr>
-<tr><td class="lbl">Other grant income</td><td class="n">$2,740</td><td class="n">Unrestricted</td></tr>
-<tr class="b"><td class="lbl">Total Grant Income — FY26 YTD</td><td class="n">$58,050</td><td class="n">+274% YoY</td></tr>
-<tr><td class="lbl">FY25 same period (Nov&ndash;Jun)</td><td class="n">$15,500</td><td class="n"></td></tr>
-<tr><td class="lbl">FY25 full year</td><td class="n">$24,918</td><td class="n"></td></tr>
-</table></div>
-<p class="note">Restricted grants are recognized as awarded and released as the funded programs are delivered. Grant-seeking is an area of upside: a defined foundation and government pipeline, tracked alongside the Development calendar, is a clear opportunity to grow contributed revenue in FY27.</p>
 <div class="foot">Prepared July 23, 2026 from QuickBooks Online (accrual basis) after the reconciled June close; budget = FY2026 board-approved, phased YTD; prior year = FY2025 same period. Not audited.</div>
 </body></html>"""
 for _k,_v in BRAND_TOKENS.items():
@@ -654,6 +643,13 @@ def _kround(_m):
     _n=int(_m.group(1).replace(",",""))
     return "$%sk" % format(round(_n/1000.0), ",")
 HTML=_re.sub(r"\$(\d{1,3}(?:,\d{3})+)(?:\.\d+)?", _kround, HTML)
+def _kparen(_m):
+    _n=int(_m.group(1).replace(",",""))
+    return "($%sk)" % format(round(_n/1000.0), ",")
+HTML=_re.sub(r"\((\d{1,3}(?:,\d{3})+)\)", _kparen, HTML)
+def _toM(_m):
+    return "$%.2fM" % (int(_m.group(1)+_m.group(2))/1000.0)
+HTML=_re.sub(r"\$(\d{1,3}),(\d{3})k", _toM, HTML)
 open("finance_report_v2.html","w").write(HTML)
 # ---- split cover / body for running header-footer render ----
 MARK="<!--SPLIT-->"
