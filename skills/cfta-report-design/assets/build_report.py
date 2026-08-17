@@ -20,28 +20,69 @@ SEAT_URI="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRG
 SHIPLAP_URI="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGF5ZXJfMyIgZGF0YS1uYW1lPSJMYXllciAzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMTE1LjEzIDU4OS41NyI+PHN0eWxlPnBhdGh7ZmlsbDojMEEzQTgyO2ZpbGwtb3BhY2l0eTouMTN9PC9zdHlsZT4KICA8ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIj4KICAgIDxwYXRoIGQ9Ik05NTUuODIsNDA0LjY4aC0xNTkuM3YtLjA5aC0xNTkuM3YxLjZoLTE1OS4zdi40N2gtMTU5LjN2MS4zNGgtMTU5LjN2LTEuMjFIMHYzLjA4aDE1OS4zdi0xLjIxaDE1OS4zdjEuMzRoMTU5LjN2LjQ3aDE1OS4zdjEuNmgxNTkuM3YtLjA5aDE1OS4zdi0yLjczaDE1OS4zdi0xLjg1aC0xNTkuM3YtMi43M1pNOTU1LjgyLDQxOS43MmgtMTU5LjN2LTMuMjRoLTE1OS4zdjEuNzJoLTE1OS4zdi0uOWgtMTU5LjN2LjI3aC0xNTkuM3YuNDhIMHY0LjU0aDE1OS4zdi40OGgxNTkuM3YuMjdoMTU5LjN2LS45aDE1OS4zdjEuNzFoMTU5LjN2LTMuMjNoMTU5LjN2MS4yOWgxNTkuM3YtMy43OGgtMTU5LjN2MS4yOVpNOTU1LjgyLDM5NS44MmgtMTU5LjN2LS42NGgtMTU5LjN2LjQ5aC0xNTkuM3YtMy4wOGgtMTU5LjN2Mi44N2gtMTU5LjN2LjQ0SDB2Ljk0aDE1OS4zdi40NGgxNTkuM3YyLjg3aDE1OS4zdi0zLjA4aDE1OS4zdi40OWgxNTkuM3YtLjY0aDE1OS4zdjEuMDhoMTU5LjN2LTMuMjZoLTE1OS4zdjEuMDhaTTk1NS44Miw0NTUuMzNoLTE1OS4zdi0yLjY4aC0xNTkuM3YuNjVoLTE1OS4zdjEuMjJoLTE1OS4zdi4yNmgtMTU5LjN2LS4xMkgwdjMuMTVoMTU5LjN2LS4xMmgxNTkuM3YuMjZoMTU5LjN2MS4yMmgxNTkuM3YuNjVoMTU5LjN2LTIuNjhoMTU5LjNzMTU5LjMtLjAxLDE1OS4zLS4wMXYtMS43OWgtMTU5LjNaTTk1NS44Miw0NDMuOTFoLTE1OS4zdi0uMDRoLTE1OS4zdi0xLjA4aC0xNTkuM3YuMDhoLTE1OS4zdi4xNGgtMTU5LjN2LjAzSDB2Mi40NmgxNTkuM3YuMDNoMTU5LjN2LjE0aDE1OS4zdi4wOGgxNTkuM3YtMS4wOGgxNTkuM3YtLjA0aDE1OS4zdjEuNTJoMTU5LjN2LTMuNzRoLTE1OS4zdjEuNTJaTTk1NS44Miw0MzAuMDhoLTE1OS4zdi0yLjE5aC0xNTkuM3YxLjgxaC0xNTkuM3YxLjM3aC0xNTkuM3YtMi4wNmgtMTU5LjN2MS45NEgwdjIuNjdoMTU5LjN2MS45NGgxNTkuM3YtMi4wNmgxNTkuM3YxLjM3aDE1OS4zdjEuODFoMTU5LjN2LTIuMTloMTU5LjN2LS40M2gxNTkuM3YtMy41NWgtMTU5LjN2LS40M1pNOTU1LjgyLDMyMS4yMmgtMTU5LjN2Mi45N2gtMTU5LjN2LS4zNGgtMTU5LjN2LTIuMTJoLTE1OS4zdjEuNDVoLTE1OS4zdi44OEgwdi45NmgxNTkuM3YuODhoMTU5LjN2MS40NWgxNTkuM3YtMi4xM2gxNTkuM3YtLjM0aDE1OS4zdjIuOThoMTU5LjN2LTEuMjVoMTU5LjN2LTQuMTNoLTE1OS4zdi0xLjI1Wk05NTUuODIsMzQ2LjExaC0xNTkuM3YxLjE0aC0xNTkuM3YuNzNoLTE1OS4zdi0yLjc4aC0xNTkuM3YuNjRoLTE1OS4zdjIuMzZIMHYuNTNoMTU5LjN2Mi4zNmgxNTkuM3YuNjRoMTU5LjN2LTIuNzhoMTU5LjN2LjczaDE1OS4zdjEuMTRoMTU5LjN2LTEuMDhoMTU5LjN2LTIuNTZoLTE1OS4zdi0xLjA4Wk05NTUuODIsMzExLjczaC0xNTkuM3YtLjc0aC0xNTkuM3YtMS44OWgtMTU5LjN2My4xaC0xNTkuM3YtLjA1aC0xNTkuM3YtLjE5SDB2MS4yMmgxNTkuM3YtLjE5aDE1OS4zdi0uMDZoMTU5LjN2My4xaDE1OS4zdi0xLjg4aDE1OS4zdi0uNzVoMTU5LjN2Mi4wMWgxNTkuM3YtNS42N2gtMTU5LjN2MlpNOTU1LjgyLDQ2NS44OWgtMTU5LjN2LjJoLTE1OS4zdi0uNjZoLTE1OS4zdjEuNThoLTE1OS4zdi4xMmgtMTU5LjN2LTIuMDZIMHY2LjI1aDE1OS4zdi0yLjA2aDE1OS4zdi4xMmgxNTkuM3YxLjU4aDE1OS4zdi0uNjVoMTU5LjN2LjJoMTU5LjN2LS42MmgxNTkuM3YtMy4zOWgtMTU5LjN2LS42MlpNOTU1LjgyLDMzNS4xaC0xNTkuM3YtMS4yOWgtMTU5LjN2MS4yOGgtMTU5LjN2LS4zMWgtMTU5LjN2LS4zNGgtMTU5LjN2MS44OUgwdi4zNGgxNTkuM3YxLjg4aDE1OS4zdi0uMzRoMTU5LjN2LS4zMWgxNTkuM3YxLjI4aDE1OS4zdi0xLjI5aDE1OS4zdjIuMzloMTU5LjN2LTcuNTZoLTE1OS4zdjIuMzlaTTk1NS44MiwzNTcuMjJoLTE1OS4zdjEuMjhoLTE1OS4zdi42aC0xNTkuM3YtLjU5aC0xNTkuM3YuMzJoLTE1OS4zdi43OEgwdjEuNjloMTU5LjN2Ljc4aDE1OS4zdi4zMmgxNTkuM3YtLjU5aDE1OS4zdi42aDE1OS4zdjEuMjhoMTU5LjN2LS41OGgxNTkuM3YtNS4yOWgtMTU5LjN2LS41OFpNOTU1LjgyLDM2OC41OWgtMTU5LjN2Mi42M2gtMTU5LjN2LjUyaC0xNTkuM3YtMS43aC0xNTkuM3YuMDloLTE1OS4zdi45OUgwdjIuNjFoMTU5LjN2Ljk4aDE1OS4zdi4wOWgxNTkuM3YtMS42OWgxNTkuM3YuNTJoMTU5LjN2Mi42M2gxNTkuM3YtMi4xNWgxNTkuM3YtMy4zOGgtMTU5LjN2LTIuMTVaTTk1NS44MiwzODEuMzFoLTE1OS4zdi42aC0xNTkuM3YuMjhoLTE1OS4zdjEuNGgtMTU5LjN2LjIxaC0xNTkuM3YtLjM0SDB2MS44NmgxNTkuM3YtLjM0aDE1OS4zdi4yMmgxNTkuM3YxLjRoMTU5LjN2LjI4aDE1OS4zdi42aDE1OS4zdi0xLjIyaDE1OS4zdi0zLjcyaC0xNTkuM3YtMS4yMlpNOTU1LjgyLDU4Ny4yaC0xNTkuM3YtLjY5aC0xNTkuM3YuOThoLTE1OS4zdi4xM2gtMTU5LjN2LS4xN2gtMTU5LjN2LTEuMTNIMHYzLjI0aDE1OS4zdi0xLjEzaDE1OS4zdi0uMTdoMTU5LjN2LjEzaDE1OS4zdi45OGgxNTkuM3YtLjY5aDE1OS4zdi0uMTNoMTU5LjN2LTEuMjFoLTE1OS4zdi0uMTNaTTk1NS44Miw0NzguODdoLTE1OS4zdi0uOTZoLTE1OS4zdjEuNjdoLTE1OS4zdi0yLjA2aC0xNTkuM3YuMjloLTE1OS4zdjEuMTlIMHYyLjM4aDE1OS4zdjEuMThoMTU5LjN2LjI5aDE1OS4zdi0yLjA2aDE1OS4zdjEuNjdoMTU5LjN2LS45NmgxNTkuM3YuMzdoMTU5LjN2LTMuMzdoLTE1OS4zdi4zN1pNOTU1LjgyLDU2My42aC0xNTkuM3YtLjUyaC0xNTkuM3YtMS4yN2gtMTU5LjN2MS4wOGgtMTU5LjN2LTEuNDZoLTE1OS4zcy0xNTkuMywwLTE1OS4zLDB2NS4xNWgxNTkuM3MxNTkuMywwLDE1OS4zLDB2LTEuNDZoMTU5LjN2MS4wOGgxNTkuM3YtMS4yN2gxNTkuM3YtLjUyaDE1OS4zdi40MmgxNTkuM3YtMS42NWgtMTU5LjN2LjQyWk0xNTkuMywzNy41OGgxNTkuM3YuNmgxNTkuM3YtLjNoMTU5LjN2LTEuNDNoLTE1OS4zdi0uM2gtMTU5LjN2LjZoLTE1OS4zdi4xNEgwdi41NWgxNTkuM3YuMTRaTTk1NS44Miw1NTAuNTNoLTE1OS4zdjEuMTloLTE1OS4zdi0yLjMxaC0xNTkuM3YxLjU1aC0xNTkuM3YuMTRoLTE1OS4zdi0uNEgwdjIuNjVoMTU5LjN2LS40aDE1OS4zdi4xNGgxNTkuM3YxLjU1aDE1OS4zdi0yLjMxaDE1OS4zdjEuMTloMTU5LjN2LS45NWgxNTkuM3YtMS4xaC0xNTkuM3YtLjk1Wk0xNTkuMywxMDkuNmgxNTkuM3YuMzJoMTU5LjN2LS40NWgxNTkuM3YtLjM4aDE1OS4zdi0uMTZoLTE1OS4zdi0uMzhoLTE1OS4zdi0uNDVoLTE1OS4zdi4zMmgtMTU5LjN2LjE1SDB2Ljg5aDE1OS4zdi4xNVpNOTU1LjgyLDU3NC43NGgtMTU5LjN2LjQ0aC0xNTkuM3YtLjc1aC0xNTkuM3YtLjk2aC0xNTkuM3YtLjU2aC0xNTkuM3YuNDdIMHY1LjE5aDE1OS4zdi40N2gxNTkuM3YtLjU2aDE1OS4zdi0uOTZoMTU5LjN2LS43NWgxNTkuM3YuNDRoMTU5LjN2LS41MWgxNTkuM3YtMS40NWgtMTU5LjN2LS41MVpNOTU1LjgyLDUzOS40NmgtMTU5LjN2LTEuMjdoLTE1OS4zdi0xLjI4aC0xNTkuM3YuMzFoLTE1OS4zdi0xLjM4aC0xNTkuM3YuMjlIMHY3Ljg0aDE1OS4zdi4yOWgxNTkuM3YtMS4zOGgxNTkuM3YuMzFoMTU5LjN2LTEuMjhoMTU5LjN2LTEuMjdoMTU5LjN2LS4zN2gxNTkuM3YtLjQ1aC0xNTkuM3YtLjM3Wk05NTUuODIsNTAzLjUzaC0xNTkuM3YtMS40N2gtMTU5LjN2LjAzaC0xNTkuM3YxLjNoLTE1OS4zdi0uMTJoLTE1OS4zdi0xLjA4SDB2My44OWgxNTkuM3YtMS4wOGgxNTkuM3YtLjEyaDE1OS4zdjEuM2gxNTkuM3YuMDNoMTU5LjN2LTEuNDdoMTU5LjN2LS4yOWgxNTkuM3YtLjYxaC0xNTkuM3YtLjI5Wk05NTUuODIsNDkwLjM1aC0xNTkuM3YuNDdoLTE1OS4zdi0uMDNoLTE1OS4zdi0zLjUyaC0xNTkuM3Y0LjA4aC0xNTkuM3YtMi4wOUgwdjUuNzloMTU5LjN2LTIuMDloMTU5LjN2NC4wOGgxNTkuM3YtMy41MmgxNTkuM3YtLjAzaDE1OS4zdi40N2gxNTkuM3YuMTNoMTU5LjN2LTMuODdoLTE1OS4zdi4xM1pNOTU1LjgyLDUyNi45MmgtMTU5LjN2LS40NGgtMTU5LjN2LS4wNmgtMTU5LjN2LTIuNTJoLTE1OS4zdjEuMjhoLTE1OS4zdjEuNzFIMHYyLjM0aDE1OS4zdjEuNzFoMTU5LjN2MS4yOGgxNTkuM3YtMi41MmgxNTkuM3YtLjA2aDE1OS4zdi0uNDRoMTU5LjN2LjRoMTU5LjN2LTMuMWgtMTU5LjN2LjRaTTk1NS44Miw1MTQuMTloLTE1OS4zdjEuMDhoLTE1OS4zdi0xaC0xNTkuM3YtMi4xM2gtMTU5LjN2My4wNGgtMTU5LjN2LTIuMjdIMHY2LjM4aDE1OS4zdi0yLjI3aDE1OS4zdjMuMDRoMTU5LjN2LTIuMTNoMTU5LjN2LTFoMTU5LjN2MS4wOGgxNTkuM3YtLjQ3aDE1OS4zdi0yLjg5aC0xNTkuM3YtLjQ3Wk05NTUuODIsODQuODNoLTE1OS4zdi0uMDJoLTE1OS4zdi0uMDJoLTE1OS4zdi0uODJoLTE1OS4zdi0uMzZoLTE1OS4zdi40OUgwdjEuOTFoMTU5LjN2LjQ5aDE1OS4zdi0uMzZoMTU5LjN2LS44MmgxNTkuM3YtLjAyaDE1OS4zczE1OS4zLS4wMSwxNTkuMy0uMDF2LS4wN2gxNTkuM3YtLjMyaC0xNTkuM3YtLjA3Wk05NTUuODIsNjEuMDdoLTE1OS4zdi0uMTFoLTE1OS4zdi0xLjAzaC0xNTkuM3YtLjA4aC0xNTkuM3YuOThoLTE1OS4zdi0uNDFIMHYxLjM4aDE1OS4zdi0uNDFoMTU5LjN2Ljk4aDE1OS4zdi0uMDloMTU5LjN2LTEuMDJoMTU5LjN2LS4xMmgxNTkuM3YuOTdoMTU5LjN2LTIuMDFoLTE1OS4zdi45N1pNOTU1LjgyLDEwOS4zN2gxNTkuM3YtLjcyaC0xNTkuM3YuNzJaTTk1NS44Miw3Mi44MWgtMTU5LjN2LjFoLTE1OS4zdi0uNjFoLTE1OS4zdi0uNGgtMTU5LjN2Ljc2aC0xNTkuM3YtLjU3SDB2MS45OGgxNTkuM3YtLjU2aDE1OS4zdi43NmgxNTkuM3YtLjRoMTU5LjN2LS42aDE1OS4zdi4xaDE1OS4zdi4yaDE1OS4zdi0uOTVoLTE1OS4zdi4yWk05NTUuODIsOTYuODZoLTE1OS4zdi4xNWgtMTU5LjN2LS4xOGgtMTU5LjN2LS45MmgtMTU5LjN2LjU2aC0xNTkuM3YtMS4xMUgwdjMuMzRoMTU5LjN2LTEuMTFoMTU5LjN2LjU2aDE1OS4zdi0uOTFoMTU5LjN2LS4xOWgxNTkuM3YuMTZoMTU5LjN2LjI0aDE1OS4zdi0uODJoLTE1OS4zdi4yNFpNOTU1LjgyLDEyMC43M2gtMTU5LjN2LS4xNGgtMTU5LjN2LjE5aC0xNTkuM3YtLjQ5aC0xNTkuM3YtLjM2aC0xNTkuM3YtLjgxSDB2My43MmgxNTkuM3YtLjgxaDE1OS4zdi0uMzZoMTU5LjN2LS40OWgxNTkuM3YuMTloMTU5LjN2LS4xNGgxNTkuM3YyLjQ0aDE1OS4zdi01LjM4aC0xNTkuM3YyLjQ0Wk05NTUuODIsMTMyLjY2aC0xNTkuM3YtLjI1aC0xNTkuM3YuMmgtMTU5LjN2LjE1aC0xNTkuM3YtLjQ4aC0xNTkuM3YtLjkxSDB2My4xNmgxNTkuM3YtLjkxaDE1OS4zdi0uNDhoMTU5LjN2LjE1aDE1OS4zdi4yaDE1OS4zdi0uMjZoMTU5LjN2LjczaDE1OS4zdi0yLjAzaC0xNTkuM3YuNzJaTTk1NS44MiwyOTcuODRoLTE1OS4zdi43NWgtMTU5LjN2LTEuNDFoLTE1OS4zdjEuM2gtMTU5LjN2MS43NWgtMTU5LjN2LjI0SDB2LjJoMTU5LjN2LjI0aDE1OS4zdjEuNzVoMTU5LjN2MS4zaDE1OS4zdi0xLjQyaDE1OS4zdi43NmgxNTkuM3YxLjQ0aDE1OS4zdi04LjM2aC0xNTkuM3YxLjQ0Wk05NTUuODIsMTQzLjY0aC0xNTkuM3YuNTVoLTE1OS4zdi43MWgtMTU5LjN2LS4wNmgtMTU5LjN2LS43aC0xNTkuM3YtLjEySDB2MS44MWgxNTkuM3YtLjEyaDE1OS4zdi0uN2gxNTkuM3YtLjA3aDE1OS4zdi43MWgxNTkuM3YuNTZoMTU5LjN2LjMyaDE1OS4zdi0zLjIxaC0xNTkuM3YuMzJaTTk1NS44MiwxMi41M2gtMTU5LjN2LjEyaC0xNTkuM3YtMS4wOGgtMTU5LjN2Ljg1aC0xNTkuM3YuNTNoLTE1OS4zdi0uNzFIMHYxLjk2aDE1OS4zdi0uNzFoMTU5LjN2LjU0aDE1OS4zdi44NGgxNTkuM3YtMS4wN2gxNTkuM3YuMTFoMTU5LjN2LS42NWgxNTkuM3YtLjA2aC0xNTkuM3YtLjY2Wk05NTUuODIsMjQuOTFoLTE1OS4zdi0uMjJoLTE1OS4zdi0uODloLTE1OS4zdi45NGgtMTU5LjN2LS4zOGgtMTU5LjN2LS4xOUgwdjIuMDNoMTU5LjN2LS4xOWgxNTkuM3YtLjM4aDE1OS4zdi45NWgxNTkuM3YtLjloMTU5LjN2LS4yMmgxNTkuM3YtLjI1aDE1OS4zdi0uMDdoLTE1OS4zdi0uMjVaTTk1NS44Miw0OC45M2gtMTU5LjN2LS4wN2gtMTU5LjN2LS4xMWgtMTU5LjN2LjAzaC0xNTkuM3YtLjM5aC0xNTkuM3YtLjc0SDB2Mi45NWgxNTkuM3YtLjc0aDE1OS4zdi0uMzhoMTU5LjN2LjAzaDE1OS4zdi0uMTFoMTU5LjN2LS4wOGgxNTkuM3YuMDVoMTU5LjN2LS41aC0xNTkuM3YuMDRaTTk1NS44MiwzNi44M2gtMTU5LjN2LjY3aDE1OS4zdi0uMjFoMTU5LjN2LS4yNmgtMTU5LjN2LS4yWk05NTUuODIsMS4wM3YtLjA1aC0xNTkuM3YtLjQ3aC0xNTkuM3YuMTVoLTE1OS4zdi0uNGgtMTU5LjN2LS4yNmgtMTU5LjN2LjM5SDB2MS43MWgxNTkuM3YuNGgxNTkuM3YtLjI2aDE1OS4zdi0uNGgxNTkuM3YuMTRoMTU5LjN2LS40N2gxNTkuM3YtLjA0aDE1OS4zdi0uNDJoLTE1OS4zWk05NTUuODIsMjI2Ljg4aC0xNTkuM3YuNDJoLTE1OS4zdjEuMDNoLTE1OS4zdi0uMzhoLTE1OS4zdi42OGgtMTU5LjN2LS4xNUgwdi41M2gxNTkuM3YtLjE1aDE1OS4zdi42OGgxNTkuM3YtLjM3aDE1OS4zdjEuMDNoMTU5LjN2LjQxaDE1OS4zdjEuNzRoMTU5LjN2LTcuMmgtMTU5LjN2MS43NFpNOTU1LjgyLDI1MS4yN2gtMTU5LjN2LjloLTE1OS4zdi0yLjI1aC0xNTkuM3YxLjg3aC0xNTkuM3YuODJoLTE1OS4zdi0uMzlIMHYuOTRoMTU5LjN2LS4zOGgxNTkuM3YuODFoMTU5LjN2MS44N2gxNTkuM3YtMi4yNmgxNTkuM3YuOWgxNTkuM3YxLjcxaDE1OS4zdi02LjI2aC0xNTkuM3YxLjcxWk05NTUuODIsMjM4LjFoLTE1OS4zdjIuMDdoLTE1OS4zdi0uMzloLTE1OS4zdi4zOWgtMTU5LjN2LjQyaC0xNTkuM3YtLjJIMHYuNjRoMTU5LjN2LS4xOWgxNTkuM3YuNDFoMTU5LjN2LjM5aDE1OS4zdi0uMzhoMTU5LjN2Mi4wN2gxNTkuM3YtLjUyaDE1OS4zdi00LjJoLTE1OS4zdi0uNTFaTTk1NS44MiwyNjIuNTloLTE1OS4zdi0uNjNoLTE1OS4zdi43N2gtMTU5LjN2LjI4aC0xNTkuM3YxLjQyaC0xNTkuM3YuMTZIMHYuMTRoMTU5LjN2LjE2aDE1OS4zdjEuNDJoMTU5LjN2LjI4aDE1OS4zdi43N2gxNTkuM3YtLjYzaDE1OS4zdi42MmgxNTkuM3YtNS4zOGgtMTU5LjN2LjYyWk05NTUuODIsMjc2LjA5aC0xNTkuM3YtLjExaC0xNTkuM3YtMi4xNWgtMTU5LjN2MS4xNmgtMTU5LjN2MS4zN2gtMTU5LjN2LjIzSDB2LjA4aDE1OS4zdi4yM2gxNTkuM3YxLjM3aDE1OS4zdjEuMTZoMTU5LjN2LTIuMTVoMTU5LjN2LS4xMWgxNTkuM3YxLjcyaDE1OS4zdi00LjUyaC0xNTkuM3YxLjcyWk05NTUuODIsMjg1LjU2aC0xNTkuM3YyLjFoLTE1OS4zdi0uOThoLTE1OS4zdi0uMTRoLTE1OS4zdi45aC0xNTkuM3YxLjA3SDB2LjE5aDE1OS4zdjEuMDdoMTU5LjN2LjkxaDE1OS4zdi0uMTRoMTU5LjN2LS45OGgxNTkuM3YyLjFoMTU5LjN2LS4yaDE1OS4zdi01LjY5aC0xNTkuM3YtLjJaTTk1NS44MiwxNzkuMDRoLTE1OS4zdi4xOGgtMTU5LjN2MS4zMmgtMTU5LjN2LjE5aC0xNTkuM3YtLjUzaC0xNTkuM3YtLjM3SDB2Mi4wNmgxNTkuM3YtLjM3aDE1OS4zdi0uNTNoMTU5LjN2LjE5aDE1OS4zdjEuMzJoMTU5LjN2LjE4aDE1OS4zdi0xLjIzaDE1OS4zdi0xLjE1aC0xNTkuM3YtMS4yM1pNOTU1LjgyLDE2Ni43MWgtMTU5LjN2Ljc2aC0xNTkuM3YxLjAyaC0xNTkuM3YuMTVoLTE1OS4zdi0uMzZoLTE1OS4zdi0uNEgwdjEuOTdoMTU5LjN2LS40aDE1OS4zdi0uMzZoMTU5LjN2LjE0aDE1OS4zdjEuMDNoMTU5LjN2Ljc2aDE1OS4zdi0xLjA4aDE1OS4zdi0yLjE2aC0xNTkuM3YtMS4wOFpNOTU1LjgyLDIxNS4wNGgtMTU5LjN2LS4zMmgtMTU5LjN2MS4wOGgtMTU5LjN2Ljc1aC0xNTkuM3MtMTU5LjMsMC0xNTkuMywwdi0uNDlIMHYxLjQxaDE1OS4zdi0uNDhoMzE4LjYxdi43NWgxNTkuM3YxLjA4aDE1OS4zdi0uMzJoMTU5LjN2LjQzaDE1OS4zdi00LjMxaC0xNTkuM3YuNDJaTTk1NS44MiwxNTUuMTJoLTE1OS4zdjEuNTVoLTE1OS4zdi4xMmgtMTU5LjN2LS41OWgtMTU5LjN2LS4xNGgtMTU5LjN2LS41OEgwdjIuODZoMTU5LjN2LS41OGgxNTkuM3YtLjE0aDE1OS4zdi0uNThoMTU5LjN2LjEyaDE1OS4zdjEuNTRoMTU5LjN2MS44NWgxNTkuM3YtNy4yNmgtMTU5LjN2MS44NVpNOTU1LjgyLDIwMi43OWgtMTU5LjN2MS4yNWgtMTU5LjN2LjFoLTE1OS4zdi40MmgtMTU5LjN2LS4wMmgtMTU5LjN2LS43SDB2MS44OWgxNTkuM3YtLjcxaDE1OS4zczE1OS4zLS4wMSwxNTkuMy0uMDF2LjQyaDE1OS4zdi4xaDE1OS4zdjEuMjVoMTU5LjN2LS42M2gxNTkuM3YtMi43NWgtMTU5LjN2LS42M1pNOTU1LjgyLDE5Mi41NGgtMTU5LjN2LTJoLTE1OS4zdjEuNDdoLTE1OS4zdi44MWgtMTU5LjN2LS4xaC0xNTkuM3YtMS4wMUgwdjIuMjZoMTU5LjN2LTEuMDFoMTU5LjN2LS4xaDE1OS4zdi44MWgxNTkuM3YxLjQ3aDE1OS4zdi0yaDE1OS4zdi43OGgxNTkuM3YtMi4xM2gtMTU5LjN2Ljc4WiIvPgogIDwvZz4KPC9zdmc+"
 ROOF_URI="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGF5ZXJfMiIgZGF0YS1uYW1lPSJMYXllciAyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNDguOTYgMTg5LjYzIj48c3R5bGU+cGF0aCxwb2x5Z29uLHJlY3R7ZmlsbDojMEEzQTgyfTwvc3R5bGU+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogIzk1ZDVlODsKICAgICAgfQogICAgPC9zdHlsZT4KICA8L2RlZnM+CiAgPGcgaWQ9IkxheWVyXzItMiIgZGF0YS1uYW1lPSJMYXllciAyIj4KICAgIDxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTAsMzAuMTF2MTQxLjcybDU0LjI1LTMwLjA0LDk0LjcxLDQ3Ljg0VjQ3Ljc3TDU0LjM4LDAsLjAxLDMwLjExaC0uMDFaIi8+CiAgPC9nPgo8L3N2Zz4="
 
-A = {"contrib":898194.63,"earned":773904.74,"frontrow":150000.00,"totrev":1822099.37,
- "proc":20094.25,"prod":63314.82,"cogs":83409.07,"gross":1738690.30,
- "admin":83549.35,"building":216166.89,"marketing":101272.28,"payroll":791251.23,"programming":500752.09,"totexp":1692991.84,
- "netop":45698.46,"othrev":2604.54,"othexp":68890.00,"interest":52003.00,"netrev":-20587.00}
-B = {"contrib":733856.0,"earned":771010.0,"frontrow":100000.0,"totrev":1604866.0,
- "proc":32000.0,"prod":60170.0,"cogs":92170.0,"gross":1512696.0,
- "admin":89472.0,"building":204688.0,"marketing":89939.0,"payroll":837622.0,"programming":412833.0,"totexp":1634554.0,
- "netop":-121858.0,"othrev":55732.0,"othexp":106860.0,"interest":55128.0,"netrev":-172986.0}
-P = {"contrib":503499.59,"earned":564836.87,"frontrow":390000.00,"totrev":1458336.46,
- "proc":23910.36,"prod":66533.66,"cogs":90444.02,"gross":1367892.44,
- "admin":86849.27,"building":214406.26,"marketing":68128.50,"payroll":717741.43,"programming":394933.77,"totexp":1482059.23,
- "netop":-114166.79,"othrev":159079.82,"othexp":103173.21,"netrev":-58260.18}
-BS = {"op_cash":578258.38,"stripe":-89223.42,"cash_tot":489034.96,
- "ar_frontrow":1407376.05,"ar_operating":122061.97,"ar_other":19248.16,"ar_tot":1548623.18,
- "other_ca":208551.40,"tot_ca":2246209.54,"fixed":16792434.09,"donated_lease":1970921.00,"tot_assets":21009564.63,
- "ap":5327.35,"deferred_ticket":195759.70,"deferred_rental":92659.26,"other_cl":330635.89,"loans":1050000.00,"tot_liab":1394963.24,
- "restricted":2325224.00,"unrestricted":17309964.22,"net_rev":-20587.00,"tot_eq":19614601.39}
-BSP = {"tot_assets":21005038.0,"tot_liab":1217935.0,"tot_eq":19787103.0,
- "cash_tot":364428.97,"ar_tot":1672887.31,"ar_frontrow":1541441.59,"ar_oo":131445.72,"other_ca":72300.12,"tot_ca":2109616.40,
+# ---------------------------------------------------------------------------
+# FY26 YTD - REPORTING PERIOD: NOVEMBER 1, 2025 - JULY 31, 2026 (9 months)
+# Refreshed 2026-08-17 straight from the Intuit API.
+#
+#   A   actuals    ProfitAndLoss 2025-11-01..2026-07-31, accrual
+#   B   budget     Budget id 1000000031 "FY26 - Consolidated", months Nov..Jul summed
+#   P   prior yr   ProfitAndLoss 2024-11-01..2025-07-31, accrual
+#   BS  balance sheet 2026-07-31    BSP  balance sheet 2025-07-31
+#
+# Both mappings were validated by reproducing the approved June report: the budget
+# matched its B dict on 19/19 fields, and the P&L matched its A dict exactly on
+# proc/building/payroll/othrev/othexp/interest. The remaining June differences are
+# post-publication drift in closed months (revenue +$15,858.95, expenses
+# +$25,482.32, net -$9,294.30 since that report was built 7/20-7/23).
+#
+# NO PRIOR-YEAR RESTATEMENT THIS MONTH. Last month required stripping $308,921.28
+# of W+FF revenue out of FY25's Nov-Jun columns because FY26's festival was still
+# post-period. At nine months both years contain a full festival (FY25 recognized
+# as-sold in spring 2025, FY26 at the July 2026 event), so the comparison is
+# naturally like-for-like. P is raw QBO.
+#
+# Do NOT use the QBO MCP connector for the P&L: it truncates the expense list at
+# account 6130 and double-counts income parents. The direct Intuit API is clean.
+# ---------------------------------------------------------------------------
+A = {"contrib":1652036.74,"earned":1037499.63,"frontrow":160000.00,"totrev":2849536.37,
+ "proc":26454.47,"prod":110845.14,"cogs":137299.61,"gross":2712236.76,
+ "admin":98383.70,"building":239907.99,"marketing":107399.67,"payroll":996741.04,"programming":729698.99,"totexp":2172131.39,
+ "netop":540105.37,"othrev":21961.03,"othexp":116949.72,"interest":58144.00,"netrev":445116.68}
+B = {"contrib":1561432.0,"earned":989252.0,"frontrow":200000.0,"totrev":2750684.0,
+ "proc":36000.0,"prod":94720.0,"cogs":130720.0,"gross":2619964.0,
+ "admin":97656.0,"building":232328.0,"marketing":99550.0,"payroll":1047310.0,"programming":717865.0,"totexp":2194709.0,
+ "netop":425255.0,"othrev":82028.0,"othexp":139547.0,"interest":62019.0,"netrev":367736.0}
+# P: proc derived as cogs - prod; FY25 coded processing fees outside 5010.
+P = {"contrib":1382917.69,"earned":903275.42,"frontrow":390000.00,"totrev":2676193.11,
+ "proc":31388.28,"prod":102665.12,"cogs":134053.40,"gross":2542139.71,
+ "admin":95373.10,"building":239026.59,"marketing":87874.18,"payroll":896416.14,"programming":645987.65,"totexp":1964677.66,
+ "netop":577462.05,"othrev":185384.99,"othexp":135764.38,"netrev":627082.66}
+# BS other_cl = Total Current Liabilities, so the sfp formula
+# (other_cl - deferred_ticket - deferred_rental - ap) yields the payroll/deposits/tax residual.
+BS = {"op_cash":669687.92,"stripe":-21.39,"cash_tot":669666.53,
+ "ar_frontrow":1357376.05,"ar_operating":332566.97,"ar_other":45212.55,"ar_tot":1735155.57,
+ "other_ca":113311.49,"tot_ca":2518133.59,"fixed":16792434.09,"donated_lease":1970921.00,"tot_assets":21281488.68,
+ "ap":-13260.19,"deferred_ticket":50765.00,"deferred_rental":74234.26,"other_cl":151183.61,"loans":1050000.00,"tot_liab":1201183.61,
+ "restricted":2325224.00,"unrestricted":17309964.22,"net_rev":445116.68,"tot_eq":20080305.07}
+BSP = {"tot_assets":21954759.49,"tot_liab":1375169.34,"tot_eq":20579590.15,
+ "cash_tot":875466.47,"ar_tot":1614071.84,"ar_frontrow":1521441.59,"ar_oo":92630.25,"other_ca":96161.53,"tot_ca":2585699.84,
  "fixed":17352568.65,"donated_lease":2016491.00,
- "ap":11763.06,"deferred_ticket":0.0,"deferred_rental":71781.0,"other_cl_net":41963.40,"loans":1150000.0,
- "restricted":2325224.0,"unrestricted":17627283.32,"net_rev":250661.10}
+ "ap":105057.00,"deferred_ticket":0.0,"deferred_rental":72569.50,"other_cl_net":47542.84,"loans":1150000.0,
+ "restricted":2325224.0,"unrestricted":17627283.32,"net_rev":627082.66}
+
+# Cash flows, indirect method, derived from balance sheets at FY start and cutoff.
+# FY26: 2025-10-31 -> 2026-07-31 ; FY25: 2024-10-31 -> 2025-07-31.
+# Both columns reconcile to the actual movement in Total Bank Accounts with a $0.00 gap.
+CF = {
+ "ni":(445116.68, 627082.66), "ar":(-121426.17, -53612.79), "defr":(86141.89, 11969.50),
+ "inv":(-69254.63, 11841.94), "wc":(-25912.05, 81188.74), "op":(314665.72, 678470.05),
+ "invest":(0.00, -26772.29), "fin":(-100000.00, 50000.00), "net":(214665.72, 701697.76),
+ "cash_end":(669666.53, 875466.47)}
+def cfrow(label, key, bold=False):
+    a,b = CF[key]
+    cls=' class="b"' if bold else ''
+    return (f'<tr{cls}><td class="lbl">{label}</td><td class="n">{m(a)}</td>'
+            f'<td class="n">{m(b)}</td><td class="n v">{m(a-b)}</td></tr>')
 
 def m(v):
     if v is None: return ""
@@ -95,7 +136,7 @@ soa="\n".join([
 ])
 
 sfp="\n".join([
- '<tr class="hd"><td>Assets</td><td class="n">Jun 30, 2026</td><td class="n">Jun 30, 2025</td><td class="n v">Var $</td><td class="n v">Var %</td></tr>',
+ '<tr class="hd"><td>Assets</td><td class="n">Jul 31, 2026</td><td class="n">Jul 31, 2025</td><td class="n v">Var $</td><td class="n v">Var %</td></tr>',
  bsrow("Operating Cash &amp; Equivalents",BS["cash_tot"],BSP["cash_tot"]),
  bsrow("Accounts Receivable",BS["ar_tot"],BSP["ar_tot"]),
  bsrow("Other Current Assets",BS["other_ca"],BSP["other_ca"]),
@@ -188,58 +229,64 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 .runfoot{{margin-top:12px;height:0.30in;background-image:url("{SEAT_URI}");background-size:auto 340%;background-position:center 22%;background-repeat:repeat-x;display:flex;justify-content:space-between;align-items:center;font-family:'Flama Book','Flama',sans-serif;font-size:6.5px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#0A3A82;}}
 </style></head><body>
 <div class="cover">
-<div class="rhead"><span>The Center for the Arts &middot; Crested Butte</span><span>FY2026 Year-to-Date &middot; 07.23.2026</span></div>
+<div class="rhead"><span>The Center for the Arts &middot; Crested Butte</span><span>FY2026 Year-to-Date &middot; 08.17.2026</span></div>
 <img class="mark" src="data:image/png;base64,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AABFAgoAoEhAAQAUCSgAgCIBBQBQJKAAAIoEFABAkYACACgSUAAARQIKAKBIQAEAFAkoAIAiAQUAUCSgAACKBBQAQJGAAgAoElAAAEUCCgCgSEABABQJKACAIgEFAFAkoAAAigQUAECRgAIAKBJQAABFAgoAoEhAAQAUCSgAgCIBBQBQJKAAAIoEFABAkYACACgSUAAARQIKAKBIQAEAFAkoAIAiAQUAUCSgAACKBBQAQJGAAgAoElAAAEUCCgCgSEABABQJKACAIgEFAFAkoAAAigQUAECRgAIAKBJQAABFAgoAoEhAAQAUCSgAgCIBBQBQJKAAAIoEFABAkYACACgSUAAARQIKAKBIQAEAFAkoAIAiAQUAUCSgAACKBBQAQJGAAgAoElAAAEUCCgCgSEABABQJKACAIgEFAFAkoAAAigQUAECRgAIAKBJQAABFAgoAoEhAAQAUCSgAgCIBBQBQJKAAAIoEFABAkYACACgSUAAARQIKAKBIQAEAFAkoAIAiAQUAUCSgAACKBBQAQJGAAgAoElAAAEUCCgCgSEABABQJKACAIgEFAFAkoAAAigQUAECRgAIAKBJQAABFAgoAoEhAAQAUCSgAgCIBBQBQJKAAAIoEFABAkYACACgSUAAARQIKAKBIQAEAFAkoAIAiAQUAUCSgAACKBBQAQJGAAgAoElAAAEUCCgCgSEABABQJKACAIgEFAFAkoAAAigQUAECRgAIAKBJQAABFAgoAoEhAAQAUCSgAgCIBBQBQJKAAAIoEFABAkYACACgSUAAARQIKAKBIQAEAFAkoAIAiAQUAUCSgAACKBBQAQJGAAgAoElAAAEUCCgCgSEABABQJKACAIgEFAFAkoAAAigQUAECRgAIAKBJQAABFAgoAoEhAAQAUCSgAgCIBBQBQJKAAAIoEFABAkYACACgSUAAARQIKAKBIQAEAFAkoAIAiAQUAUCSgAACKBBQAQJGAAgAoElAAAEUCCgCgSEABABQJKACAIgEFAFAkoAAAigQUAECRgAIAKBJQAABFAgoAoEhAAQAUCSgAgCIBBQBQJKAAAIoEFABAkYACACgSUAAARQIKAKBIQAEAFAkoAIAiAQUAUCSgAACKBBQAQJGAAgAoElAAAEUCCgCgSEABABQJKACAIgEFAFAkoAAAigQUAECRgAIAKBJQAABFAgoAoEhAAQAUCSgAgCIBBQBQJKAAAIoEFABAkYACACgSUAAARQIKAKBIQAEAFAkoAIAiAQUAUCSgAACKBBQAQJGAAgAoElAAAEUCCgCgSEABABR99u7du1WS1cznAADoxfX/AczPBQ7SdPVrAAAAAElFTkSuQmCC" alt="Center for the Arts"/>
 <div style="margin-top:auto">
 <div class="eyebrow">Finance Committee</div>
 <h1 class="big">Finance<br/>Committee<br/>Report</h1>
 <hr class="rule"/>
 <div class="meta2">
-<span>Reporting Period &middot; November 1, 2025 &ndash; June 30, 2026 &middot; Accrual Basis</span>
-<span>$1.82M revenue &middot; +14% vs budget</span>
+<span>Reporting Period &middot; November 1, 2025 &ndash; July 31, 2026 &middot; Accrual Basis</span>
+<span>$2.85M revenue &middot; +4% vs budget</span>
 </div>
 </div>
 <div class="bignum">$</div>
 </div>
 <!--SPLIT-->
 <div class="sechead"><div><div class="eb">Section 1.0</div><div class="tt">Executive Summary</div></div><div class="bn">1.</div></div>
-<div class="lede">Net revenue of <b>({abs(A['netrev']):,.0f})</b> for the first eight months sits close to break-even and well ahead of the budgeted seasonal deficit. The year&rsquo;s earnings season (Wine + Food, the Arts Ball) is just beginning, and the Center is ahead of the glide path: revenue of <b>$1.82M</b> is running <b>${rev_vs_bud:,.0f} ahead of budget</b> and <b>${rev_vs_py:,.0f} ahead of the restated prior year</b>. Expenditures of <b>$1.69M</b> are <b>${exp_vs_bud:,.0f} over the year-to-date budget</b>, but revenue outperformance more than covers it: operating income is <b>${A['netop']/1000:.0f}k</b> against a budgeted seasonal deficit of <b>(${abs(B['netop']):,.0f})</b>.</div>
+<div class="lede">Net revenue of <b>{m(A['netrev'])}</b> for the first nine months. The summer earning season landed in July, and it delivered: revenue of <b>$2.85M</b> is <b>${rev_vs_bud:,.0f} ahead of budget</b> and <b>${rev_vs_py:,.0f} ahead of the prior year</b>, while expenditures of <b>$2.17M</b> came in <b>${abs(exp_vs_bud):,.0f} under the year-to-date budget</b>. Operating income of <b>{m(A['netop'])}</b> stands <b>${A['netop']-B['netop']:,.0f} (+27%) favorable to plan</b>.</div>
 
 <div class="kpis">
-<div class="kpi"><div class="k">Total Revenue YTD</div><div class="val">$1.82M</div><div class="d">+14% vs budget</div></div>
-<div class="kpi"><div class="k">Operating Income</div><div class="val">$45.7k</div><div class="d">vs a budgeted deficit</div></div>
-<div class="kpi"><div class="k">Cash on Hand</div><div class="val">$582k</div><div class="d">before summer earnings</div></div>
-<div class="kpi"><div class="k">Grant Income</div><div class="val">+274%</div><div class="d">YoY, $58k YTD</div></div>
+<div class="kpi"><div class="k">Total Revenue YTD</div><div class="val">$2.85M</div><div class="d">+3.6% vs budget</div></div>
+<div class="kpi"><div class="k">Operating Income</div><div class="val">$540k</div><div class="d">+27% vs budget</div></div>
+<div class="kpi"><div class="k">Net Revenue</div><div class="val">$445k</div><div class="d">${A['netrev']-B['netrev']:,.0f} vs budget</div></div>
+<div class="kpi"><div class="k">Cash &amp; Equivalents</div><div class="val">$670k</div><div class="d">after the summer season</div></div>
 </div>
-<p class="note">The <b>Arts Ball</b> and <b>Wine + Food Festival</b> results — both post-period — are detailed with guest response in <b>Section 2.0, Summer Signature Events</b>.</p>
+<p class="note">The <b>Arts Ball</b> (July 9) and the <b>Wine + Food Festival</b> (mid-July) are now <b>booked actuals</b> rather than projections. Detail and guest response follow in <b>Section 2.0, Summer Signature Events</b>.</p>
 <h3>Year to Date — vs. Budget</h3>
-<div><b>Total revenue of $1.82M is ${rev_vs_bud:,.0f} (+14%) ahead of budget; expenditures of $1.69M are ${exp_vs_bud:,.0f} (+4%) over budget. The revenue outperformance carries operating income to a ${A['netop']/1000:.0f}k surplus against a budgeted (${abs(B['netop'])/1000:.0f}k) seasonal deficit.</b></div>
+<div><b>Total revenue of $2.85M is ${rev_vs_bud:,.0f} (+3.6%) ahead of budget; expenditures of $2.17M are ${abs(exp_vs_bud):,.0f} (−1.0%) <i>under</i> budget. Both sides moved the right way, carrying operating income to {m(A['netop'])} against a plan of {m(B['netop'])}.</b></div>
 
 <div><b style="color:#0A3A82">Favorable</b><ul>
-<li>Contributed revenue <b>${A['contrib']-B['contrib']:,.0f} (+22%) ahead of budget</b> — grants and major-donor cultivation ahead of plan.</li>
-<li>Front Row <b>${A['frontrow']-B['frontrow']:,.0f} (+50%) ahead of the year-to-date budget</b> — $150k against a $100k phased target; fall renewals ahead.</li>
-<li>Payroll <b>${abs(A['payroll']-B['payroll']):,.0f} (−6%) under budget</b>.</li>
-<li>Operating income <b>${A['netop']-B['netop']:,.0f} favorable to budget</b>.</li></ul></div>
+<li>Contributed revenue <b>${A['contrib']-B['contrib']:,.0f} (+5.8%) ahead of budget</b> — the Ball outperformed and grants stayed ahead of plan.</li>
+<li>Earned revenue <b>${A['earned']-B['earned']:,.0f} (+4.9%) ahead</b> — festival ticketing and bar.</li>
+<li>Payroll <b>${abs(A['payroll']-B['payroll']):,.0f} (−4.8%) under budget</b> through the busiest month of the year.</li>
+<li>Total expenditures <b>${abs(exp_vs_bud):,.0f} (−1.0%) under budget</b>; operating income <b>${A['netop']-B['netop']:,.0f} favorable</b>.</li></ul></div>
 <div><b style="color:#A7182F">Unfavorable / Watch</b><ul>
-<li>Programming <b>${A['programming']-B['programming']:,.0f} (+23%) over budget</b> — String Cheese over-delivery, covered by the revenue it drove.</li>
-<li>Total expenditures <b>${exp_vs_bud:,.0f} (+4%) over budget</b> — Programming-driven; Building +6% (insurance), Marketing +13%.</li>
-<li>Earned revenue <b>essentially on budget</b> (+0.4%).</li></ul></div>
+<li>Front Row <b>${abs(A['frontrow']-B['frontrow']):,.0f} (−20%) behind</b> the phased target — $160k against $200k.</li>
+<li>Other revenue <b>${abs(A['othrev']-B['othrev']):,.0f} (−73%) below budget</b> — the largest single unfavourable line.</li>
+<li>Marketing <b>+${A['marketing']-B['marketing']:,.0f} (+7.9%)</b>, Building <b>+${A['building']-B['building']:,.0f} (+3.3%)</b>, Programming <b>+${A['programming']-B['programming']:,.0f} (+1.6%)</b>.</li>
+<li>Cost of sales <b>+${A['cogs']-B['cogs']:,.0f} (+5.0%)</b> on festival and bar volume.</li></ul></div>
 
 <h3>Year to Date — vs. Prior Year</h3>
-<div><b>On a consistent basis, net revenue of ({abs(A['netrev']):,.0f}) is ${A['netrev']-P['netrev']:,.0f} ahead of the restated prior year</b>; Front Row timing is the largest remaining drag.</b></div>
+<div><b>Net revenue of {m(A['netrev'])} is ${abs(A['netrev']-P['netrev']):,.0f} behind the prior year — but the gap is timing, not operations.</b> Front Row and other revenue are together ${abs((A['frontrow']-P['frontrow'])+(A['othrev']-P['othrev'])):,.0f} lower year over year; growth in contributed and earned revenue offsets most of that. Both years now contain a full festival, so no prior-year restatement is applied this month.</div>
 <div><b style="color:#0A3A82">Favorable</b><ul>
-<li>Revenue +${rev_vs_py:,.0f}; contributed +${A['contrib']-P['contrib']:,.0f}, earned +${A['earned']-P['earned']:,.0f}.</li></ul></div>
+<li>Revenue <b>+${rev_vs_py:,.0f} (+6.5%)</b> — contributed <b>+${A['contrib']-P['contrib']:,.0f} (+19.5%)</b>, earned <b>+${A['earned']-P['earned']:,.0f} (+14.9%)</b>.</li></ul></div>
 <div><b style="color:#A7182F">Unfavorable</b><ul>
-<li>Front Row ${A['frontrow']:,.0f} vs ${P['frontrow']:,.0f} — a single timing line.</li>
-<li>Expenditures +${exp_vs_py:,.0f} — planned staffing &amp; programming investment.</li></ul></div>
+<li>Front Row <b>{m(A['frontrow'])} vs {m(P['frontrow'])}</b> — a single ${abs(A['frontrow']-P['frontrow']):,.0f} timing line.</li>
+<li>Other revenue <b>{m(A['othrev'])} vs {m(P['othrev'])}</b>, down ${abs(A['othrev']-P['othrev']):,.0f}.</li>
+<li>Expenditures <b>+${exp_vs_py:,.0f} (+10.6%)</b> — planned staffing &amp; programming investment; operating income ${abs(A['netop']-P['netop']):,.0f} (−6.5%) behind.</li></ul></div>
 
 <h3>Cash &amp; Balance Sheet</h3><ul>
-<li>Operating cash and equivalents of <b>{m(BS['cash_tot'])}</b> (operating, sweep, and bar), before the summer earning season.</li>
-<li>Operations generated <b>$227,443</b> of cash (+$55,355 YoY) while paying down <b>$100,000</b> of debt.</li>
-<li><b>{m(deferred_future)}</b> already collected and sitting in deferred revenue for future events and rentals — cash in hand, not yet in the P&amp;L.</li>
-<li>Front Row pledges receivable <b>{m(BS['ar_frontrow'])}</b>; long-term debt <b>{m(BS['loans'])}</b> with YTD interest {m(A['interest'])} driving the below-operating-line figure.</li></ul>
+<li>Cash and equivalents of <b>{m(BS['cash_tot'])}</b> (operating, sweep, and bar), <b>after</b> the summer earning season — <b>${abs(BS['cash_tot']-BSP['cash_tot']):,.0f} below</b> the same date last year ({m(BSP['cash_tot'])}), reflecting $100,000 of debt repaid and $230,000 less Front Row revenue recognised year to date.</li>
+<li><b>{m(deferred_future)}</b> already collected and sitting in deferred revenue for future events and rentals — cash in hand, not yet in the P&amp;L. Includes <b>$27,900</b> for the High Note dinner (Aug 6), deferred to August at close.</li>
+<li>Front Row pledges receivable <b>{m(BS['ar_frontrow'])}</b>.</li>
+<li>Long-term debt <b>{m(BS['loans'])}</b>, down <b>$100,000</b> year over year; YTD interest {m(A['interest'])} drives the below-operating-line figure.</li></ul>
 
-<h3>Other Updates</h3><ul><li>June closed and reconciled; Gusto payroll migration complete.</li><li>Fidelity brokerage account opening — the $100k gala pledge collects through it.</li><li>Cash sweep renegotiated with Community Banks / NBH to <b>3.05% effective (+1.0% vs. prior)</b>, worth <b>&plusmn;$4,500/yr</b> at FY26 average balances (&plusmn;$447k; more at summer levels).</li></ul>
+<h3>Other Updates</h3><ul>
+<li><b>July closed and reconciled.</b> Operating account reconciled and the bank-feed queue cleared; no uncategorised items remain.</li>
+<li><b>Revenue recognition tightened.</b> The High Note Tour de Fork dinner (Aug 6) had been swept into July by the blanket festival release; <b>$27,900</b> is now correctly deferred to its event month. The festival release will key off per-product event dates going forward.</li>
+<li><b>Processor clearing cleaned up.</b> Event Temple portal payments were landing in Stripe Clearing; ${4965.53:,.2f} was repointed to the rentals receivable, and Stripe Clearing now sits within $25 of zero.</li>
+<li>Cash sweep at <b>3.05% effective</b> with Community Banks / NBH (+1.0% vs. prior).</li></ul>
 
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 2.0</div><div class="tt">Summer Signature Events</div></div><div class="bn">2.</div></div>
@@ -297,27 +344,27 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 3.0</div><div class="tt">Financial Statements</div></div><div class="bn">3.</div></div>
-<p class="fine">Accrual basis. Prior-year YTD restated: $308,921 of FY25 W+FF ticket revenue (recognized as sold last year, deferred to July this year) is moved out of the Nov&ndash;Jun comparative for consistency — FY25&rsquo;s closed books are unchanged (as booked: $1,767,258 revenue / $250,661 net).</p>
+<p class="fine">Accrual basis. <b>No prior-year restatement this month.</b> June&rsquo;s report moved $308,921 of FY25 W+FF ticket revenue out of the Nov&ndash;Jun comparative because FY26&rsquo;s festival was still post-period. At nine months both years contain a full festival &mdash; FY25 recognised as sold in spring 2025, FY26 at the July 2026 event &mdash; so the columns are directly comparable as booked.</p>
 <div class="stitle">Statement of Activities — Budget vs. Actual &amp; Prior Year</div>
 <div class="compact"><table>{soa}</table></div>
 <div class="stitle">Statement of Cash Flows — Reconciling Net Revenue to Cash</div>
 <div class="compact"><table>
 <tr class="hd"><td>Cash Flows (indirect method)</td><td class="n">FY26 YTD</td><td class="n">FY25 YTD</td><td class="n v">Change</td></tr>
 <tr class="hd2"><td colspan="4">Operating Activities</td></tr>
-<tr><td class="lbl">Net revenue / change in net assets</td><td class="n">($20,587)</td><td class="n">$250,661</td><td class="n v">($271,248)</td></tr>
-<tr><td class="lbl">Receivables collected / (extended)</td><td class="n">$65,596</td><td class="n">($112,428)</td><td class="n v">$178,025</td></tr>
-<tr><td class="lbl">Deferred revenue collected for future events</td><td class="n">$249,562</td><td class="n">$11,181</td><td class="n v">$238,381</td></tr>
-<tr><td class="lbl">Inventory build &amp; artist advances</td><td class="n">($64,633)</td><td class="n">$34,403</td><td class="n v">($99,037)</td></tr>
-<tr><td class="lbl">Payables &amp; other working capital</td><td class="n">($2,494)</td><td class="n">($11,728)</td><td class="n v">$9,234</td></tr>
-<tr class="b"><td class="lbl">Net cash provided by operating activities</td><td class="n">$227,443</td><td class="n">$172,089</td><td class="n v">$55,355</td></tr>
+{cfrow("Net revenue / change in net assets","ni")}
+{cfrow("Receivables collected / (extended)","ar")}
+{cfrow("Deferred revenue collected for future events","defr")}
+{cfrow("Inventory build &amp; artist advances","inv")}
+{cfrow("Payables &amp; other working capital","wc")}
+{cfrow("Net cash provided by operating activities","op",bold=True)}
 <tr class="hd2"><td colspan="4">Investing Activities</td></tr>
-<tr><td class="lbl">Leasehold improvements</td><td class="n">$0</td><td class="n">($26,772)</td><td class="n v">$26,772</td></tr>
+{cfrow("Leasehold improvements","invest")}
 <tr class="hd2"><td colspan="4">Financing Activities</td></tr>
-<tr><td class="lbl">Construction loans, net (FY26: paydown; FY25: $1.0M draw less $950k retirement)</td><td class="n">($100,000)</td><td class="n">$50,000</td><td class="n v">($150,000)</td></tr>
-<tr class="b"><td class="lbl">Net change in cash</td><td class="n">$127,443</td><td class="n">$195,317</td><td class="n v">($67,873)</td></tr>
-<tr class="b"><td class="lbl">Cash at end of period</td><td class="n">$582,444</td><td class="n">$375,629</td><td class="n v">$206,815</td></tr>
+{cfrow("Construction loans, net (FY26: $100k paydown; FY25: $1.0M draw less $950k retirement)","fin")}
+{cfrow("Net change in cash","net",bold=True)}
+{cfrow("Cash at end of period","cash_end",bold=True)}
 </table></div>
-<div class="stitle">Statement of Financial Position — June 30</div>
+<div class="stitle">Statement of Financial Position — July 31</div>
 <div class="compact"><table>{sfp}</table></div>
 
 
@@ -661,7 +708,7 @@ open("finance_cover.html","w").write(_head+_cover+"</body></html>")
 _rest_body=_rest.replace("</body></html>","")
 RUNHEAD=("<div class=\'runhead\'><div class=\'rleft\'><img src=\'"+ROOF_URI+"\'/>"
  "<span>The Center for the Arts &middot; Finance Committee Report</span></div>"
- "<span>FY2026 Year-to-Date &middot; 07.23.2026</span></div>")
+ "<span>FY2026 Year-to-Date &middot; 08.17.2026</span></div>")
 RUNFOOT=("<div class=\'runfoot\'><span style=\'background:#fff;padding:0 6px\'>crestedbuttearts.org</span>"
  "<span style=\'background:#fff;padding:0 6px\'>Prepared for the Finance Committee &middot; Not Audited</span></div>")
 BODY=("<table class=\'pagetbl\'><thead><tr><td>"+RUNHEAD+"</td></tr></thead>"
