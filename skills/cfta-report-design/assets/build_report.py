@@ -373,7 +373,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 4.0</div><div class="tt">Programming</div></div><div class="bn">4.</div></div>
-<div class="lede"><b>Basis: November&ndash;June.</b> The July concert calendar (Summer Classics) and the festival are not yet folded into the per-event analysis below; the festival is reported in Section 2.0. The concert lineup delivered <b>$360k of ticket revenue</b> (+51% vs FY25) across 13 headline shows and <b>5,968 attendees</b>, for an estimated <b>$118k net contribution</b> before overhead and a <b>$24k net direct contribution</b> after co-production splits, show labor, hospitality and alcohol — <b>ten times FY24 and the best of the last three years</b>. The standout is the <b>String Cheese Incident</b> — a June touring slot budgeted at roughly <b>$10k</b> became two sold-out nights that delivered <b>$151k</b>, the largest favorable programming variance of the year and the main reason earned revenue beat plan.</div>
+<div class="lede"><b>Complete through July 31.</b> July added no ticketed headline concerts &mdash; the month belonged to the Arts Ball and the festival (Section 2.0) and to the free summer series (below), so the per-event table is the full FY26 ticketed lineup to date. The concert lineup delivered <b>$360k of ticket revenue</b> (+51% vs FY25) across 13 headline shows and <b>5,968 attendees</b>, for an estimated <b>$118k net contribution</b> before overhead and a <b>$24k net direct contribution</b> after co-production splits, show labor, hospitality and alcohol — <b>ten times FY24 and the best of the last three years</b>. The standout is the <b>String Cheese Incident</b> — a June touring slot budgeted at roughly <b>$10k</b> became two sold-out nights that delivered <b>$151k</b>, the largest favorable programming variance of the year and the main reason earned revenue beat plan.</div>
 
 <h3>Per-Event P&amp;L — Concert Lineup (Nov&ndash;Jun)</h3>
 <div class="compact"><table><tr class="hd"><td>Event</td><td class="n">Date</td><td class="n">Tickets</td><td class="n">Bar (net est.)</td><td class="n">Perf. Fee</td><td class="n">Staffing</td><td class="n">Other</td><td class="n">Est. Net</td></tr>
@@ -418,6 +418,10 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 
 
 <p class="note"><b>Grants:</b> institutional grant income totals <b>$58,050 YTD</b> against $15,500 in the same FY25 period — <b>up 274%</b> and already 2.3&times; all of FY25 ($24,918), nearly all restricted to programs. Sources: <b>MetRec $40,460</b> (new), Creative District $7,500 (flat), Town of Crested Butte $7,350 (new, Fall + Spring), other $2,740. A defined foundation and government pipeline is the clearest opportunity to grow contributed revenue in FY27.</p>
+<div style="border:1px solid #d5e0f0; border-radius:6px; background:#fff; padding:5px 10px; margin:6px 0; font-size:9px;">
+<b style="color:#0A3A82;">July &mdash; the Free-Series Month</b>
+<p class="note" style="margin-top:3px;">With the Ball and the festival occupying the ticketed calendar, July&rsquo;s own programming was the <b>free summer series</b>, where the economics run through the bar. <b>Alpenglow&rsquo;s four July Mondays did $42,157 of bar</b> (Jul 6 $8,038 &middot; Jul 13 $9,781 &middot; Jul 20 $7,768 &middot; Jul 27 <b>$16,570 &mdash; the biggest Alpenglow night of the season</b>), against $47,916 in the same four-Monday window last year (&minus;12%). Season to date across seven nights: <b>$83,230, +7% over the prior-year window</b> ($78,037), pacing toward &plusmn;$110k against $99k for the full 2025 season. <b>Summer Classics</b> continued its donation-based Tuesday courtyard run (National Repertory Orchestra Jul 14, Hiroya Tsukamoto Jul 21, CopyCat Returns Jul 28). Day-of-show artist payments for the July free series totalled <b>$7,300</b> (Hawthorne $4,500, Tsukamoto $1,300, CopyCat Returns $1,500), plus a $2,000 advance for Clay Street Unit (Aug 10). Attribution: 2026 order-net incl. cash on local-time nights; 2025 card-net &mdash; same conventions as the Alpenglow table in Section 5.</p></div>
+
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 5.0</div><div class="tt">Bar &amp; Concessions</div></div><div class="bn">5.</div></div>
 
@@ -483,19 +487,22 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <p class="note">Three phases now: the winter run (Dec&ndash;Mar, 39%), the June launch (30%) and the July festival month (23%) &mdash; July delivered the highest average ticket of the year at $16.77 on the festival crowd. Est. tip rate runs 14&ndash;20% (card tips + 20% assumed on cash sales); April&ndash;May is the shoulder.</p>
 </div>
 <div style="flex:1">
-<p class="tcap">Alpenglow free concert series &mdash; this year vs. prior (through June 30)</p>
+<p class="tcap">Alpenglow free concert series &mdash; this year vs. prior (through July 31)</p>
 <table>
 <tr class="hd"><td>Alpenglow night</td><td class="n">Bar Rev</td></tr>
 <tr><td class="lbl">2026 &middot; Mon Jun 15</td><td class="n">$9,986</td></tr>
 <tr><td class="lbl">2026 &middot; Mon Jun 22</td><td class="n">$17,367</td></tr>
 <tr><td class="lbl">2026 &middot; Mon Jun 29</td><td class="n">$13,720</td></tr>
-<tr class="b"><td class="lbl">2026 Alpenglow (3 nights)</td><td class="n">$41,073</td></tr>
-<tr><td class="lbl">2025 &middot; same three-night window</td><td class="n">$30,121</td></tr>
-<tr><td class="lbl">2024 &middot; same three-night window</td><td class="n">$32,843</td></tr>
+<tr><td class="lbl">2026 &middot; Mon Jul 6</td><td class="n">$8,038</td></tr>
+<tr><td class="lbl">2026 &middot; Mon Jul 13</td><td class="n">$9,781</td></tr>
+<tr><td class="lbl">2026 &middot; Mon Jul 20</td><td class="n">$7,768</td></tr>
+<tr><td class="lbl">2026 &middot; Mon Jul 27</td><td class="n">$16,570</td></tr>
+<tr class="b"><td class="lbl">2026 season to date (7 nights)</td><td class="n">$83,230</td></tr>
+<tr><td class="lbl">2025 &middot; same seven-night window</td><td class="n">$78,037</td></tr>
 <tr><td class="lbl">2025 full season (9 nights)</td><td class="n">$99,383</td></tr>
 <tr><td class="lbl">2024 full season (9 nights)</td><td class="n">$97,658</td></tr>
 </table>
-<p class="note">2026&rsquo;s three June nights did <b>$41,073 — +36% over the same window in 2025</b> ($30,121) and <b>+25% over 2024</b> ($32,843) — pacing toward a <b>&plusmn;$120k+ season</b> vs $99k in 2025 and $98k in 2024. Night-of attribution: summer-Monday POS shifted to local time (prior years card-net; 2026 order-net incl. cash).</p>
+<p class="note">Seven nights in, 2026 Alpenglow bar stands at <b>$83,230 &mdash; +7% over the same window in 2025</b> ($78,037). June ran hot (+36%); the four July Mondays cooled to &minus;12% YoY, with <b>Jul 27 the biggest night of the season at $16,570</b>. Pacing toward <b>&plusmn;$110k</b> vs $99k (2025) and $98k (2024) full seasons. Night-of attribution: local-time nights; 2026 order-net incl. cash (July nights local-calendar-day), prior years card-net.</p>
 </div>
 </div>
 
@@ -631,43 +638,43 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 8.0</div><div class="tt">Donor Intelligence</div></div><div class="bn">8.</div></div>
-<div class="lede">Sixty-four <b>new donors</b> gave for the first time this year, while <b>281 donors who gave last year have not yet renewed</b> — representing &plusmn;$1.0M of prior giving to re-engage (much of it typically lands at year-end; the Arts Ball has now passed, so the remaining re-engagement window is the fall appeal and year-end). The cross-system prospect model surfaces a deep bench of <b>new potential donors</b> with demonstrated capacity.</div>
+<div class="lede">The Arts Ball transformed the donor picture. <b>117 new donors</b> have now given for the first time this year (64 at the June report) with <b>$195,736</b> of first-year giving, and the unrenewed pipeline fell from &plusmn;$1.0M to <b>237 donors / &plusmn;$551k</b> as prior-year donors renewed at the Ball. The remaining re-engagement window is the fall appeal and year-end. The cross-system prospect model surfaces a deep bench of <b>new potential donors</b> with demonstrated capacity.</div>
 
 <div class="kpis">
-<div class="kpi"><div class="k">New Donors (FY26 YTD)</div><div class="val">64</div><div class="d">$37,121 first-time gifts</div></div>
-<div class="kpi"><div class="k">Not Yet Renewed</div><div class="val">281</div><div class="d">&plusmn;$1.02M prior giving</div></div>
-<div class="kpi"><div class="k">New Prospects (Hot/Warm)</div><div class="val">2,833</div><div class="d">scored, never given</div></div>
-<div class="kpi"><div class="k">Upgrade Candidates</div><div class="val">142</div><div class="d">current, high capacity</div></div>
+<div class="kpi"><div class="k">New Donors (FY26 YTD)</div><div class="val">117</div><div class="d">$195,736 first-year giving</div></div>
+<div class="kpi"><div class="k">Not Yet Renewed</div><div class="val">237</div><div class="d">&plusmn;$551k prior giving</div></div>
+<div class="kpi"><div class="k">New Prospects (Hot/Warm)</div><div class="val">1,350</div><div class="d">scored, never given</div></div>
+<div class="kpi"><div class="k">Upgrade Candidates</div><div class="val">47</div><div class="d">current, high capacity</div></div>
 </div>
 <div class="kpis">
-<div class="kpi"><div class="k">Donors YTD</div><div class="val">274</div><div class="d">+14% vs 241 last year</div></div>
-<div class="kpi"><div class="k">Mid-Year Retention</div><div class="val">48%</div><div class="d">rises through year-end</div></div>
-<div class="kpi"><div class="k">Median Gift</div><div class="val">$500</div><div class="d">vs $1,000 last year</div></div>
-<div class="kpi"><div class="k">Top-10 Share</div><div class="val">43%</div><div class="d">of CRM cash, down from 46%</div></div>
+<div class="kpi"><div class="k">Donors YTD</div><div class="val">395</div><div class="d">+6% vs 372 last year</div></div>
+<div class="kpi"><div class="k">Retention to Date</div><div class="val">42%</div><div class="d">of all FY25 donors; rises through year-end</div></div>
+<div class="kpi"><div class="k">Median Gift</div><div class="val">$759</div><div class="d">vs $1,000 last year</div></div>
+<div class="kpi"><div class="k">Top-10 Share</div><div class="val">34%</div><div class="d">of CRM cash, vs 32% last year</div></div>
 </div>
 
-<h3>Donor Base Health — Giving Pyramid (Nov&ndash;Jun, CRM cash received)</h3>
+<h3>Donor Base Health — Giving Pyramid (Nov&ndash;Jul, CRM cash received)</h3>
 <table>
 <tr class="hd"><td>Gift band (per-donor total)</td><td class="n">FY26 Donors</td><td class="n">FY26 $</td><td class="n">FY25 Donors</td><td class="n">FY25 $</td><td class="n">Read</td></tr>
-<tr><td class="lbl">$25,000+</td><td class="n">12</td><td class="n">$505,841</td><td class="n">14</td><td class="n">$772,307</td><td class="n">Front Row payment timing</td></tr>
-<tr><td class="lbl">$10,000 &ndash; $24,999</td><td class="n">27</td><td class="n">$327,720</td><td class="n">26</td><td class="n">$347,401</td><td class="n">stable core</td></tr>
-<tr><td class="lbl">$5,000 &ndash; $9,999</td><td class="n">15</td><td class="n">$89,620</td><td class="n">22</td><td class="n">$138,988</td><td class="n">soft — upgrade focus</td></tr>
-<tr><td class="lbl">$1,000 &ndash; $4,999</td><td class="n">62</td><td class="n">$112,202</td><td class="n">78</td><td class="n">$164,166</td><td class="n">soft — upgrade focus</td></tr>
-<tr><td class="lbl">$250 &ndash; $999</td><td class="n">59</td><td class="n">$23,831</td><td class="n">44</td><td class="n">$20,090</td><td class="n">growing</td></tr>
-<tr><td class="lbl">Under $250</td><td class="n">99</td><td class="n">$9,767</td><td class="n">57</td><td class="n">$6,262</td><td class="n"><b>base broadening +74%</b></td></tr>
-<tr class="b"><td class="lbl">Total</td><td class="n">274</td><td class="n">$1,068,981</td><td class="n">241</td><td class="n">$1,449,213</td><td class="n"></td></tr>
+<tr><td class="lbl">$25,000+</td><td class="n">14</td><td class="n">$678,418</td><td class="n">18</td><td class="n">$792,218</td><td class="n">Front Row payment timing</td></tr>
+<tr><td class="lbl">$10,000 &ndash; $24,999</td><td class="n">45</td><td class="n">$589,851</td><td class="n">41</td><td class="n">$543,627</td><td class="n">growing core &mdash; Ball gifts</td></tr>
+<tr><td class="lbl">$5,000 &ndash; $9,999</td><td class="n">27</td><td class="n">$157,501</td><td class="n">38</td><td class="n">$229,319</td><td class="n">soft &mdash; upgrade focus</td></tr>
+<tr><td class="lbl">$1,000 &ndash; $4,999</td><td class="n">108</td><td class="n">$181,035</td><td class="n">115</td><td class="n">$206,581</td><td class="n">soft &mdash; upgrade focus</td></tr>
+<tr><td class="lbl">$250 &ndash; $999</td><td class="n">78</td><td class="n">$33,815</td><td class="n">81</td><td class="n">$38,850</td><td class="n">steady</td></tr>
+<tr><td class="lbl">Under $250</td><td class="n">123</td><td class="n">$12,598</td><td class="n">79</td><td class="n">$8,749</td><td class="n"><b>base broadening +56%</b></td></tr>
+<tr class="b"><td class="lbl">Total</td><td class="n">395</td><td class="n">$1,653,218</td><td class="n">372</td><td class="n">$1,819,344</td><td class="n"></td></tr>
 </table>
-<p class="note"><b>Base broadening, middle soft:</b> donors +14% YoY (entry-level +74%); the $1k&ndash;$10k middle (77 vs 100) is the upgrade target. $25k+ band = Front Row installment timing. Top-10 households = 43% of CRM cash (from 46%).</p>
-<p class="note"><b>Counts are floors:</b> the books show &asymp;$1,196k of donor cash Nov&ndash;Jun vs $1,068,981 in the CRM — &plusmn;$127k (~11%) entry backlog. Presentation-only; no records changed.</p>
+<p class="note"><b>Base broadening, middle soft &mdash; and the core grew:</b> donors +6% YoY with entry-level (+56%) and the $10&ndash;25k band (45 vs 41, lifted by Ball gifts) both up; the $1k&ndash;$10k middle (135 vs 153) remains the upgrade target. $25k+ band = Front Row installment timing. Top-10 constituents = 34% of CRM cash (32% last year).</p>
+<p class="note"><b>Counts are floors:</b> the books show $1,812,037 of contributed revenue incl. Front Row Nov&ndash;Jul vs $1,653,218 of CRM cash &mdash; &plusmn;$159k (~9%) is entry backlog and pledge/AR timing. Presentation-only; no records changed. Basis this month: Bloomerang payments (donations, pledge and recurring payments; pledge commitments excluded) through 7/31. The prospect model was re-scored since June with tighter tiers &mdash; prospect and upgrade counts are not comparable to the June report.</p>
 
 <h3>Retention — Donors Who Gave Last Year, Not Yet This Year</h3>
 <table>
 <tr class="hd"><td>Prior-Year Giving Tier</td><td class="n">Donors</td><td class="n">Prior-Year $</td><td class="lbl2">Priority</td></tr>
-<tr><td class="lbl">$10,000+</td><td class="n">28</td><td class="n">$671,498</td><td class="lbl2" style="padding-left:12px">Personal / ED outreach now</td></tr>
-<tr><td class="lbl">$5,000 – $9,999</td><td class="n">26</td><td class="n">$154,534</td><td class="lbl2" style="padding-left:12px">Personal outreach + event invite</td></tr>
-<tr><td class="lbl">$1,000 – $4,999</td><td class="n">90</td><td class="n">$157,770</td><td class="lbl2" style="padding-left:12px">Targeted appeal / call</td></tr>
-<tr><td class="lbl">Under $1,000</td><td class="n">137</td><td class="n">$39,501</td><td class="lbl2" style="padding-left:12px">Annual appeal</td></tr>
-<tr class="b"><td class="lbl">Total re-engagement pipeline</td><td class="n">281</td><td class="n">$1,023,303</td><td class="lbl2"></td></tr>
+<tr><td class="lbl">$10,000+</td><td class="n">18</td><td class="n">$290,977</td><td class="lbl2" style="padding-left:12px">Personal / ED outreach now</td></tr>
+<tr><td class="lbl">$5,000 &ndash; $9,999</td><td class="n">15</td><td class="n">$91,569</td><td class="lbl2" style="padding-left:12px">Personal outreach + event invite</td></tr>
+<tr><td class="lbl">$1,000 &ndash; $4,999</td><td class="n">77</td><td class="n">$132,261</td><td class="lbl2" style="padding-left:12px">Targeted appeal / call</td></tr>
+<tr><td class="lbl">Under $1,000</td><td class="n">127</td><td class="n">$36,680</td><td class="lbl2" style="padding-left:12px">Annual appeal</td></tr>
+<tr class="b"><td class="lbl">Total re-engagement pipeline</td><td class="n">237</td><td class="n">$551,487</td><td class="lbl2"></td></tr>
 </table>
 <p class="note">A re-engagement worklist, not attrition — year-end and Ball giving were still ahead at 6/30. The <b>28 lapsed $10k+ donors</b> are the priority; named list available to Development.</p>
 
