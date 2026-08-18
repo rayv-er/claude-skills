@@ -243,6 +243,44 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <div class="bignum">$</div>
 </div>
 <!--SPLIT-->
+<div class="sechead"><div><div class="eb">Finance Committee</div><div class="tt">Agenda &amp; Minutes</div></div><div class="bn"></div></div>
+
+<h3>Agenda &mdash; August 17, 2026 &middot; 9:00 am MT &middot; Zoom</h3>
+<div style="border:1px solid #d5e0f0; border-radius:6px; background:#fff; padding:6px 12px; margin:4px 0 10px; font-size:9.5px;">
+<ol style="margin:4px 0 4px 16px; padding:0;">
+<li><b>Welcome</b> &mdash; Dave Ebner
+<ol type="a" style="margin:1px 0 1px 16px;"><li>Approval of meeting agenda</li><li>Approval of June and July meeting minutes</li></ol></li>
+<li><b>Finance Committee</b>
+<ol type="a" style="margin:1px 0 1px 16px;"><li>Review FY26 to date financial report &mdash; through July 31</li><li>FY25 draft audit report (Weaver) &mdash; review</li></ol></li>
+<li><b>Other Updates</b> &mdash; Fidelity accounts open / first stock gift received; new Front Row membership</li>
+<li><b>Fundraising</b></li>
+<li><b>Other Business</b> &mdash; investment policy draft (governance); Wine + Food expansion ad hoc committee</li>
+<li><b>Adjournment</b></li>
+</ol></div>
+
+<h3>Draft Minutes &mdash; Finance Committee Meeting, July 20, 2026</h3>
+<p class="fine">Draft for approval alongside the June minutes, per the chair&rsquo;s request at the meeting.</p>
+
+<p class="note"><b>Attendees:</b> Dave, Scott, Drew, Bill B, Margery (departed early), Brett. Julie joined remotely with limited connectivity. Absent: Jillian, Bill P.<br/>
+<b>Call to order:</b> approx. 9:05 am &middot; <b>Adjourned:</b> 10:07 am</p>
+
+<p class="note"><b>Approval of Minutes.</b> Deferred at the chair&rsquo;s request; the June and July minutes will be taken up together at the next meeting.</p>
+
+<p class="note"><b>Financial Report (Brett).</b> A new automated report format debuted, built in-house and in development since late 2025; committee response was strongly positive, with the addendum sections (programming, bar, rentals, donor intelligence, forward book) welcomed as answering the questions donors and the town most often ask. Figures ran through June 30 with festival ticket sales updated through the Grand Tasting. Contributed revenue tracked ahead of budget on early payment of larger gifts; payroll under budget on vacancies; programming over budget on the String Cheese booking (a roughly $120k act in a $10k budget slot), offset by the earned revenue it drove. Cash stood near $500k at June 30 and closer to $1M by meeting date, with $100k of debt paid down and roughly $288k of deferred revenue still to recognize. FY25 W+FF revenue was restated (presentation only) into July for a clean comparison. Front Row pledge completions were identified as the main P&amp;L risk for the balance of the year. Committee requests: replace the tilde with &plusmn;, larger text, a true cash-flow statement alongside the accrual reconciliation, and a revenue-by-stream margin analysis with staff time allocated &mdash; Brett to add for the next report and the upcoming budget sessions.</p>
+
+<p class="note"><b>Arts Ball.</b> A record year &mdash; over $900k with roughly $10k of AR still to reconcile; table and ticket sales up about $100k over prior year and sold quickly, with the waitlist fully absorbed. Costs of roughly $50k were in line with budget. The event is right-sized for the venue; the first-slot-of-July date is working and will be kept. Longer-term model discussed: folding the paddle raise into table pricing.</p>
+
+<p class="note"><b>Wine + Food Festival.</b> Effectively sold out across events &mdash; Grand Tasting near 700 attendees including VIP, Tour de Forks dinners and patron passes sold out. Projected at or above the $404.5k budget once two August dinners land. The in-house ticketing platform, built this spring, performed flawlessly at check-in and saved $10&ndash;15k in platform fees. Estimated profitability $100&ndash;150k against a $180k budget and $140k prior year, with expenses tracking under. Opportunities noted: a more robust sponsorship program and a rebuilt volunteer program to reduce staffing cost. Community Foundation (Ashley Upchurch) will coordinate the crowded July nonprofit calendar; Gunnison Tough is open to staggering dates; no plan to move the gala.</p>
+
+<p class="note"><b>Fidelity Accounts &amp; Cash Management.</b> Brett presented the Fidelity relationship: a brokerage account to receive stock gifts (saving an easy $5k+ per year in banking fees, with roughly $150k of stock gifts anticipated) and an adjacent interest-bearing account to hold proceeds &mdash; the start of a deliberate reserve posture. <b>Motion by Bill B, seconded by Drew, to authorize opening the Fidelity brokerage and interest-bearing accounts; approved.</b> Separately, the Community Banks cash sweep was renegotiated to 3.25% less 20 bps for FDIC coverage (&asymp;3.05% effective, from 2.1%). Fidelity will also support SIMPLE IRA employee accounts and improved benefits administration; governance takes that up next month.</p>
+
+<p class="note"><b>Investment Policy.</b> Next steps agreed: draft investment policies and procedures (Brett has working drafts) to the governance committee, then to the board, together with the constitution of an investment committee &mdash; possibly including non-board advisors such as Bob. The committee emphasized clarity of purpose first, since an operating or capital reserve calls for a different strategy than an endowment.</p>
+
+<p class="note"><b>Donor Intelligence &amp; Front Row.</b> The new cross-referencing system surfaced four to five strong Front Row candidates from festival week; names are withheld from the written report by design. Bill&rsquo;s post-pledge renewal structure for members terming off has been kickstarted.</p>
+
+<p class="note"><b>Other Business.</b> Drew to circulate ideas on broadening the festival (wine + food + lifestyle), with a possible ad hoc committee to move quickly given planning timelines. An executive committee session will be pulled together on broader strategic conversations. The committee congratulated staff on an exceptional month &mdash; and on a meeting spent discussing opportunities rather than agonizing over numbers.</p>
+
+<div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 1.0</div><div class="tt">Executive Summary</div></div><div class="bn">1.</div></div>
 <div class="lede">Net revenue of <b>{m(A['netrev'])}</b> for the first nine months. The summer earning season landed in July, and it delivered: revenue of <b>$2.85M</b> is <b>${rev_vs_bud:,.0f} ahead of budget</b> and <b>${rev_vs_py:,.0f} ahead of the prior year</b>, while expenditures of <b>$2.17M</b> came in <b>${abs(exp_vs_bud):,.0f} under the year-to-date budget</b>. Operating income of <b>{m(A['netop'])}</b> stands <b>${A['netop']-B['netop']:,.0f} (+27%) favorable to plan</b>.</div>
 
