@@ -258,6 +258,17 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <li><b>Adjournment</b></li>
 </ol></div>
 
+<h3>Draft Minutes &mdash; Finance Committee Meeting, June 15, 2026</h3>
+<p class="note"><b>Attendees:</b> Dave, Drew, Margery, Brett; Jillian joined late. Absent: Bill B, Bill P, Scott, Julie. <b>Call to order:</b> 9:07 am (quorum of four).<br/>
+<b>Approval of Minutes</b> May minutes approved by motion; agenda approved.</p>
+<p class="note"><b>String Cheese Incident</b> Congratulations to staff and board &mdash; the biggest performance to date in reach, revenue and cost, streamed worldwide, executed without a hitch. Estimated net $25&ndash;30k, roughly the net of all concerts combined in some prior years; the band (first-ever show was in the old Center, 1993) is interested in returning for a three-night run.</p>
+<p class="note"><b>Financial Report (Brett)</b> Tracking ahead of budget and prior year on cost control and stronger revenue. Alpenglow underwriting &asymp;$170k against a $150k goal; the mailer drew &asymp;60 unique donors including 10 brand-new (gifts of $5k, $10k and $15k among them). Cash held at $600k+ through the slow season, expected to exceed $1M by late summer &mdash; the strongest position in four years. Expenses down $60k YoY; contributed plus earned revenue up &asymp;$300k. Front Row behind prior-year pace &mdash; additional pledges to secure; new candidates emerging, including proactive outreach from prospective major donors.</p>
+<p class="note"><b>Staffing</b> Julia Brazil hired as executive assistant (starts July 6) &mdash; local, accountant by trade, former KBUT executive director.</p>
+<p class="note"><b>Grants</b> MetRec awarded &asymp;$40k (first-time; receivable to be booked). Roughly $50k of additional grant receivables plus applications in progress, including a first NEA application for literary programming via the Town&rsquo;s grant writers.</p>
+<p class="note"><b>Building &amp; Town</b> BOZAR building-capacity approval secured permanently (school-lot MOU condition; 400-person cap this summer during school construction). Committee supported reapproaching the Town on building ownership this fall as an update-style conversation; the Center&rsquo;s insurance inquiry prompted a Town-wide policy audit by the new Town finance director.</p>
+<p class="note"><b>Systems</b> Payroll migration from QuickBooks to Gusto underway after repeated service failures; benefits review planned for fall.</p>
+<p class="note"><b>Arts Ball</b> Sold out well ahead of prior years; logistics under control; guest list strong. Adjourned by motion.</p>
+
 <h3>Draft Minutes &mdash; Finance Committee Meeting, July 20, 2026</h3>
 <p class="note"><b>Attendees:</b> Dave, Scott, Drew, Bill B, Margery (departed early), Brett. Julie joined remotely with limited connectivity. Absent: Jillian, Bill P.<br/>
 <b>Call to order:</b> approx. 9:05 am &middot; <b>Adjourned:</b> 10:07 am</p>
