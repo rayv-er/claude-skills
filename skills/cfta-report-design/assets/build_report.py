@@ -270,7 +270,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <p class="note"><b>Arts Ball</b> Sold out well ahead of prior years; logistics under control; guest list strong. Adjourned by motion.</p>
 
 <h3>Draft Minutes &mdash; Finance Committee Meeting, July 20, 2026</h3>
-<p class="note"><b>Attendees:</b> Dave, Scott, Drew, Bill B, Margery (departed early), Brett. Julie joined remotely with limited connectivity. Absent: Jillian, Bill P.<br/>
+<p class="note"><b>Attendees:</b> Dave, Scott, Drew, Bill B, Margery (departed early), Jillian, Brett. Julie joined remotely with limited connectivity. Absent: Bill P.<br/>
 <b>Call to order:</b> approx. 9:05 am &middot; <b>Adjourned:</b> 10:07 am</p>
 <p class="note"><b>Approval of Minutes</b> Deferred; June and July minutes to be taken up together at the next meeting.</p>
 <p class="note"><b>Financial Report (Brett)</b> New automated report format debuted, built in-house; committee response positive, with the addendum sections welcomed. Figures through June 30, festival ticket sales through the Grand Tasting. Contributed revenue ahead of budget on early payment of larger gifts; payroll under on vacancies; programming over on String Cheese, offset by the revenue it drove. Cash near $500k at June 30 and closer to $1M by meeting date; $100k of debt paid down; roughly $288k of deferred revenue still to recognize. Front Row pledge completions identified as the main P&amp;L risk. Requests: &plusmn; instead of tilde, larger text, a true cash-flow view alongside the reconciliation, and revenue-by-stream margins with staff time &mdash; Brett to add.</p>
