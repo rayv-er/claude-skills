@@ -405,7 +405,17 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 4.0</div><div class="tt">Programming</div></div><div class="bn">4.</div></div>
-<div class="lede"><b>Complete through July 31.</b> July added no ticketed headline concerts &mdash; the month belonged to the Arts Ball and the festival (Section 2.0) and to the free summer series (below), so the per-event table is the full FY26 ticketed lineup to date. The concert lineup delivered <b>$360k of ticket revenue</b> (+51% vs FY25) across 13 headline shows and <b>5,968 attendees</b>, for an estimated <b>$118k net contribution</b> before overhead and a <b>$24k net direct contribution</b> after co-production splits, show labor, hospitality and alcohol — <b>ten times FY24 and the best of the last three years</b>. The standout is the <b>String Cheese Incident</b> — a June touring slot budgeted at roughly <b>$10k</b> became two sold-out nights that delivered <b>$151k</b>, the largest favorable programming variance of the year and the main reason earned revenue beat plan.</div>
+<div class="lede">The FY26 ticketed lineup &mdash; complete through July 31 &mdash; delivered <b>$360k of ticket revenue</b> (+51% vs FY25) across 13 headline shows and 5,968 attendees, for a <b>$24k net direct contribution</b>, ten times FY24. <b>July was the free-series month</b>: no ticketed headline concerts &mdash; the Ball and the festival (Section 2.0) held the calendar, and July&rsquo;s own programming ran through Alpenglow and Summer Classics, below.</div>
+
+<div style="border:1px solid #d5e0f0; border-radius:6px; background:#fff; padding:5px 10px; margin:5px 0; font-size:9px;">
+<b style="color:#0A3A82;">July &mdash; the Free-Series Month</b>
+<div class="compact"><table style="margin-top:4px;">
+<tr class="hd"><td>Free series &mdash; bar revenue by night</td><td class="n">2026</td><td class="n">2025 window</td><td class="n v">YoY</td></tr>
+<tr><td class="lbl">Alpenglow &mdash; four July Mondays (Jul 27: $16,570, biggest night of the season)</td><td class="n">$42,157</td><td class="n">$47,916</td><td class="n v">&minus;12%</td></tr>
+<tr class="b"><td class="lbl">Alpenglow season to date &mdash; seven nights</td><td class="n">$83,230</td><td class="n">$78,037</td><td class="n v">+7%</td></tr>
+</table></div>
+<p class="fine">Pacing toward &plusmn;$110k vs $99k full-2025 season. Summer Classics ran its donation-based Tuesday courtyard slate (NRO Jul 14, Tsukamoto Jul 21, CopyCat Returns Jul 28); July day-of-show artist payments $7,300 plus a $2,000 August advance. Attribution: 2026 order-net incl. cash, local-time nights; 2025 card-net.</p></div>
+
 
 <h3>Per-Event P&amp;L — Concert Lineup (FY26 to date)</h3>
 <div class="compact"><table><tr class="hd"><td>Event</td><td class="n">Date</td><td class="n">Tickets</td><td class="n">Bar (net est.)</td><td class="n">Perf. Fee</td><td class="n">Staffing</td><td class="n">Other</td><td class="n">Est. Net</td></tr>
@@ -443,17 +453,13 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr><td class="lbl">Largest single artist commitment</td><td class="n">$27,425</td><td class="n">&mdash;</td><td class="n">$75,500</td></tr>
 <tr><td class="lbl">Beckwith donated lodging (in-kind, no cash)</td><td class="n">&mdash;</td><td class="n">$30,000</td><td class="n">$15,000</td></tr>
 </table></div>
-<p class="note"><b>The zen garden approach took three years to pay.</b> The FY24 commitment to fewer, higher-quality, more harmonious programming took shape in FY25 and delivered in FY26. FY24 ran roughly break-even ($2,253); FY25 was the transition trough at <b>($16,685)</b>; FY26 returned <b>$24,054, ten times FY24 on 39% more direct revenue</b>. Artist investment rose <b>47% to $317k</b> and the artist share of direct cost climbed to <b>65%</b>, with the largest single commitment going from <b>$27k to $75.5k</b> — the String Cheese booking alone returned $151k in tickets. Show labor tracks the work rather than the calendar: it is a near-constant <b>36&ndash;41% of net ticket sales</b> in all three years.</p>
-<p class="note"><b>Basis.</b> Concert and series only, excluding festivals and Arts Ball, on identical footing all three years. <b>FY24 ticket revenue is rebuilt from the monthly Humanitix earnings reports filed as support to the revenue journal entries</b> (27 events, deduped, each taken at its final snapshot) because the ledger&rsquo;s &ldquo;Funds Held by Humanitix&rdquo; captions cover all channels and cannot separate concert from festival income. Those reports reconcile to the entries they support — the 31 Jan and 30 Apr files tie exactly to $71,338 and $30,638. <b>Co-production splits are identified by event, not ledger label</b>, and deducted in every year; FY25&rsquo;s Nutcracker split posts as &ldquo;2024.12.13 - Nutcracker&rdquo; with no co-pro wording. Bar is account 4110.11, programming nights only. <b>Show labor is event, tech, bar, set-up, overtime and tipped wages</b>; gallery, facilities, consulting/coordination and rental staffing are excluded from all three years because FY24 carried roles in programming payroll that FY26 does not. FY24 alcohol includes $16,262 of distributor invoices miscoded to Catering. FY26 hospitality excludes $5,961 of winter lodging pending confirmation. <b>The gallery is excluded from both revenue and staffing in all three years</b> — its wages fell $17,327 &rarr; $4,313 &rarr; nil as the retail role was wound down, which is a staffing decision unrelated to producing shows and would otherwise distort the labor line.</p>
+<p class="fine">Three-year arc: FY24 &asymp;break-even ($2k) &rarr; FY25 trough (($17k)) &rarr; FY26 +$24k on 39% more direct revenue; artist share of direct cost rose to 65% and show labor held a near-constant 36&ndash;41% of net ticket sales.</p>
+<p class="fine">Basis: concert and series only, excluding festivals and the Arts Ball, on identical Nov&ndash;Jun footing all three years; FY24 ticket revenue rebuilt from the monthly Humanitix earnings reports that support the revenue JEs (the 31 Jan and 30 Apr files tie exactly); co-production splits identified by event and deducted in every year; gallery staffing excluded throughout. Full methodology on file.</p>
 
-<p class="note"><b>Co-productions and adjustments:</b> the Center pays the partner a share of ticket sales, netted into Est. Net. FY26 payouts: <b>School of Dance / Nutcracker $15,859 (75%)</b>, <b>Ski Patrol $9,764 (80%, community benefit)</b>, Rocky Horror $1,974; Alpenphunk carries an estimated <b>$15,000</b> (two nights). Ski Patrol Motet fee corrected to $4,000; Deadhead Ed&rsquo;s staffing shown at <b>actual wages ($2,661)</b>, not the April pooled allocation ($9,434). Humanitix net box-office; bar = event-night POS. Arts Ball and W+FF are reported in Section 2.0; Mountain Words (May) is within YTD.</p>
+<p class="fine">Co-production payouts, netted into Est. Net &mdash; FY26: School of Dance / Nutcracker $16k (75%), Ski Patrol $10k (80%, community benefit), Rocky Horror $2k; Alpenphunk carries an estimated $15k (two nights). Arts Ball and W+FF are reported in Section 2.0; Mountain Words (May) is within YTD.</p>
 
 
-<p class="note"><b>Grants: institutional grant income totals $61.5k YTD against $24.9k in the same FY25 period — up 147% and already 2.5x all of FY25 ($24.9k), nearly all restricted to programs. Sources: <b>MetRec $40,460</b> (new), Creative District $7,500 (flat), Town of Crested Butte $7,350 (new, Fall + Spring), other $2,740. A defined foundation and government pipeline is the clearest opportunity to grow contributed revenue in FY27.</p>
-<div style="border:1px solid #d5e0f0; border-radius:6px; background:#fff; padding:5px 10px; margin:6px 0; font-size:9px;">
-<b style="color:#0A3A82;">July &mdash; the Free-Series Month</b>
-<p class="note" style="margin-top:3px;">With the Ball and the festival occupying the ticketed calendar, July&rsquo;s own programming was the <b>free summer series</b>, where the economics run through the bar. <b>Alpenglow&rsquo;s four July Mondays did $42,157 of bar</b> (Jul 6 $8,038 &middot; Jul 13 $9,781 &middot; Jul 20 $7,768 &middot; Jul 27 <b>$16,570 &mdash; the biggest Alpenglow night of the season</b>), against $47,916 in the same four-Monday window last year (&minus;12%). Season to date across seven nights: <b>$83,230, +7% over the prior-year window</b> ($78,037), pacing toward &plusmn;$110k against $99k for the full 2025 season. <b>Summer Classics</b> continued its donation-based Tuesday courtyard run (National Repertory Orchestra Jul 14, Hiroya Tsukamoto Jul 21, CopyCat Returns Jul 28). Day-of-show artist payments for the July free series totalled <b>$7,300</b> (Hawthorne $4,500, Tsukamoto $1,300, CopyCat Returns $1,500), plus a $2,000 advance for Clay Street Unit (Aug 10). Attribution: 2026 order-net incl. cash on local-time nights; 2025 card-net &mdash; same conventions as the Alpenglow table in Section 5.</p></div>
-
+<p class="note"><b><p class="fine">Grants: $61.5k YTD vs $24.9k same FY25 period (+147%; 2.5x all of FY25), nearly all restricted to programs. A defined foundation and government pipeline is the clearest opportunity to grow contributed revenue in FY27.</p>
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 5.0</div><div class="tt">Bar &amp; Concessions</div></div><div class="bn">5.</div></div>
 
@@ -562,7 +568,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 6.0</div><div class="tt">Rentals</div></div><div class="bn">6.</div></div>
-<div class="lede">Rental income of <b>$116,499</b> is <b>+10% ahead of its phased budget</b> but <b>&minus;12% below last year</b> &mdash; the year-over-year picture flipped in July. Facility fees are down <b>&minus;32% YoY</b> because July, normally a strong rental month, was given over to the Wine + Food Festival; that revenue shows up in Section 2, not here. The <b>full-service shift continues</b>: staffing fees are up <b>+24% YoY</b>. Hosted bar is the soft line, down <b>&minus;57% YoY</b> and well short of its phased budget. The forward book carries <b>$93k</b> into the autumn.</div>
+<div class="lede">Rental income of <b>$116,499</b> is <b>+10% vs the phased budget, &minus;12% YoY</b> &mdash; July went to the festival (Section 2.0) rather than third-party rentals. Hosted bar is the soft line (&minus;57% YoY); the forward book carries <b>$93k</b> into autumn.</div>
 
 <div class="kpis">
 <div class="kpi"><div class="k">Rental Income YTD</div><div class="val">$116,499</div><div class="d">+10% vs budget &middot; &minus;12% YoY</div></div>
@@ -581,7 +587,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr><td class="lbl">Hosted Bar (sales + service fee)</td><td class="n">$21,338</td><td class="n">$36,600</td><td class="n v">($15,262)</td><td class="n">$49,200</td><td class="n v">($27,862)</td><td class="n v">-57%</td></tr>
 <tr class="b"><td class="lbl">Total Rental-Related Revenue</td><td class="n">$137,837</td><td class="n">$142,300</td><td class="n v">($4,463)</td><td class="n">$181,541</td><td class="n v">($43,704)</td><td class="n v">-24%</td></tr>
 </table>
-<p class="note">Total 4150 runs <b>+10%</b> ahead of the phased budget but <b>&minus;12%</b> behind prior year; the budget carries all rental income on the Facility line, so line-level variance is mix. The year-over-year swing is July: the building hosted the Wine + Food Festival rather than third-party rentals, and that revenue is reported in Section 2.0. Hosted bar is the genuine soft line &mdash; $21.3k against a $36.6k phased budget and less than half of last year&rsquo;s $49.2k.</p>
+<p class="fine">Budget carries all rental income on the Facility line, so line-level variance is mix. Parent-coded income recodes at close.</p>
 
 <h3>Rental Revenue by Event — Actual (Nov&ndash;Jul)</h3>
 <div class="compact"><table>
@@ -597,7 +603,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr><td class="lbl">July recognitions (Wildflower Festival, rehearsal dinner, rooms; renter detail at the August rec)</td><td class="n">$12,860</td></tr>
 <tr class="b"><td class="lbl">Total Rental Income</td><td class="n">$116,499</td></tr>
 </table></div>
-<p class="note">Actual revenue by renter, in dollars. The Center budgets rentals in aggregate (not per event), so the meaningful comparison is the <b>total: $103,639 actual vs $85,400 budget (+21%)</b>, shown above. Roughly half of rental income posts to the parent account without an event tag &mdash; a coding cleanup opportunity.</p>
+<p class="fine">Budgeted in aggregate, not per event. Roughly half of rental income posts without an event tag &mdash; coding cleanup opportunity.</p>
 <h3>Building Utilization — All 14 Room Calendars (Nov 1 &ndash; Jun 30), Real Activity Only</h3>
 <div class="kpis">
 <div class="kpi"><div class="k">Days in Real Use</div><div class="val">231 / 242</div><div class="d">95% &mdash; events, rentals &amp; classes</div></div>
@@ -621,7 +627,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <tr><td class="lbl">Other</td><td class="n">58</td><td class="n">42</td></tr>
 <tr class="b"><td class="lbl">Total Real Events &amp; Rentals</td><td class="n">445</td><td class="n">171</td></tr>
 </table></div>
-<p class="note">From all 14 room resource calendars in Google Workspace (theaters, studios, Atrium, Gallery, Courtyard, conference and support spaces). The building had scheduled activity on <b>235 of 242 days</b>. Counts are deduplicated across rooms, so one event booking several spaces counts once: dance studios (School of Dance, Wild Hare) ran 320 class sessions, and the 96 external rentals include nonprofit events (Banff, KBUT, WTF Conference), school programs, and weddings. The balance of bookings is Center programming and operations (changeovers, maintenance, load-ins).</p>
+
 
 
 
