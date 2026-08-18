@@ -283,6 +283,8 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <li>Long-term debt <b>{m(BS['loans'])}</b>, down <b>$100,000</b> year over year; YTD interest {m(A['interest'])} drives the below-operating-line figure.</li></ul>
 
 <h3>Other Updates</h3><ul>
+<li><b>FY25 audit draft received &mdash; clean opinion.</b> Weaver&rsquo;s draft report (Version 1, August 13) carries an unmodified opinion on the FY25 and FY24 statements. The draft is circulated with this packet for committee review; findings are summarized in Section 3.0.</li>
+<li><b>New Front Row membership.</b> The Burciagas signed on to Front Row in August &mdash; after the July 31 reporting period, so the pledge is not reflected in these statements. It will be recorded and invoiced with the August close and appear in next month&rsquo;s report.</li>
 <li><b>July closed and reconciled.</b> Operating account reconciled and the bank-feed queue cleared; no uncategorised items remain.</li>
 <li><b>Revenue recognition tightened.</b> The High Note Tour de Fork dinner (Aug 6) had been swept into July by the blanket festival release; <b>$27,900</b> is now correctly deferred to its event month. The festival release will key off per-product event dates going forward.</li>
 <li><b>Processor clearing cleaned up.</b> Event Temple portal payments were landing in Stripe Clearing; ${4965.53:,.2f} was repointed to the rentals receivable, and Stripe Clearing now sits within $25 of zero.</li>
@@ -348,6 +350,20 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 3.0</div><div class="tt">Financial Statements</div></div><div class="bn">3.</div></div>
 <p class="fine">Accrual basis. <b>No prior-year restatement this month.</b> June&rsquo;s report moved $308,921 of FY25 W+FF ticket revenue out of the Nov&ndash;Jun comparative because FY26&rsquo;s festival was still post-period. At nine months both years contain a full festival &mdash; FY25 recognised as sold in spring 2025, FY26 at the July 2026 event &mdash; so the columns are directly comparable as booked.</p>
+
+<div style="border:1px solid #d5e0f0; border-radius:6px; background:#fff; padding:5px 10px; margin:6px 0 8px; font-size:9px;">
+<b style="color:#0A3A82;">FY25 Audit &mdash; Draft Report Received &nbsp;&middot;&nbsp; unmodified (&ldquo;clean&rdquo;) opinion</b>
+<p class="note" style="margin-top:3px;">Weaver&rsquo;s draft audit of the October 31, 2025 and 2024 statements (Version 1, dated August 13; marked draft for discussion) is attached to this packet. The opinion is <b>unmodified</b> &mdash; the statements present fairly in all material respects &mdash; with no going-concern language and no subsequent events requiring disclosure. Highlights:</p>
+<ul style="margin-top:2px;">
+<li><b>GAAP results differ from the internal basis by design.</b> The audit shows an FY25 change in net assets of <b>($360,670)</b> against the internal books&rsquo; +$250,661 &mdash; the gap is almost entirely non-cash: <b>$560,135 of depreciation</b> and $45,570 of contributed-lease amortization, neither of which the internal statements carry.</li>
+<li><b>The cash story confirms the turnaround.</b> Operations generated <b>$248,136</b> of cash in FY25 against ($52,510) used in FY24 &mdash; a $300k swing &mdash; and year-end cash rose to <b>$444,983</b> from $173,619.</li>
+<li><b>Liquidity improved but remains the watch item.</b> Financial assets available for general use within one year nearly tripled to <b>$212,913</b> (from $74,000), still well short of the Center&rsquo;s stated 180-day goal.</li>
+<li><b>Front Row pledges audited at $1,651,864 gross</b>, carried net at $1,444,234 after a $78,485 uncollectibility allowance and $153,655 present-value discount.</li>
+<li><b>Debt restructuring is reflected as expected:</b> the 2019 line was paid in full and replaced by the $1.0M Construction 2025 note (7.5%, $100k/yr to 2035) alongside the $150k EIDL (2.75%, due 2050) &mdash; $1,150,000 total.</li>
+<li>A <b>$1 million conditional promise</b> for the next building phase is disclosed but unrecorded &mdash; it books only when the matching $1 million condition is met.</li>
+<li>Housekeeping flagged by the draft: <b>$194,983</b> of cash exceeded FDIC coverage at 10/31/25 (the renegotiated sweep&rsquo;s FDIC treatment addresses this going forward).</li>
+</ul>
+<p class="fine">Draft for discussion purposes only; dates and firm signature pending. Management review is underway; the final report follows committee review.</p></div>
 <div class="stitle">Statement of Activities — Budget vs. Actual &amp; Prior Year</div>
 <div class="compact"><table>{soa}</table></div>
 <div class="stitle">Statement of Cash Flows — Reconciling Net Revenue to Cash</div>
