@@ -467,7 +467,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <p class="fine">Co-production payouts, netted into Est. Net &mdash; FY26: School of Dance / Nutcracker $16k (75%), Ski Patrol $10k (80%, community benefit), Rocky Horror $2k; Alpenphunk carries an estimated $15k (two nights). Arts Ball and W+FF are reported in Section 2.0; Mountain Words (May) is within YTD.</p>
 
 
-<p class="note"><b><p class="fine">Grants: $61.5k YTD vs $24.9k same FY25 period (+147%; 2.5x all of FY25), nearly all restricted to programs. A defined foundation and government pipeline is the clearest opportunity to grow contributed revenue in FY27.</p>
+<p class="fine">Grants: $61.5k YTD vs $24.9k same FY25 period (+147%; 2.5x all of FY25), nearly all restricted to programs. A defined foundation and government pipeline is the clearest opportunity to grow contributed revenue in FY27.</p>
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 5.0</div><div class="tt">Bar &amp; Concessions</div></div><div class="bn">5.</div></div>
 
@@ -552,24 +552,25 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 </div>
 </div>
 
-<h3>Audience Feedback — NPS (May&ndash;June 2026 events; festival surveys next report)</h3>
+<h3>Audience Feedback — NPS (season to date: responses received May 1 &ndash; Aug 17)</h3>
 <div class="kpis">
-<div class="kpi"><div class="k">NPS — May/Jun</div><div class="val">+71</div><div class="d">35 responses, incl. SCI run</div></div>
-<div class="kpi"><div class="k">Promoters</div><div class="val">28 of 35</div><div class="d">3 detractors</div></div>
-<div class="kpi"><div class="k">Avg Score</div><div class="val">8.9&ndash;10</div><div class="d">by month</div></div>
-<div class="kpi"><div class="k">All-Time NPS</div><div class="val">+80</div><div class="d">799 responses</div></div>
+<div class="kpi"><div class="k">NPS — Season</div><div class="val">+82</div><div class="d">60 responses; SCI run &amp; summer season</div></div>
+<div class="kpi"><div class="k">Promoters</div><div class="val">52 of 60</div><div class="d">3 detractors</div></div>
+<div class="kpi"><div class="k">Avg Score</div><div class="val">9.4</div><div class="d">latest batch 9.8, zero detractors</div></div>
+<div class="kpi"><div class="k">All-Time NPS</div><div class="val">+80</div><div class="d">824 responses</div></div>
 </div>
 <div style="display:flex;gap:20px">
 <div style="flex:1">
 <p class="tcap">What guests loved</p>
-<p class="note"><b>Staff, repeatedly</b> — "the funnest, nicest, best people ever," security "polite," the ED greeting guests at the door. Then the venue itself (beautiful, clean, easy parking), the sound, and the added downstairs bar.</p>
+<p class="note"><b>Intimacy and artist quality</b> — "pure connection between performers and audience," the NRO and opera soloists "spectacular," Steve Earle "so much better than we expected." Then the staff ("funnest, nicest, best people ever"), the venue itself, and the sound.</p>
 </div>
 <div style="flex:1">
 <p class="tcap">What they&rsquo;d improve</p>
-<p class="note">Real food at big shows ("a hot dog cart doesn&rsquo;t count"); smoke-free enforcement inside; night-one balcony/reserved-seat crowd control; drink pricing and a local discount ask. One 0-score tied to an unexpected charge — worth a service recovery.</p>
+<p class="note">Bar rush at doors — lines and service speed; GA sightlines and the seated/standing mix at full-house shows; opening-songs sound mix at one show; real food at big shows. One 0-score tied to an unexpected charge — worth a service recovery.</p>
 </div>
 </div>
-<p class="fine">Source: post-event survey (surveys.nps_responses), anonymized verbatims; May n=5, June n=30.</p>
+<p class="fine">Source: post-event survey (surveys.nps_responses), anonymized verbatims; May n=5, June n=30, received in August (late-July/early-August events) n=25. Surveys follow each event, so festival-week feedback continues to arrive.</p>
+
 
 
 
