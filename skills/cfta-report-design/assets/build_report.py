@@ -429,7 +429,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <div class="compact"><table><tr class="hd"><td>Event</td><td class="n">Date</td><td class="n">Tickets</td><td class="n">Bar (net est.)</td><td class="n">Perf. Fee</td><td class="n">Staffing</td><td class="n">Other</td><td class="n">Est. Net</td></tr>
 <tr><td class="lbl"><b>The String Cheese Incident (two nights)</b></td><td class="n">Jun 3&ndash;4</td><td class="n">$151,126</td><td class="n">$15,463</td><td class="n">($135,500)</td><td class="n">($8,129)</td><td class="n">&mdash;</td><td class="n"><b>$22,960</b></td></tr>
 <tr><td class="lbl">Kitchen Dwellers (two nights)</td><td class="n">Jan 17&ndash;18</td><td class="n">$35,564</td><td class="n">$11,590</td><td class="n">($24,690)</td><td class="n">($4,488)</td><td class="n">&mdash;</td><td class="n">$17,976</td></tr>
-<tr><td class="lbl">Alpenphunk Incident (2 nights, co-pro)</td><td class="n">Jan 31&ndash;Feb 1</td><td class="n">$43,673</td><td class="n">$9,801</td><td class="n">($15,000)</td><td class="n">($4,396)</td><td class="n">&mdash;</td><td class="n">$34,078</td></tr>
+<tr><td class="lbl">Alpenphunk Incident (two nights, co-pro)</td><td class="n">Jan 31&ndash;Feb 1</td><td class="n">$43,673</td><td class="n">$9,801</td><td class="n">($15,000)</td><td class="n">($4,396)</td><td class="n">&mdash;</td><td class="n">$34,078</td></tr>
 <tr><td class="lbl">Hank Azaria + The EZ Street Band</td><td class="n">Dec 28</td><td class="n">$27,995</td><td class="n">$4,308</td><td class="n">($25,742)</td><td class="n">($2,257)</td><td class="n">&mdash;</td><td class="n">$4,304</td></tr>
 <tr><td class="lbl">Vandelux (Sleds &amp; Kegs)</td><td class="n">Mar 7</td><td class="n">$24,265</td><td class="n">$8,449</td><td class="n">($12,137)</td><td class="n">($3,714)</td><td class="n">&mdash;</td><td class="n">$16,863</td></tr>
 <tr><td class="lbl">Nutcracker! [Rated CB]</td><td class="n">Dec 13</td><td class="n">$20,660</td><td class="n">$1,512</td><td class="n">&mdash;</td><td class="n">($3,543)</td><td class="n">($15,859)</td><td class="n">$2,770</td></tr>
@@ -485,12 +485,12 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <div class="compact"><table>
 <tr class="hd"><td>Event</td><td class="n">Att.</td><td class="n">Bar (POS)</td><td class="n">$ / Att.</td></tr>
 <tr><td class="lbl">Ski Patrol: Attitude Adjustment Party</td><td class="n">566</td><td class="n">$10,756</td><td class="n">$19.00</td></tr>
-<tr><td class="lbl">Alpenphunk (2 nights)</td><td class="n">798</td><td class="n">$11,266</td><td class="n">$14.12</td></tr>
+<tr><td class="lbl">Alpenphunk (two nights)</td><td class="n">798</td><td class="n">$11,266</td><td class="n">$14.12</td></tr>
 <tr><td class="lbl">Britney's Circus</td><td class="n">309</td><td class="n">$4,569</td><td class="n">$14.79</td></tr>
-<tr><td class="lbl">String Cheese Incident (2 nights)</td><td class="n">1,245</td><td class="n">$17,773</td><td class="n">$14.28</td></tr>
+<tr><td class="lbl">String Cheese Incident (two nights)</td><td class="n">1,245</td><td class="n">$17,773</td><td class="n">$14.28</td></tr>
 
 <tr><td class="lbl">Vandelux</td><td class="n">702</td><td class="n">$9,711</td><td class="n">$13.83</td></tr>
-<tr><td class="lbl">Kitchen Dwellers (2 nights)</td><td class="n">1,045</td><td class="n">$13,322</td><td class="n">$12.75</td></tr>
+<tr><td class="lbl">Kitchen Dwellers (two nights)</td><td class="n">1,045</td><td class="n">$13,322</td><td class="n">$12.75</td></tr>
 <tr><td class="lbl">Beats Antique</td><td class="n">402</td><td class="n">$4,203</td><td class="n">$10.46</td></tr>
 
 <tr><td class="lbl">Hank Azaria + EZ Street Band</td><td class="n">570</td><td class="n">$4,952</td><td class="n">$8.69</td></tr>
