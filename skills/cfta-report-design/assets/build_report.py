@@ -255,6 +255,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <li><b>Other Updates</b> &mdash; Fidelity accounts open / first stock gift received; new Front Row membership</li>
 <li><b>Fundraising</b></li>
 <li><b>Other Business</b> &mdash; investment policy draft (governance); Wine + Food expansion ad hoc committee</li>
+<li><b>Executive Session</b></li>
 <li><b>Adjournment</b></li>
 </ol></div>
 
@@ -263,7 +264,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <b>Approval of Minutes</b> May minutes approved by motion; agenda approved.</p>
 <p class="note"><b>String Cheese Incident</b> Congratulations to staff and board &mdash; the biggest performance to date in reach, revenue and cost, streamed worldwide, executed without a hitch. Estimated net $25&ndash;30k, roughly the net of all concerts combined in some prior years; the band (first-ever show was in the old Center, 1993) is interested in returning for a three-night run.</p>
 <p class="note"><b>Financial Report (Brett)</b> Tracking ahead of budget and prior year on cost control and stronger revenue. Alpenglow underwriting &asymp;$170k against a $150k goal; the mailer drew &asymp;60 unique donors including 10 brand-new (gifts of $5k, $10k and $15k among them). Cash held at $600k+ through the slow season, expected to exceed $1M by late summer &mdash; the strongest position in four years. Expenses down $60k YoY; contributed plus earned revenue up &asymp;$300k. Front Row behind prior-year pace &mdash; additional pledges to secure; new candidates emerging, including proactive outreach from prospective major donors.</p>
-<p class="note"><b>Staffing</b> Julia Brazil hired as executive assistant (starts July 6) &mdash; local, accountant by trade, former KBUT executive director.</p>
+<p class="note"><b>Staffing</b> Julia Brazell hired as executive assistant (starts July 6) &mdash; local, accountant by trade, former KBUT executive director.</p>
 <p class="note"><b>Grants</b> MetRec awarded &asymp;$40k (first-time; receivable to be booked). Roughly $50k of additional grant receivables plus applications in progress, including a first NEA application for literary programming via the Town&rsquo;s grant writers.</p>
 <p class="note"><b>Building &amp; Town</b> BOZAR building-capacity approval secured permanently (school-lot MOU condition; 400-person cap this summer during school construction). Committee supported reapproaching the Town on building ownership this fall as an update-style conversation; the Center&rsquo;s insurance inquiry prompted a Town-wide policy audit by the new Town finance director.</p>
 <p class="note"><b>Systems</b> Payroll migration from QuickBooks to Gusto underway after repeated service failures; benefits review planned for fall.</p>
@@ -276,7 +277,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <p class="note"><b>Financial Report (Brett)</b> New automated report format debuted, built in-house; committee response positive, with the addendum sections welcomed. Figures through June 30, festival ticket sales through the Grand Tasting. Contributed revenue ahead of budget on early payment of larger gifts; payroll under on vacancies; programming over on String Cheese, offset by the revenue it drove. Cash near $500k at June 30 and closer to $1M by meeting date; $100k of debt paid down; roughly $288k of deferred revenue still to recognize. Front Row pledge completions identified as the main P&amp;L risk. Requests: &plusmn; instead of tilde, larger text, a true cash-flow view alongside the reconciliation, and revenue-by-stream margins with staff time &mdash; Brett to add.</p>
 <p class="note"><b>Arts Ball</b> Record year &mdash; over $900k with ~$10k of AR to reconcile; tables and tickets up ~$100k over prior year; costs ~$50k, in line with budget. Event right-sized; first-of-July date kept.</p>
 <p class="note"><b>Wine + Food Festival</b> Effectively sold out across events; projected at or above the $404.5k budget with two August dinners remaining. In-house ticketing platform performed flawlessly and saved $10&ndash;15k. Estimated profitability $100&ndash;150k. Community Foundation to coordinate the July nonprofit calendar; no plan to move the gala.</p>
-<p class="note"><b>Fidelity &amp; Cash Management</b> <b>Motion by Bill B, seconded by Drew, to authorize opening the Fidelity brokerage and interest-bearing accounts; approved.</b> Roughly $150k of stock gifts anticipated; proceeds to be held in interest-bearing options as the start of a reserve posture. Community Banks sweep renegotiated to &asymp;3.05% effective. Governance to take up benefits administration next month.</p>
+<p class="note"><b>Fidelity &amp; Cash Management</b> <b>Motion by Bill B, seconded by Drew, to authorize opening the Fidelity brokerage and interest-bearing accounts; approved unanimously without discussion.</b> Roughly $150k of stock gifts anticipated; proceeds to be held in interest-bearing options as the start of a reserve posture. Community Banks sweep renegotiated to &asymp;3.05% effective. Governance to take up benefits administration next month.</p>
 <p class="note"><b>Investment Policy</b> Draft policies (Brett) to governance, then to the board with the constitution of an investment committee, possibly including non-board advisors. Purpose (reserve vs endowment) to be settled first.</p>
 <p class="note"><b>Front Row &amp; Donor Intelligence</b> Four to five strong candidates surfaced from festival week; Bill&rsquo;s post-pledge renewal structure kickstarted. Names withheld from the written report.</p>
 <p class="note"><b>Other Business</b> Drew to circulate ideas on broadening the festival; possible ad hoc committee. Executive committee session to follow on strategic conversations. Staff congratulated on an exceptional month.</p>
@@ -301,7 +302,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <li>Total expenditures <b>${abs(exp_vs_bud):,.0f} (−1.0%) under budget</b>; operating income <b>${A['netop']-B['netop']:,.0f} favorable</b>.</li></ul></div>
 <div><b style="color:#A7182F">Unfavorable / Watch</b><ul>
 <li>Front Row <b>${abs(A['frontrow']-B['frontrow']):,.0f} (−20%) behind</b> the phased target — $160k against $200k.</li>
-<li>Other revenue <b>${abs(A['othrev']-B['othrev']):,.0f} (−73%) below budget</b> — the largest single unfavourable line.</li>
+<li>Other revenue <b>${abs(A['othrev']-B['othrev']):,.0f} (−73%) below budget</b> — the largest single unfavorable line.</li>
 <li>Marketing <b>+${A['marketing']-B['marketing']:,.0f} (+7.9%)</b>, Building <b>+${A['building']-B['building']:,.0f} (+3.3%)</b>, Programming <b>+${A['programming']-B['programming']:,.0f} (+1.6%)</b>.</li>
 <li>Cost of sales <b>+${A['cogs']-B['cogs']:,.0f} (+5.0%)</b> on festival and bar volume.</li></ul></div>
 
@@ -315,7 +316,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <li>Expenditures <b>+${exp_vs_py:,.0f} (+10.6%)</b> — planned staffing &amp; programming investment; operating income ${abs(A['netop']-P['netop']):,.0f} (−6.5%) behind.</li></ul></div>
 
 <h3>Cash &amp; Balance Sheet</h3><ul>
-<li>Cash and equivalents of <b>{m(BS['cash_tot'])}</b> (operating, sweep, and bar), <b>after</b> the summer earning season — <b>${abs(BS['cash_tot']-BSP['cash_tot']):,.0f} below</b> the same date last year ({m(BSP['cash_tot'])}), reflecting $100,000 of debt repaid and $230,000 less Front Row revenue recognised year to date.</li>
+<li>Cash and equivalents of <b>{m(BS['cash_tot'])}</b>, <b>${abs(BS['cash_tot']-BSP['cash_tot']):,.0f} below</b> the same date last year &mdash; <b>one-times and timing, not operations</b>: last year included the one-time <b>$110k Employee Retention Credit</b> and a <b>$50k net loan draw</b> where this year repaid <b>$100k</b> (a $150k financing swing), and <b>&plusmn;$150k of stock gifts pledged at the Ball</b> is still in transit to the new Fidelity account, with Ball pledge invoices collecting through fall. Together $400k+ of the gap.</li>
 <li><b>{m(deferred_future)}</b> already collected and sitting in deferred revenue for future events and rentals — cash in hand, not yet in the P&amp;L. Includes <b>$27,900</b> for the High Note dinner (Aug 6), deferred to August at close.</li>
 <li>Front Row pledges receivable <b>{m(BS['ar_frontrow'])}</b>.</li>
 <li>Long-term debt <b>{m(BS['loans'])}</b>, down <b>$100,000</b> year over year; YTD interest {m(A['interest'])} drives the below-operating-line figure.</li></ul>
@@ -385,7 +386,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 
 <div class="pb"></div>
 <div class="sechead"><div><div class="eb">Section 3.0</div><div class="tt">Financial Statements</div></div><div class="bn">3.</div></div>
-<p class="fine">Accrual basis. <b>No prior-year restatement this month.</b> June&rsquo;s report moved $308,921 of FY25 W+FF ticket revenue out of the Nov&ndash;Jun comparative because FY26&rsquo;s festival was still post-period. At nine months both years contain a full festival &mdash; FY25 recognised as sold in spring 2025, FY26 at the July 2026 event &mdash; so the columns are directly comparable as booked.</p>
+<p class="fine">Accrual basis. <b>No prior-year restatement this month.</b> June&rsquo;s report moved $308,921 of FY25 W+FF ticket revenue out of the Nov&ndash;Jun comparative because FY26&rsquo;s festival was still post-period. At nine months both years contain a full festival &mdash; FY25 recognized as sold in spring 2025, FY26 at the July 2026 event &mdash; so the columns are directly comparable as booked.</p>
 
 
 <div class="stitle">Statement of Activities — Budget vs. Actual &amp; Prior Year</div>
@@ -686,7 +687,18 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <p class="note">The Wine + Food Festival (mid-July) and the Arts Ball (July 9) both fall immediately after the reporting period; the String Cheese Incident (two June nights, &plusmn;$150k) is the last major event captured within YTD figures. Approximately {m(deferred_future)} of future-event revenue is already collected and held in deferred revenue on the balance sheet.</p>
 
 
+<h3>FY26 Rental Outlook vs Budget</h3>
+<div class="compact"><table>
+<tr class="hd"><td>Rental-related revenue (4150 + hosted bar)</td><td class="n">Amount</td><td class="n">Budget</td><td class="n v">Var</td></tr>
+<tr><td class="lbl">Recognized Nov 1 &ndash; Jul 31</td><td class="n">$137,837</td><td class="n">$142,300</td><td class="n v">($4,463)</td></tr>
+<tr><td class="lbl">Remaining FY26 budget (Aug&ndash;Oct: facility $74,200 + hosted bar $47,820)</td><td class="n"></td><td class="n">$122,020</td><td class="n v"></td></tr>
+<tr><td class="lbl">Signed Aug&ndash;Oct book, contract value (of which $54,500 collected)</td><td class="n">$92,302</td><td class="n"></td><td class="n v"></td></tr>
+<tr class="b"><td class="lbl">Full-year FY26 budget</td><td class="n"></td><td class="n">$264,320</td><td class="n v"></td></tr>
+</table></div>
+<p class="fine">Read: the signed book alone covers the remaining <b>facility</b> budget roughly 1.5x ($92k signed vs $63k of 4150 budget left), so facility income tracks at or above the full-year plan before fall walk-ins. <b>Hosted bar is the at-risk line</b>: $21.3k YTD against an $84.4k full-year budget, with $47.8k budgeted for Aug&ndash;Oct. Contract values include service components billed with events; the Nov 23 booking ($500) falls in FY27 and is excluded.</p>
 <div class="pb"></div>
+
+
 <div class="sechead"><div><div class="eb">Section 8.0</div><div class="tt">Donor Intelligence</div></div><div class="bn">8.</div></div>
 <div class="lede">The Arts Ball transformed the donor picture. <b>117 new donors</b> have now given for the first time this year (64 at the June report) with <b>$195,736</b> of first-year giving, and the unrenewed pipeline fell from &plusmn;$1.0M to <b>237 donors / &plusmn;$551k</b> as prior-year donors renewed at the Ball. The remaining re-engagement window is the fall appeal and year-end. The cross-system prospect model surfaces a deep bench of <b>new potential donors</b> with demonstrated capacity.</div>
 
