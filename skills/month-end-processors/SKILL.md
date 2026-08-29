@@ -78,6 +78,13 @@ AR - Clover (2917); three June 2026 JEs had them swapped. Optional
 strict-accrual: Dr fees / Cr 2030 at month-end for the coming MTOT DISC,
 reverse on the 1st.
 
+**Tips Payable check**: after each payroll the balance should be ~0 (only
+undistributed recent pools remain). Nightly bar JEs accrue CC tips only; the
+22% dev-comp gratuities accrue via /tips Step 4 (`tipcomp-YYYYMMDD`: Dr 322
+Tips Paid / Cr Tips Payable, cls 3 - Development). A negative balance means a
+comp gratuity was paid without its accrual — see the FY26 audit
+(cfta/data docs/tips-payable-audit-fy26.md, corrected by JE 34448 at 8/31).
+
 ## 4. FYE (10/31) extras
 
 - 1100.15 negative at 10/31 (fall presales paid out early) → present as
