@@ -71,7 +71,10 @@ Gap check (charges the connector missed):
 ```
 Catch-up JE (`YYYY-MM-stripe-catch`, ≤21 chars): Dr 1610 net + Dr 1018 Stripe
 fees / Cr 449 Deferred (gross). Recognition companion moves Deferred → income
-50/50 Earned 104 / Contributed 96, entity+class per the festival. True-up the
+50/50 Earned 104 / Contributed 96, entity+class per the festival. **The 50/50
+fundraiser-ticket split is CBO-set policy (affirmed 2026-08-30) — apply it,
+never re-derive it from FMV math. FY25 used 35.6%, so line-level YoY needs an
+on-paper FY25 restatement (~36K), not an FY26 change.** True-up the
 prior month's pre-posted catch JE.
 Target: 1610 balance ≈ Stripe pending (~2 days of payouts). Note: only ONE of
 two Stripe accounts is synced — check both if the residual is off.
