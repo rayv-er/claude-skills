@@ -85,6 +85,37 @@ Tips Paid / Cr Tips Payable, cls 3 - Development). A negative balance means a
 comp gratuity was paid without its accrual — see the FY26 audit
 (cfta/data docs/tips-payable-audit-fy26.md, corrected by JE 34448 at 8/31).
 
+## 3.6 Bar sales-tax carve-out (standing month-end step, added 2026-08-30)
+
+The bar rings tax-inclusive and the nightly bar JEs book gross sales, so
+every month needs a carve-out JE or 2500 Sales Tax Payable drifts negative
+as remittances hit it. Doc `YYYY-MM-bartax`, dated month-end:
+
+```
+Dr  Earned Revenue:Bar Income:Bar Sales     (tax component)
+    Cr  2500 Sales Tax Payable (Id 259)     same
+```
+Class `2 - Programming` on both lines.
+
+**Amount**: rate is 9.4% combined on tax-inclusive sales — carve-out =
+taxable bar sales x 9.4/109.4 (Town of CB 4.5% remitted direct; CO
+DOR-administered 4.9% covers state+county). Filings happen ~20th of the
+following month; when the filed amounts are known, true the JE to actuals
+(origin-month policy: edit the month's JE while the period is open).
+Cross-check the split: Town/State payment ratio runs ~0.92.
+
+**Feeds and offsets**: the ACH debits ("CO DEPT REVENUE TAXPAYMENT",
+"TownofCrestedBut PURCHASE") code straight to 2500 from the bank feed.
+Alpenglow food-vendor tax checks collected by CFTA also credit 2500 on
+deposit — net them against that month's carve-out (June 2026 precedent:
+826.70).
+
+**Health check**: after the prior month's payments clear, 2500 should equal
+just the current month's accrual. A debit balance means a missed carve-out;
+a growing credit means a missed filing. History: Nov 2025–Jul 2026 were
+back-filled 2026-08-30 (JEs 34466–34473, sized to actual remittances; see
+cfta/data docs/bar-sales-tax-carveout-2026-08-30.md).
+
 ## 4. FYE (10/31) extras
 
 - 1100.15 negative at 10/31 (fall presales paid out early) → present as
