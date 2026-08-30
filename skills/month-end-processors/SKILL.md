@@ -116,6 +116,39 @@ a growing credit means a missed filing. History: Nov 2025–Jul 2026 were
 back-filled 2026-08-30 (JEs 34466–34473, sized to actual remittances; see
 cfta/data docs/bar-sales-tax-carveout-2026-08-30.md).
 
+## 3.7 Payroll event attribution + Gusto reclass (standing, added 2026-08-30)
+
+Monthly JE `YYYY-MM-evtstaff` dated month-end (continues the Nov-Apr series;
+May-Aug 2026 back-filled as JEs 34475-34478). NO classes on any line
+(payroll is classless by design; functional allocation stays at reporting).
+
+Build from Homebase: clocked timecards intersected with shift windows
+(the /tips cross-timecard join) x `timecards.wage_rate`, grouped by
+role -> sub-account and event -> QBO customer:
+
+- 6330.11 Bar: Bartender, Bar Lead, Barback, floaters, gala bartenders
+- 6330.14 Event: Event Staff, EventStaff/Security, Event Captain,
+  Hospitality, Merch, Security Lead, Arts Ball Setup/Breakdown
+- 6330.19 Rentals: Amanda Bade (EM) | 6330 parent: Rebecca Vehik (EM)
+- 6330.20 Set Up / Transition: Setup/Breakdown, Theater Transition,
+  Setup Crew Lead, W+FF set-up crews
+- 6330.21 Tech | 6330.22 Tipped: W+FF service/wine/BOH/seminar crews
+- excluded: `homebase.non_event_roles` (Training, Facility, Programming,
+  Sales, Operations, Bar Prep/Inventory, Marquee)
+
+JE shape (Gusto era): Dr subs per event (entity = event customer;
+no-entity rows for unmapped hours) + Dr 6350.12 Salaried Pay (salaried
+regular by check month: gross less fixed comps less PTO-hours x
+annual/2080) / Cr 6300 Payroll lump. OT pair inside 6330.17: per-event
+debits pro-rata to event cost vs one no-entity credit (monthly OT from GL).
+Guard: cumulative credits must not exceed the FY lump; June-style
+work-month vs check-month timing makes single months wobble - that is
+expected and self-corrects.
+
+Gusto already posts Holiday->6340.14, Sick->6340.16, Vacation->6350.13;
+no reclass needed for those. Reference build:
+cfta/data scripts/qbo/qbo_evtstaff.py.
+
 ## 4. FYE (10/31) extras
 
 - 1100.15 negative at 10/31 (fall presales paid out early) → present as
