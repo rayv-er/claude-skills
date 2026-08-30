@@ -38,6 +38,22 @@ For events already deferred (JE A below), the debit for that slice is
 **True up pre-posted JEs**: the current month's JEs are often pre-posted mid-month
 ("thru M/D — update at month end" in the memo) — recompute and edit amounts.
 
+**Deferred sweep (MANDATORY, added 2026-08-30):** before closing the month,
+pull the FULL ledger of 2100.11 Deferred Revenue:Ticket Sales and release
+EVERY line whose event occurred on or before month-end — from ANY platform,
+not just Humanitix. The Humanitix engine only releases its own events;
+Stripe-side deferrals (e.g. `2026-07-highnote-def`) and one-off Deposits
+slip through. Lesson: High Note Tour de Fork 27,900 (event 8/6) and a
+150.00 Azaria deposit (event 12/27/25) sat unreleased until the 8/31 sweep
+(JE 2026-08-defrel, Id 34483). Release mirrors the deferral's structure
+(High Note was 50/50 Earned 104 / Contributed 96 per the W+FF split).
+After the sweep, every remaining 2100.11 dollar must belong to a FUTURE
+event; decompose and note the per-event remainders in the close memo.
+Snapshot caveat: the month-end JE is built from the morning warehouse
+sync, so orders placed after the snapshot are deferred one month late —
+the cumulative recompute self-corrects, but note the gap if issuing
+statements (8/31/26: ≥1,135 late).
+
 **Applications**: generate the $0-payment FIFO schedule (JE debits vs payout
 deposits) — the API cannot write deposit-credit applications; hand Brett the
 schedule to click in the UI (pattern: scratchpad humanitix_apply.py).
