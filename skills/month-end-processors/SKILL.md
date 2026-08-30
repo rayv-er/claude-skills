@@ -141,13 +141,25 @@ no-entity rows for unmapped hours) + Dr 6350.12 Salaried Pay (salaried
 regular by check month: gross less fixed comps less PTO-hours x
 annual/2080) / Cr 6300 Payroll lump. OT pair inside 6330.17: per-event
 debits pro-rata to event cost vs one no-entity credit (monthly OT from GL).
-Guard: cumulative credits must not exceed the FY lump; June-style
-work-month vs check-month timing makes single months wobble - that is
-expected and self-corrects.
 
-Gusto already posts Holiday->6340.14, Sick->6340.16, Vacation->6350.13;
-no reclass needed for those. Reference build:
-cfta/data scripts/qbo/qbo_evtstaff.py.
+**CHECK-DATE basis (CBO directive 2026-08-30):** group hourly shifts by
+the month of the paycheck that pays them, not the month worked. Gusto is
+biweekly; map each shift date through the pay-period calendar (period end
++ 5 days = check date, e.g. 6/1-6/14 -> 6/18 check -> June JE;
+8/10-8/23 -> 8/28 -> August). Shifts after the last period end of the
+month DEFER to the next month's JE (they are in next month's lump).
+This matches the FY25 QBO-payroll methodology (expense on check date) and
+guarantees each month's Cr never exceeds that month's actual Gusto lump —
+the 6300 parent must stay >= 0 in every month after the JE posts (the
+residual is non-event roles + Homebase-vs-Gusto wage variance). The
+work-month cut used originally left June 2026 at -8,553 and was re-cut
+2026-08-30 (Jun/Jul/Aug lump credits 33,432.01 / 141,480.64 / 87,446.85;
+2,164.96 of 8/24-8/31 shifts deferred to the September JE).
+
+Gusto already posts Holiday->6340.14, Sick->6340.16, Vacation->6350.13,
+and OT->6330.17 on check dates; no reclass needed for those. Reference
+build: cfta/data scripts/qbo/qbo_evtstaff.py (original attribution logic)
++ qbo_evtstaff2.py (check-date regrouping — use this shape going forward).
 
 ## 4. FYE (10/31) extras
 
