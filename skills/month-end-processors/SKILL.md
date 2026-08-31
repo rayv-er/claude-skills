@@ -196,6 +196,18 @@ lines, class 2 - Programming:
 - Exclude refundable security deposits and ET-billed sales-tax components.
 - Build from eventtemple invoices/line_items (events held that month);
   descriptions `YYYY.MM.DD - Event - what (ET INV-000xx)`.
+- **Every revenue line carries Entity = Customer** (the CBO pulls a P&L
+  by Customer). Assignment rule, in order: (1) the customer on the QBO AR
+  doc for that event; (2) the customer matching the ET account; (3) the
+  existing `Events:YYYY.MM.DD - Name` job; (4) the person record matching
+  the ET contact; (5) only then create. SEARCH THE FULL customer tree
+  (all parents, inactive included, aliases/emails) before any create —
+  two proposed creates in the 2026-08-31 pass were duplicates found only
+  by email match. Recurring renters (School of Dance, Wild Hare, Life
+  Drawing, Trailhead, PPF, MetRec) use ONE customer across months.
+  Genuinely unattributable amounts go to `General:General Rentals`
+  (3260), never blank — that keeps them out of "Not Specified" and makes
+  them visible FYE true-up items.
 - Cross-check after posting: monthly 4110.12 must equal the ET bar base
   for events held that month; 2100.12 must never be drawn below the
   collected-cash + AR gross-up attributable to recognized events.
