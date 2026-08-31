@@ -180,6 +180,28 @@ and OT->6330.17 on check dates; no reclass needed for those. Reference
 build: cfta/data scripts/qbo/qbo_evtstaff.py (original attribution logic)
 + qbo_evtstaff2.py (check-date regrouping — use this shape going forward).
 
+## 3.8 Rentals recognition (standing, added 2026-08-31)
+
+**ONE JE per month**, doc `YYYY-MM-rentals`, dated month-end (June 2026's
+pair was merged and 33733/33734 deleted 2026-08-31 — never run parallel
+series again). Dr 2100.12 Deferred Revenue:Rental Fees / Cr per-event
+lines, class 2 - Programming:
+
+- 4150.13 facility/venue + 4150.15 staffing fees, per EVENT-MONTH (never
+  cash month; future-event cash stays in 2100.12 — the Robson lesson).
+- 4110.12 Hosted Bar Sales at ET BASE (pre-tax, pre-gratuity); 4110.13
+  only for genuinely-kept fees (Mobile Bar Setup, Custom Cocktail,
+  Special Alcohol Order). The 22% client gratuities are NEVER revenue —
+  they fund tips via Tips Payable (/tips Step 4 + settlement rail).
+- Exclude refundable security deposits and ET-billed sales-tax components.
+- Build from eventtemple invoices/line_items (events held that month);
+  descriptions `YYYY.MM.DD - Event - what (ET INV-000xx)`.
+- Cross-check after posting: monthly 4110.12 must equal the ET bar base
+  for events held that month; 2100.12 must never be drawn below the
+  collected-cash + AR gross-up attributable to recognized events.
+- The `YYYY-MM-temple`/`-temple-clr` AR gross-up pair re-trues 100.16 vs
+  the ET open book (see the stripe-clearing-recon skill §4.3).
+
 ## 4. FYE (10/31) extras
 
 - 1100.15 negative at 10/31 (fall presales paid out early) → present as
