@@ -79,6 +79,26 @@ prior month's pre-posted catch JE.
 Target: 1610 balance ≈ Stripe pending (~2 days of payouts). Note: only ONE of
 two Stripe accounts is synced — check both if the residual is off.
 
+**CASH CUTOFF — run the ET payment list to the LAST DAY of the month**
+(added 2026-08-31). Never cut at a mid-month payout date: JE 34438 stopped
+at 8/19 and stranded 12,072.00 of ET Stripe receipts with no QBO landing
+on either side (fixed by JE 34490 `2026-08-stripe-cutoff`). The cutoff
+entry mirrors the ET cash-application template with ONE difference:
+
+- Dr 1610 net + Dr 1018 Stripe fees (derived) — same as always;
+- **Cr 2100.12 / 2400 by customer, NOT AR:Event Temple.** The monthly
+  `YYYY-MM-temple` gross-up trues AR:ET to the ET OPEN book, so fully-paid
+  invoices are already excluded from it — crediting AR drives it negative.
+  Guard the entry: abort if AR:ET has moved off the gross-up figure.
+- Split deposit content to 2400 per §3.8's component map.
+
+Fee derivation when the payouts are not yet booked: ET carries no fee
+data and the main CFTA Stripe account is not in the warehouse, so derive
+at the effective rate observed on the SAME rail that month (JE 34438:
+812.68 / 23,619.75 = 3.441%), not a generic 2.9% + $0.30 — and memo it as
+derived pending true-up. Assertion: ET payments for the month with no QBO
+landing must be ZERO.
+
 ## 3. Clover — batch tie-out (deposits are GROSS, no fee netting)
 
 Bar JEs (per event, Payment Method lines) debit 1100.14 gross incl. card
