@@ -208,9 +208,43 @@ lines, class 2 - Programming:
   Genuinely unattributable amounts go to `General:General Rentals`
   (3260), never blank — that keeps them out of "Not Specified" and makes
   them visible FYE true-up items.
+**SPLIT EVERY ET INVOICE INTO COMPONENTS before anything touches 2100.12**
+(added 2026-08-31 after 11,025 of refundable deposits were found buried in
+deferred revenue; JE 34489 fixed it). 2100.12 is the RESIDUAL bucket for
+genuine future-event rental revenue only — nothing lands there by default:
+
+| ET component | Goes to |
+|---|---|
+| Refundable security / alcohol deposit | **2400** (Id 266) — never 2100.12, never released to income |
+| Facility, staffing, add-ons, incidentals | 4150 family, EVENT month |
+| Hosted bar consumption | 4110.12 at BASE (divide the ET total by 1.22) |
+| Kept/retained bar service fee | 4110.13 |
+| 22% client gratuity | Tips Payable rail; or 4110.14 Tips Received as the recovery leg where Tips Paid is already accrued |
+| Sales tax 9.4% | 2500 **parent** (Id 259) — 2500.11/.12 are QBO tax-agency accounts and REJECT journal entries |
+| Everything else | 2100.12 |
+
+Deposit mechanics: CREDIT 2400 when billed or collected, whichever first;
+DEBIT 2400 when the ET invoice shows a negative deposit line (applied) or
+a refund is paid. Roll forward per customer — opening + collected −
+applied − refunded = closing — and that roll-forward IS the 2400
+supporting schedule.
+
+TWO root causes to keep fixed: (1) QBO item 4 'Facility Rental Deposit'
+and item 45 'Alcohol Deposit' post to 2100.12 while item 35 posts to 2400,
+and every connector receipt/refund uses item 4 — repoint them; (2) since
+2026-05-29 ET cash lands directly in AR:Event Temple and the monthly
+temple gross-up credits it wholly to 2100.12 BY CONSTRUCTION — **splitting
+the gross-up credit is the real control**, the item fix alone is not
+enough.
+
 - Cross-check after posting: monthly 4110.12 must equal the ET bar base
   for events held that month; 2100.12 must never be drawn below the
-  collected-cash + AR gross-up attributable to recognized events.
+  collected-cash + AR gross-up attributable to recognized events; 2400 by
+  customer must equal the ET held-deposit roll-forward; no ET line with
+  revenue_category 'Security Deposit' may appear in any 2100.12 posting;
+  and ET payments for the month with no QBO landing must be ZERO (run the
+  cash cutoff to the LAST day of the month — an 8/19 cutoff stranded
+  20,872 in August).
 - The `YYYY-MM-temple`/`-temple-clr` AR gross-up pair re-trues 100.16 vs
   the ET open book (see the stripe-clearing-recon skill §4.3).
 
