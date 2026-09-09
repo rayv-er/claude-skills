@@ -246,7 +246,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <li><b>Welcome</b> &mdash; Dave Ebner
 <ol type="a" style="margin:1px 0 1px 16px;"><li>Approval of meeting agenda</li><li>Approval of June and July meeting minutes (carried from August)</li></ol></li>
 <li><b>Finance Committee</b>
-<ol type="a" style="margin:1px 0 1px 16px;"><li>Review FY26 to date financial report &mdash; through August 31, ten months, including the revisions to prior months from the year-end clean-up</li><li>FY25 audit (Weaver) &mdash; status of the final report</li><li>FY27 budget &mdash; process and timeline for the draft</li></ol></li>
+<ol type="a" style="margin:1px 0 1px 16px;"><li>Review FY26 to date financial report &mdash; through August 31, ten months, including the revisions to prior months from the year-end clean-up</li><li>FY26 year-end projection and cash through October 31 (Section 9.0)</li><li>FY27 draft budget, first pass (Section 10.0)</li><li>FY25 audit (Weaver) &mdash; status of the final report</li></ol></li>
 <li><b>Other Updates</b> &mdash; Fidelity account funded by two stock gifts; new Front Row pledge recorded; bar inventory count and cost rebuild; bank reconciliations</li>
 <li><b>Fundraising</b> &mdash; fall appeal and Front Row pipeline</li>
 <li><b>Other Business</b> &mdash; investment policy (governance); Wine + Food expansion ad hoc committee</li>
@@ -333,6 +333,8 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <li>Front Row pledges receivable <b>$1,347,376</b>; Event Temple contract receivable <b>$75,041</b>; operating receivables <b>$280,277</b> (gala pledge invoices collecting through fall).</li>
 <li>Long-term debt <b>$1,050,000</b>, down <b>$100,000</b> year over year; YTD interest $64,535 drives the below-operating-line figure.</li></ul>
 
+<h3>Year-End Outlook</h3>
+<div class="lede">Two months remain. On the current projection FY26 closes at <b>$22,887 before depreciation</b> and <b>($582,818)</b> after the $605,705 of depreciation and donated lease booked October 31, against a budget that assumed $242,426 before depreciation. Bank and brokerage cash is projected at <b>$496,706 on October 31</b>, up from $455,001 a year earlier, with $1.05M of debt and $1.35M of Front Row pledges receivable. The first pass of the FY27 budget lands at <b>$226,369 operating</b> and <b>($379,336)</b> full accrual, the swing being a programming line brought back toward FY25 scale. Sections 9.0 and 10.0 carry the detail and the open calls.</div>
 <h3>Other Updates</h3><ul>
 <li><b>Fidelity brokerage funded.</b> Two stock gifts pledged at the Arts Ball arrived and were sold to money market: 100 MSFT (Valentine and Bolton) for $50,750 on August 10 and 812 IWF (Carol Ann May) for $99,125 on August 20, with $816 of realized loss between pledge and sale. Balance at August 31 <b>$149,249</b>, earning the SPAXX money-market rate.</li>
 <li><b>New Front Row pledge recorded.</b> The Burciaga designation of <b>$100,000</b> was booked and invoiced on August 26 and is in these statements; Front Row now stands at $260,000 for the year.</li>
@@ -763,6 +765,132 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 </table>
 <p class="note">The model ranks every constituent on capacity + engagement across Bloomerang giving, Humanitix attendance, Mailchimp engagement, Gunnison County property records, and state/federal public-giving data. It flags <b>2,889 Hot or Warm prospects who have never given</b> (1,315 Hot). The fall appeal is the natural moment for the property-owning and peer-org segments above. Ranked, named cultivation lists can be pulled for the Development team as a separate working document.</p>
 <p class="fine">Prospect figures are for internal cultivation planning and draw on wealth-screening and public-records data; they do not reconcile to QuickBooks contributed revenue and should not be cited as financial figures. Individual names and capacity detail are held in the Development working file, not this report.</p>
+
+
+<div class="pb"></div>
+<div class="sechead"><div><div class="eb">Section 9.0</div><div class="tt">Year-End Projection</div></div><div class="bn">9.</div></div>
+<div class="lede">Ten months are booked. September and October are built bottom-up from the fall calendar (18 programming dates), the Event Temple book (definite bookings at 100%, tentative at 50%), the Gusto pay calendar (four runs), and run rates for the steady lines, with depreciation, the donated lease and the in-kind valuation booked in October as in FY25. The result is a year that <b>breaks even before depreciation</b> after a record summer, because the post-season cost base outruns a quiet fall.</div>
+<div class="kpis">
+<div class="kpi"><div class="k">FY26 Before Depreciation</div><div class="val">$22,887</div><div class="d">budget $242,426 &middot; FY25 $284,811</div></div>
+<div class="kpi"><div class="k">FY26 Full Accrual</div><div class="val">($582,818)</div><div class="d">after $605,705 depreciation and lease</div></div>
+<div class="kpi"><div class="k">Cash at October 31</div><div class="val">$496,706</div><div class="d">from $605,746 at 8/31 &middot; $455,001 a year ago</div></div>
+<div class="kpi"><div class="k">Sept + Oct Net</div><div class="val">($200,789)</div><div class="d">before depreciation; $224k income, $371k spend</div></div>
+</div>
+<div class="stitle">Statement of Activities &mdash; Projected Year End</div>
+<div class="compact"><table>
+<tr class="hd"><td>Income</td><td class="n">Nov&ndash;Aug actual</td><td class="n">Sept + Oct</td><td class="n">FY26 projected</td><td class="n">FY26 budget</td><td class="n v">vs budget</td><td class="n">FY25 actual</td></tr>
+<tr><td class="lbl">Contributed Revenue</td><td class="n">$1,665,362</td><td class="n">$16,718</td><td class="n">$1,682,080</td><td class="n">$1,636,234</td><td class="n v">$45,846</td><td class="n">$1,412,747</td></tr>
+<tr><td class="lbl">Earned Revenue</td><td class="n">$1,106,468</td><td class="n">$207,441</td><td class="n">$1,313,909</td><td class="n">$1,208,799</td><td class="n v">$105,110</td><td class="n">$1,141,579</td></tr>
+<tr><td class="lbl">Front Row</td><td class="n">$260,000</td><td class="n">$0</td><td class="n">$260,000</td><td class="n">$400,000</td><td class="n v">($140,000)</td><td class="n">$490,000</td></tr>
+<tr class="b"><td class="lbl">Total Income</td><td class="n">$3,031,830</td><td class="n">$224,159</td><td class="n">$3,255,989</td><td class="n">$3,245,033</td><td class="n v">$10,956</td><td class="n">$3,044,327</td></tr>
+<tr><td class="lbl">Cost of Sales</td><td class="n">$208,031</td><td class="n">$42,238</td><td class="n">$250,269</td><td class="n">$168,660</td><td class="n v">$81,609</td><td class="n">$183,693</td></tr>
+<tr class="b"><td class="lbl">Gross Surplus</td><td class="n">$2,823,799</td><td class="n">$181,921</td><td class="n">$3,005,720</td><td class="n">$3,076,373</td><td class="n v">($70,653)</td><td class="n">$2,860,634</td></tr>
+<tr class="hd2"><td colspan="7">Expenses</td></tr>
+<tr><td class="lbl">Administrative</td><td class="n">$110,528</td><td class="n">$22,055</td><td class="n">$132,583</td><td class="n">$132,337</td><td class="n v">$246</td><td class="n">$134,133</td></tr>
+<tr><td class="lbl">Building</td><td class="n">$304,866</td><td class="n">$115</td><td class="n">$304,981</td><td class="n">$305,823</td><td class="n v">($842)</td><td class="n">$314,806</td></tr>
+<tr><td class="lbl">Marketing</td><td class="n">$111,121</td><td class="n">$9,706</td><td class="n">$120,827</td><td class="n">$123,785</td><td class="n v">($2,958)</td><td class="n">$120,478</td></tr>
+<tr><td class="lbl">Payroll</td><td class="n">$1,138,348</td><td class="n">$207,013</td><td class="n">$1,345,361</td><td class="n">$1,376,445</td><td class="n v">($31,084)</td><td class="n">$1,286,208</td></tr>
+<tr><td class="lbl">Programming</td><td class="n">$875,728</td><td class="n">$89,759</td><td class="n">$965,487</td><td class="n">$818,865</td><td class="n v">$146,622</td><td class="n">$733,359</td></tr>
+<tr class="b"><td class="lbl">Total Expenses</td><td class="n">$2,540,591</td><td class="n">$328,648</td><td class="n">$2,869,239</td><td class="n">$2,757,255</td><td class="n v">$111,984</td><td class="n">$2,588,984</td></tr>
+<tr class="b"><td class="lbl">Operating Surplus/(Deficit)</td><td class="n">$283,208</td><td class="n">($146,727)</td><td class="n">$136,481</td><td class="n">$319,118</td><td class="n v">($182,637)</td><td class="n">$271,650</td></tr>
+<tr><td class="lbl">Other Revenue (net, incl. in-kind valuation)</td><td class="n">$28,781</td><td class="n">$181,294</td><td class="n">$210,075</td><td class="n">$213,793</td><td class="n v">($3,718)</td><td class="n">$319,174</td></tr>
+<tr><td class="lbl">Other Expenses before depreciation (interest, in-kind, adjustments)</td><td class="n">$88,313</td><td class="n">$235,356</td><td class="n">$323,669</td><td class="n">$290,485</td><td class="n v">$33,184</td><td class="n">$306,013</td></tr>
+<tr class="b"><td class="lbl">Net Revenue before Depreciation</td><td class="n">$223,676</td><td class="n">($200,789)</td><td class="n">$22,887</td><td class="n">$242,426</td><td class="n v">($219,539)</td><td class="n">$284,811</td></tr>
+<tr><td class="lbl">Depreciation and donated lease (October 31)</td><td class="n">$0</td><td class="n">$605,705</td><td class="n">$605,705</td><td class="n">not budgeted</td><td class="n v"></td><td class="n">$605,705</td></tr>
+<tr class="b"><td class="lbl">Total Net Revenue / Change in Net Assets</td><td class="n">$223,676</td><td class="n">($806,494)</td><td class="n">($582,818)</td><td class="n">$242,426</td><td class="n v"></td><td class="n">($320,894)</td></tr>
+</table></div>
+<p class="fine">Budget = the QBO "FY26 - Consolidated" object, full year; it carries no depreciation line, so the comparison stops at net revenue before depreciation. FY25 shown as booked. The in-kind valuation ($195,793 each side) sits in other revenue and other expense in October and nets to zero.</p>
+
+<div class="half">
+<div>
+<div class="stitle">What September and October Carry</div>
+<div class="compact"><table>
+<tr class="hd"><td>Piece</td><td class="n">Amount</td><td class="lbl2">Basis</td></tr>
+<tr><td class="lbl">Payroll, four runs</td><td class="n">$207,013</td><td class="lbl2">Salaried $24,960 a run, steady hourly, event hourly from the event table</td></tr>
+<tr><td class="lbl">Programming, 18 dates</td><td class="n">$89,759</td><td class="lbl2">Presenter fees $35,683, production rentals $26,548, consulting and materials</td></tr>
+<tr><td class="lbl">Fall tickets</td><td class="n">$85,814</td><td class="lbl2">$8,823 presold; Firebird, LVDY, Creede Rep, Rocky Horror, Ditchwalkers, Halloween</td></tr>
+<tr><td class="lbl">Event Temple rentals and hosted bar</td><td class="n">$79,820</td><td class="lbl2">Contracted: Schreier, Steinbach, Hoffmeister, Film Festival, Gibson, four celebrations</td></tr>
+<tr><td class="lbl">Cash bar and alcohol cost</td><td class="n">$17,873 / ($22,770)</td><td class="lbl2">FY25 fall pattern; alcohol at the counted 38% rate</td></tr>
+<tr><td class="lbl">Contributed revenue</td><td class="n">$16,718</td><td class="lbl2">FY25 fall pattern; year-end giving lands in FY27</td></tr>
+<tr><td class="lbl">Year-end adjustments</td><td class="n">($44,684)</td><td class="lbl2">Midpoint of FY24 and FY25; the real entries are an open call</td></tr>
+<tr><td class="lbl">Insurance true-up</td><td class="n">$52,231</td><td class="lbl2">Prepaid at 10/31 $12,460, finance charge $1,560, and the $38,211 duplicate PHLY payment treated as recoverable</td></tr>
+</table></div>
+</div>
+<div>
+<div class="stitle">Open Calls That Move the Number</div>
+<ul style="font-size:9px;">
+<li><b>Philadelphia Insurance $38,211</b> paid June 23 on top of the AFCO plan. Projected as a receivable; if no refund, the year is $38k worse.</li>
+<li><b>Year-end adjustments $44,684 plug.</b> Pledge allowance reset (today a $31,895 net debit), gala receivable write-offs, audit entries.</li>
+<li><b>Fall event hourly</b> at $28,702 from the event table against $35,210 in the last two Gusto runs.</li>
+<li><b>Front Row.</b> $260,000 holds unless a fall designation lands; two are in conversation.</li>
+<li><b>Fall lineup</b> complete? Vinotok carries no dollars; artist settlements for two August shows are not yet booked.</li>
+</ul>
+</div>
+</div>
+
+<div class="stitle">Cash Through Year End and Into FY27</div>
+<div class="compact"><table>
+<tr class="hd"><td>Bank and brokerage cash at month end</td><td class="n">Nov</td><td class="n">Dec</td><td class="n">Jan</td><td class="n">Feb</td><td class="n">Mar</td><td class="n">Apr</td><td class="n">May</td><td class="n">Jun</td><td class="n">Jul</td><td class="n">Aug</td><td class="n">Sep</td><td class="n">Oct</td></tr>
+<tr><td class="lbl">FY26 (Nov&ndash;Aug booked; Sept and Oct projected)</td><td class="n">$420,380</td><td class="n">$445,831</td><td class="n">$410,323</td><td class="n">$239,943</td><td class="n">$422,606</td><td class="n">$486,289</td><td class="n">$560,833</td><td class="n">$489,972</td><td class="n">$612,778</td><td class="n">$605,746</td><td class="n">$557,101</td><td class="n">$496,706</td></tr>
+<tr><td class="lbl">FY27 draft</td><td class="n">$418,779</td><td class="n">$515,226</td><td class="n">$425,077</td><td class="n">$403,475</td><td class="n">$617,085</td><td class="n">$712,742</td><td class="n">$797,659</td><td class="n">$705,421</td><td class="n">$748,028</td><td class="n">$739,936</td><td class="n">$670,597</td><td class="n">$625,949</td></tr>
+<tr><td class="lbl">FY25 actual</td><td class="n">$82,988</td><td class="n">$298,351</td><td class="n">$299,687</td><td class="n">$245,709</td><td class="n">$320,315</td><td class="n">$356,028</td><td class="n">$225,268</td><td class="n">$361,509</td><td class="n">$874,325</td><td class="n">$651,828</td><td class="n">$527,980</td><td class="n">$372,286</td></tr>
+</table></div>
+<p class="note"><b>August 31 to October 31:</b> $605,746 less the $200,789 operating loss for the two months, plus $56,750 of Front Row installments (Bailey, Clark, Liebl, Stroh and half of three late payers), plus $100,000 of receivables collected (Humanitix, the Event Temple invoices due in September, the gala pledges still open), less $70,000 of deferred revenue recognized as the fall weddings and shows happen, plus $5,000 of year-end accruals = <b>$496,706</b>. The low point of FY26 was February at $239,943; the FY27 draft bottoms at $403,475 in February and ends at $625,949 after the January principal payment. Every month of FY26 through August reconciles to the books.</p>
+<p class="fine">Front Row cash is now scheduled member by member from the payment history in both receivable accounts: 15 members current, four due this September or October, three late, five behind on their FY26 installment (counted at half), two dormant (counted at zero), three new pledges. FY26 collections project to $257,876 and FY27 to $317,876 including $30,000 on three planned new pledges; the earlier on-schedule figure was $348,500.</p>
+
+<div class="pb"></div>
+<div class="sechead"><div><div class="eb">Section 10.0</div><div class="tt">FY27 Draft Budget</div></div><div class="bn">10.</div></div>
+<div class="lede">A first pass, not a recommendation. It seeds each account from the FY26 projection with the build rules the committee has already set: depreciation and the donated lease booked in October, in-kind kept as a zero-sum pair, Front Row planned at three pledges of $100,000, the capital campaign at zero, bar revenue net of sales tax with alcohol cost at the counted rate, and tips out of the P&amp;L. The one structural move is programming, which the seed brings back toward FY25 scale. The full draft with the programming, rental, payroll and pledge schedules comes to the October meeting.</div>
+<div class="kpis">
+<div class="kpi"><div class="k">FY27 Operating</div><div class="val">$226,369</div><div class="d">before $605,705 depreciation and lease</div></div>
+<div class="kpi"><div class="k">FY27 Full Accrual</div><div class="val">($379,336)</div><div class="d">FY26 projected ($582,818)</div></div>
+<div class="kpi"><div class="k">Revenue</div><div class="val">$3.32M</div><div class="d">FY26 projected $3.47M</div></div>
+<div class="kpi"><div class="k">Cash at 10/31/2027</div><div class="val">$625,949</div><div class="d">low point $403,475 in February</div></div>
+</div>
+<div class="stitle">FY27 Draft by Block</div>
+<div class="compact"><table>
+<tr class="hd"><td>Block</td><td class="n">FY24 actual</td><td class="n">FY25 actual</td><td class="n">FY26 projected</td><td class="n">FY27 draft</td><td class="n v">FY27 vs FY26</td><td class="lbl2">Seed rule</td></tr>
+<tr><td class="lbl">4000 Contributed Income</td><td class="n">$1,566,670</td><td class="n">$1,412,747</td><td class="n">$1,682,080</td><td class="n">$1,588,418</td><td class="n v">($93,661)</td><td class="lbl2">FY26 less one-time gifts; Ball at FY26; grants at the FY26 run rate</td></tr>
+<tr><td class="lbl">4100 Earned Income</td><td class="n">$1,126,609</td><td class="n">$1,141,579</td><td class="n">$1,313,909</td><td class="n">$1,224,071</td><td class="n v">($89,838)</td><td class="lbl2">Tickets follow the programming seed; rentals from the Event Temple book and FY27 contracts; bar net of tax</td></tr>
+<tr><td class="lbl">4200 Front Row</td><td class="n">$385,000</td><td class="n">$490,000</td><td class="n">$260,000</td><td class="n">$300,000</td><td class="n v">$40,000</td><td class="lbl2">Decision 2: three pledges of $100,000</td></tr>
+<tr><td class="lbl">7000 Other Income</td><td class="n">$228,608</td><td class="n">$319,174</td><td class="n">$210,075</td><td class="n">$204,293</td><td class="n v">($5,782)</td><td class="lbl2">In-kind $195,793 (zero-sum), interest income</td></tr>
+<tr class="b"><td class="lbl">Total Revenue</td><td class="n">$3,306,887</td><td class="n">$3,363,501</td><td class="n">$3,466,064</td><td class="n">$3,316,782</td><td class="n v">($149,282)</td><td class="lbl2"></td></tr>
+<tr><td class="lbl">5000 Cost of Goods Sold</td><td class="n">$133,302</td><td class="n">$183,693</td><td class="n">$250,269</td><td class="n">$259,469</td><td class="n v">$9,200</td><td class="lbl2">Alcohol at 38% of bar and hosted revenue; auction lots and merchandise at FY26</td></tr>
+<tr><td class="lbl">6000 Administrative</td><td class="n">$179,914</td><td class="n">$134,133</td><td class="n">$132,583</td><td class="n">$141,777</td><td class="n v">$9,194</td><td class="lbl2">FY26 projected plus inflation on services</td></tr>
+<tr><td class="lbl">6100 Building</td><td class="n">$293,229</td><td class="n">$314,806</td><td class="n">$304,981</td><td class="n">$313,860</td><td class="n v">$8,878</td><td class="lbl2">Insurance at the renewed premium; utilities at FY26</td></tr>
+<tr><td class="lbl">6200 Marketing</td><td class="n">$115,719</td><td class="n">$120,478</td><td class="n">$120,827</td><td class="n">$129,748</td><td class="n v">$8,921</td><td class="lbl2">FY26 projected with the four unnumbered accounts folded in</td></tr>
+<tr><td class="lbl">6300 Payroll</td><td class="n">$1,404,857</td><td class="n">$1,286,208</td><td class="n">$1,345,361</td><td class="n">$1,291,936</td><td class="n v">($53,425)</td><td class="lbl2">Payroll Schedule by person; event hourly follows the programming seed; tips out</td></tr>
+<tr><td class="lbl">6400 Programming</td><td class="n">$823,382</td><td class="n">$733,359</td><td class="n">$965,487</td><td class="n">$683,850</td><td class="n v">($281,637)</td><td class="lbl2">Programming Schedule: FY26 series at FY26 cost less the one-off headliner; the largest call in the draft</td></tr>
+<tr><td class="lbl">8000 Other Expenditures</td><td class="n">$765,364</td><td class="n">$911,718</td><td class="n">$929,374</td><td class="n">$875,479</td><td class="n v">($53,895)</td><td class="lbl2">Depreciation $560,135 and lease $45,570 in October; interest $69,567; in-kind; no adjustments plug</td></tr>
+<tr class="b"><td class="lbl">Total Expense</td><td class="n">$3,715,768</td><td class="n">$3,684,395</td><td class="n">$4,048,882</td><td class="n">$3,696,119</td><td class="n v">($352,764)</td><td class="lbl2"></td></tr>
+<tr class="b"><td class="lbl">Net, full accrual</td><td class="n">($408,881)</td><td class="n">($320,894)</td><td class="n">($582,818)</td><td class="n">($379,336)</td><td class="n v">$203,482</td><td class="lbl2"></td></tr>
+<tr><td class="lbl">of which depreciation and donated lease</td><td class="n">($605,705)</td><td class="n">($605,705)</td><td class="n">($605,705)</td><td class="n">($605,705)</td><td class="n v"></td><td class="lbl2"></td></tr>
+<tr class="b"><td class="lbl">Net, operating (before depreciation and lease)</td><td class="n">$196,824</td><td class="n">$284,811</td><td class="n">$22,887</td><td class="n">$226,369</td><td class="n v">$203,482</td><td class="lbl2"></td></tr>
+</table></div>
+<p class="fine">FY24 and FY25 are the trial balances at fiscal year end; FY26 projected and FY27 draft are the live workbook (FY27 - Budget - CFTA - Draft), which the committee can comment on cell by cell.</p>
+<div class="half">
+<div>
+<div class="stitle">Decisions Already Taken (9/2)</div>
+<ul style="font-size:9px;">
+<li><b>Depreciation and donated lease:</b> one entry on October 31, FY26 and FY27, at the FY25 amount until the schedule is updated.</li>
+<li><b>Front Row:</b> FY26 holds at $260,000; FY27 plans three pledges of $100,000.</li>
+<li><b>In-kind:</b> stays in Other Revenue and Other Expenditures as a zero-sum pair at the FY25 valuation.</li>
+<li><b>Capital campaign:</b> closed; zero in FY27.</li>
+<li><b>Event Temple gratuity:</b> billed after the event, recognized in the event month; no budget line under the net tips model.</li>
+<li><b>Kegs:</b> draft beer moves to accrual cost of goods on pours from September.</li>
+</ul>
+</div>
+<div>
+<div class="stitle">Calls the Draft Still Needs</div>
+<ul style="font-size:9px;">
+<li><b>Programming scale.</b> The seed budgets $683,850 against $965,487 this year. Which of the FY26 season repeats, and at what fee level, sets tickets, bar, event payroll and the bottom line.</li>
+<li><b>Payroll.</b> $1,291,936 seeded by person; open roles, the benefits review and the wage step for FY27 are not yet in it.</li>
+<li><b>Bar pour cost.</b> 38% is what the count says; the draft assumes it holds. Pricing and purchasing changes would move $30k to $50k.</li>
+<li><b>Contributed.</b> The Ball at $917k again, grants at the FY26 pace, and the fall appeal: the seed is $1.59M against $1.68M this year.</li>
+<li><b>Rentals and hosted bar.</b> $97k already contracted into FY27; the hosted bar line has undershot two years running.</li>
+</ul>
+</div>
+</div>
 
 <div class="foot">Prepared September 9, 2026 from QuickBooks Online (accrual basis) after the August close; budget = FY2026 board-approved, phased YTD from the QBO budget object; prior year = FY2025 same period. Not audited.</div>
 </body></html>"""
