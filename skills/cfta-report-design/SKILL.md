@@ -126,3 +126,17 @@ plan alignment & systems). Aggregates only — no donor names.
 Each month: update the A/B/P dicts from QBO (actuals + budget object +
 prior-year on the restated basis), balance-sheet dicts, and the
 narrative numbers; rebuild; verify page-by-page before sending.
+
+## September 2026 edition (FY26 through 8/31), built 2026-09-09
+
+`assets/splice_2026-09-15.py` regenerates `build_report.py` from `build_report_2026-08-17.py`: it swaps the data dicts
+and every narrative section, so next month copy it, update the numbers, and run it before `build_report.py`. Lessons:
+- Pull A, P, BS, BSP and CF from live QBO **TrialBalance** reports on the VM rail (the BalanceSheet report ignores
+  end_date). Workpaper: cfta/data `scripts/budget/data/board_dicts_2026-08-31.json`.
+- Budget from the mirror `qbo.budgets` ("FY26 - Consolidated", fiscal_year 2025): month columns are **calendar**
+  months, so Nov..Aug = month11 + month12 + month1..month8. The object carries no depreciation and no tips lines.
+- When closed months move between editions, print a revision bridge (July as reported vs restated) in Section 1.
+- Bar: revenue is net of the 9.4% sales tax from FY26; alcohol cost is the counted 38%, not the 13% estimate; the
+  per-event Bar column and the three-year economics table use the counted rate. Alpenglow both years on Clover
+  payments by Denver date (`clover.payments`, created_date AT TIME ZONE America/Denver; business_date is sparse).
+- Donor pyramid: `bloomerang.transactions` types Donation, PledgePayment, RecurringDonationPayment; `is_refunded` is text.
