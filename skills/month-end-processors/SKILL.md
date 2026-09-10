@@ -124,6 +124,25 @@ Tips Paid / Cr Tips Payable, cls 3 - Development). A negative balance means a
 comp gratuity was paid without its accrual — see the FY26 audit
 (cfta/data docs/tips-payable-audit-fy26.md, corrected by JE 34448 at 8/31).
 
+## 3.5 Alcohol inventory tie (standing, added 2026-09-03)
+
+Monthly, before the close. The bar counts into the NEXT month's tab of "FY26 - Bar Inventory"
+(the "September" tab is the count at 8/31; tabs are named for the month they open). Every line
+needs a cost; the master workbook's Inventory tab shows the latest Fintech invoice price beside
+each line and flags blanks and retail-looking costs. Strip NA beverages and mixers (the account is
+Inventory:Alcohol) and draft kegs (expensed on receipt); what is left is the alcohol to tie.
+
+1. Purchases complete: load the month's Fintech export, book every distributor invoice as a bill
+   to 1300.11 (Inventory tab, "Feed invoices not reconciled to a bill" must be empty).
+2. One relief entry, doc `YYYY-MM-bar-cogs`, dated month-end: Dr 5020.11 Alcohol / Cr 1300.11 for
+   book less count. After it posts 1300.11 = the count (12,613.73 at 8/31 was the anchor).
+3. Sanity: relief over (4110.11 + 4110.12) should sit near 42.49%; a month far off means a count
+   or a missing bill, not margin.
+Reference: docs/bar-cogs-reconstruction-fy26-2026-09-01.md (one entry per month, purchases through
+inventory, Irwin draft expensed on receipt). If QBO inventory tracking is switched on, step 2 becomes
+an Inventory Quantity Adjustment to the counted quantities with the difference to 5020.11, and the
+Physical Inventory Worksheet replaces the count tab.
+
 ## 3.6 Bar sales-tax carve-out (standing month-end step, added 2026-08-30)
 
 The bar rings tax-inclusive and the nightly bar JEs book gross sales, so
@@ -273,3 +292,26 @@ enough.
 - 1100.15 negative at 10/31 (fall presales paid out early) → present as
   2100.11 Deferred, reversing 11/1.
 - Never touch anything before the prior 11/1.
+
+## 3.9 Co-presenter and renter box office (standing, decided by the CBO 2026-09-03)
+
+- **Renter and benefit-partner events CFTA sells tickets for**: CFTA is the
+  agent. Box office collections credit **2450 Due to Partners** (Id 1021) at
+  sale; CFTA's retained fee goes to the 4150 family; the remittance check
+  clears the liability. No ticket revenue, no expense, never a negative
+  4140.13 check (the FY26 pattern: Dean's List, Ski Patrol, Project Hope,
+  CB Film Festival, Backline Care, 19,654 netted against ticket sales).
+- **Genuine co-productions** (CFTA presents, books the artist, shares a
+  percentage): gross ticket revenue in 4140.13 with the partner share in
+  **6420.18 Co-presenter Share** (Id 1020), beside 6420.16 Presenter Fee.
+  Never cost of goods sold: the 5000 block is resale product and Form 990
+  COGS covers inventory sales only.
+- One-per-month rule for every closing series (CBO 2026-09-02): doc
+  `YYYY-MM-<series>`, dated the last day, corrections edit the origin entry.
+  Decided cadences: one `YYYY-MM-gusto-reclass` a month (reimbursements,
+  contractor payments, contractor reimbursements in one entry); one
+  `YYYY-MM-tips` a month dated month-end (all pay periods closed in the month,
+  the true-up, the gratuity recovery); one `YYYY-MM-temple` a month (gross-up
+  and clearing legs together); one `YYYY-MM-stripe` a month (catch-up, ET cash
+  application, fees); `YYYY-MM-bar-cogs` carries both purchases-to-inventory
+  and relief. Full matrix and findings: FY27 sheet tab "FY26 Close Audit".
