@@ -296,34 +296,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <li><b>Fidelity funded:</b> Valentine/Bolton MSFT $50,750 (Aug 10) and Carol Ann May IWF $99,125 (Aug 20), sold to money market; $816 realized loss.</li>
 <li><b>Front Row:</b> Burciaga $100,000 recorded August 26. <b>Bar:</b> physical count August 31 valued alcohol at $32,901; cost of sales rebuilt from it. <b>Audit:</b> Weaver final status at the meeting. <b>Bank reconciliations</b> June to August in progress.</li></ul>
 <div class="pb"></div>
-<div class="sechead"><div><div class="eb">Section 2.0</div><div class="tt">Summer Signature Events &mdash; Final</div></div><div class="bn">2.</div></div>
-<div class="kpis">
-<div class="kpi"><div class="k">Combined Raised</div><div class="val">&plusmn;$1.30M</div><div class="d">two signature events</div></div>
-<div class="kpi"><div class="k">Arts Ball</div><div class="val">$917k</div><div class="d">+7% vs budget &middot; +13% YoY</div></div>
-<div class="kpi"><div class="k">Festival</div><div class="val">$379k</div><div class="d">&minus;6% vs budget and FY25</div></div>
-<div class="kpi"><div class="k">2027 Lever</div><div class="val">Sponsorship</div><div class="d">$25k of festival budget never billed</div></div>
-</div>
-<div class="half">
-<div>
-<div class="compact"><table>
-<tr class="hd"><td>Arts Ball 2026</td><td class="n">Actual</td><td class="n">Budget</td><td class="n">FY25</td></tr>
-<tr><td class="lbl">Paddle-raise, auction &amp; gifts</td><td class="n">$777,770</td><td class="n">$762,363</td><td class="n">$729,842</td></tr>
-<tr><td class="lbl">Tables &amp; tickets</td><td class="n">$139,422</td><td class="n">$85,000</td><td class="n">$76,818</td></tr>
-<tr><td class="lbl">Corporate sponsorship</td><td class="n">$0</td><td class="n">$10,000</td><td class="n">$3,000</td></tr>
-<tr class="b"><td class="lbl">Total</td><td class="n">$917,192</td><td class="n">$857,363</td><td class="n">$809,660</td></tr>
-</table></div>
-</div>
-<div>
-<div class="compact"><table>
-<tr class="hd"><td>Wine + Food 2026</td><td class="n">Actual</td><td class="n">Budget</td><td class="n">FY25</td></tr>
-<tr><td class="lbl">Tickets &amp; passes, all channels</td><td class="n">$371,209</td><td class="n">$372,500</td><td class="n">$383,471</td></tr>
-<tr><td class="lbl">Vendor fees &amp; sponsorship</td><td class="n">$7,325</td><td class="n">$32,000</td><td class="n">$18,644</td></tr>
-<tr class="b"><td class="lbl">Total</td><td class="n">$378,534</td><td class="n">$404,500</td><td class="n">$402,115</td></tr>
-</table></div>
-</div>
-</div>
-<p class="note">Both closed. The High Note dinner (Aug 6, $27,900) recognized in August; $15,102 of Ball gifts recoded to Fundraiser Contributions; the ledger now tags $866k of the Ball to Arts Ball records. Two-year Ball trajectory $678k &rarr; $812k &rarr; $917k.</p>
-<div class="sechead"><div><div class="eb">Section 3.0</div><div class="tt">Financial Statements</div></div><div class="bn">3.</div></div>
+<div class="sechead"><div><div class="eb">Section 2.0</div><div class="tt">Financial Statements</div></div><div class="bn">2.</div></div>
 <p class="fine">Accrual basis, ten months, as booked. Prior months revised since August 17 (Section 1.0). Depreciation and the donated lease are booked October 31 in both years, so every bottom line here is before depreciation.</p>
 <div class="stitle">Statement of Activities — Budget vs. Actual &amp; Prior Year</div>
 <div class="compact"><table>{soa}</table></div>
@@ -350,96 +323,113 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 
 <div class="pb"></div>
 <div class="pb"></div>
-<div class="sechead"><div><div class="eb">Section 4.0</div><div class="tt">Programming &amp; Bar</div></div><div class="bn">4.</div></div>
+<div class="sechead"><div><div class="eb">Section 3.0</div><div class="tt">Programming &amp; Bar</div></div><div class="bn">3.</div></div>
 <div class="kpis">
-<div class="kpi"><div class="k">Concert Tickets FY26</div><div class="val">$389k</div><div class="d">16 headline shows &middot; 6,889 attendees</div></div>
-<div class="kpi"><div class="k">Lineup Net, Direct</div><div class="val">$70k</div><div class="d">after $29k season hospitality</div></div>
+<div class="kpi"><div class="k">Concert Tickets FY26</div><div class="val">$389k</div><div class="d">15 headline shows &middot; 6,889 attendees</div></div>
+<div class="kpi"><div class="k">Lineup Net, Direct</div><div class="val">$70,058</div><div class="d">after $28,741 season hospitality</div></div>
 <div class="kpi"><div class="k">Bar Revenue YTD</div><div class="val">$213k</div><div class="d">+ $35k hosted &middot; net of sales tax</div></div>
 <div class="kpi"><div class="k">Alcohol Cost</div><div class="val">38%</div><div class="d">of bar revenue, from the 8/31 count</div></div>
 </div>
-<h3>Per-Event P&amp;L &mdash; Concert Lineup, FY26 Complete</h3>
-<div class="compact"><table><tr class="hd"><td>Event</td><td class="n">Date</td><td class="n">Tickets</td><td class="n">Bar (net)</td><td class="n">Perf. fee</td><td class="n">Staffing</td><td class="n">Other</td><td class="n">Est. net</td></tr>
-<tr><td class="lbl"><b>The String Cheese Incident (two nights)</b></td><td class="n">Jun 3&ndash;4</td><td class="n">$151,126</td><td class="n">$11,019</td><td class="n">($135,500)</td><td class="n">($8,129)</td><td class="n">&mdash;</td><td class="n">$18,516</td></tr><tr><td class="lbl">Kitchen Dwellers (two nights)</td><td class="n">Jan 17&ndash;18</td><td class="n">$35,564</td><td class="n">$8,260</td><td class="n">($24,690)</td><td class="n">($4,488)</td><td class="n">&mdash;</td><td class="n">$14,646</td></tr><tr><td class="lbl">Alpenphunk Incident (two nights, co-pro)</td><td class="n">Jan 31&ndash;Feb 1</td><td class="n">$43,673</td><td class="n">$6,985</td><td class="n">($15,000)</td><td class="n">($4,396)</td><td class="n">&mdash;</td><td class="n">$31,262</td></tr><tr><td class="lbl">Hank Azaria + The EZ Street Band</td><td class="n">Dec 28</td><td class="n">$27,995</td><td class="n">$3,070</td><td class="n">($25,742)</td><td class="n">($2,257)</td><td class="n">&mdash;</td><td class="n">$3,066</td></tr><tr><td class="lbl">Vandelux (Sleds &amp; Kegs)</td><td class="n">Mar 7</td><td class="n">$24,265</td><td class="n">$6,021</td><td class="n">($12,137)</td><td class="n">($3,714)</td><td class="n">&mdash;</td><td class="n">$14,435</td></tr><tr><td class="lbl">Nutcracker! [Rated CB]</td><td class="n">Dec 13</td><td class="n">$20,660</td><td class="n">$1,078</td><td class="n">&mdash;</td><td class="n">($3,543)</td><td class="n">($15,859)</td><td class="n">$2,336</td></tr><tr><td class="lbl">Steve Earle, Steddy Theater</td><td class="n">Aug 6</td><td class="n">$16,132</td><td class="n">$1,681</td><td class="n">($20,750)</td><td class="n">($143)</td><td class="n">($403)</td><td class="n">($3,483)</td></tr><tr><td class="lbl">Beats Antique</td><td class="n">Mar 13</td><td class="n">$14,115</td><td class="n">$2,606</td><td class="n">($12,100)</td><td class="n">($2,655)</td><td class="n">&mdash;</td><td class="n">$1,966</td></tr><tr><td class="lbl">Ski Patrol (community benefit)</td><td class="n">Feb 8</td><td class="n">$12,205</td><td class="n">$6,669</td><td class="n">($4,000)</td><td class="n">($6,894)</td><td class="n">($9,764)</td><td class="n">($1,784)</td></tr><tr><td class="lbl">The Brothers Comatose</td><td class="n">Feb 26</td><td class="n">$10,102</td><td class="n">$1,705</td><td class="n">($5,403)</td><td class="n">($3,826)</td><td class="n">&mdash;</td><td class="n">$2,578</td></tr><tr><td class="lbl">Bodhi &amp; the Rainforest (three shows)*</td><td class="n">Aug 20&ndash;22</td><td class="n">$9,005</td><td class="n">$525</td><td class="n">&mdash;</td><td class="n">($6,651)</td><td class="n">($352)</td><td class="n">$2,527</td></tr><tr><td class="lbl">Deadhead Ed's End of Season Party</td><td class="n">Apr 3</td><td class="n">$8,867</td><td class="n">$2,293</td><td class="n">($5,000)</td><td class="n">($2,661)</td><td class="n">&mdash;</td><td class="n">$3,499</td></tr><tr><td class="lbl">Opera Colorado: Pirates of Penzance</td><td class="n">Feb 5</td><td class="n">$6,165</td><td class="n">$462</td><td class="n">($600)</td><td class="n">($753)</td><td class="n">&mdash;</td><td class="n">$5,274</td></tr><tr><td class="lbl">Mr. Sun Plays Ellington's Nutcracker</td><td class="n">Dec 20</td><td class="n">$5,376</td><td class="n">$592</td><td class="n">($3,000)</td><td class="n">($1,056)</td><td class="n">&mdash;</td><td class="n">$1,912</td></tr><tr><td class="lbl">Opera Lollipops*</td><td class="n">Aug 1</td><td class="n">$3,883</td><td class="n">$300</td><td class="n">&mdash;</td><td class="n">($1,505)</td><td class="n">($629)</td><td class="n">$2,049</td></tr>
-<tr class="b"><td class="lbl">Total, event-identifiable costs</td><td class="n"></td><td class="n">$389,133</td><td class="n">$53,266</td><td class="n">($263,922)</td><td class="n">($52,671)</td><td class="n">($27,007)</td><td class="n">$98,799</td></tr>
-<tr class="b"><td class="lbl">Net after season hospitality ($28,741)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">$70,058</td></tr></table></div>
-<p class="fine">Bar = event-night POS net of alcohol cost at the counted 38% (13% in earlier reports; that alone takes $20k out of the lineup). * Artist settlements not yet booked. On the counted rate the Nov&ndash;Jun concert season nets ($21,554) on direct terms, in line with FY25's ($16,685); revenue grew 39%, pour cost is the fix.</p>
+<h3>Concert Economics, FY26 Complete</h3>
+<div class="compact"><table><tr class="hd"><td>Group</td><td class="n">Tickets</td><td class="n">Bar (net of alcohol)</td><td class="n">Performer fees</td><td class="n">Show staffing</td><td class="n">Other</td><td class="n">Est. net</td></tr>
+<tr><td class="lbl">Headline concerts (9 shows)</td><td class="n">$331,839</td><td class="n">$43,640</td><td class="n">($256,322)</td><td class="n">($32,269)</td><td class="n">($403)</td><td class="n">$86,485</td></tr><tr><td class="lbl">Family, classical &amp; theatre (5 shows)*</td><td class="n">$45,089</td><td class="n">$2,957</td><td class="n">($3,600)</td><td class="n">($13,508)</td><td class="n">($16,840)</td><td class="n">$14,098</td></tr><tr><td class="lbl">Community benefit (Ski Patrol)</td><td class="n">$12,205</td><td class="n">$6,669</td><td class="n">($4,000)</td><td class="n">($6,894)</td><td class="n">($9,764)</td><td class="n">($1,784)</td></tr>
+<tr class="b"><td class="lbl">Total, event-identifiable costs</td><td class="n">$389,133</td><td class="n">$53,266</td><td class="n">($263,922)</td><td class="n">($52,671)</td><td class="n">($27,007)</td><td class="n">$98,799</td></tr>
+<tr><td class="lbl">Season hospitality (lodging, travel, artist food)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">($28,741)</td></tr>
+<tr class="b"><td class="lbl">Net after hospitality</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">$70,058</td></tr></table></div>
+<p class="fine">Headline concerts: String Cheese (two nights), Kitchen Dwellers, Alpenphunk, Azaria, Vandelux, Steve Earle, Beats Antique, Brothers Comatose, Deadhead Ed. Family, classical and theatre: Nutcracker, Pirates of Penzance, Mr. Sun, Bodhi &amp; the Rainforest, Opera Lollipops. Bar = event-night POS net of alcohol cost at the counted 38% (13% in earlier reports). Other = co-production payouts. * Two August artist settlements not yet booked. On the counted rate the Nov&ndash;Jun concert season nets ($21,554) on direct terms against +$24,054 reported in August; direct revenue grew 39% on FY25, pour cost is the fix.</p>
 <div class="half">
 <div>
-<h3>Bar by Month (GL net of tax; Clover POS)</h3>
+<h3>Alpenglow vs. Prior Seasons (bar revenue by night)</h3>
 <div class="compact"><table>
-<tr class="hd"><td></td><td class="n">Nov</td><td class="n">Dec</td><td class="n">Jan</td><td class="n">Feb</td><td class="n">Mar</td><td class="n">Apr</td><td class="n">May</td><td class="n">Jun</td><td class="n">Jul</td><td class="n">Aug</td><td class="n">YTD</td></tr>
-<tr><td class="lbl">Revenue</td><td class="n">$4k</td><td class="n">$12k</td><td class="n">$22k</td><td class="n">$24k</td><td class="n">$25k</td><td class="n">$3k</td><td class="n">$5k</td><td class="n">$59k</td><td class="n">$40k</td><td class="n">$13k</td><td class="n">$213k</td></tr>
-<tr><td class="lbl">Transactions</td><td class="n">354</td><td class="n">880</td><td class="n">1,473</td><td class="n">1,707</td><td class="n">1,648</td><td class="n">273</td><td class="n">433</td><td class="n">4,749</td><td class="n">3,041</td><td class="n">1,863</td><td class="n">16,421</td></tr>
-<tr><td class="lbl">Avg ticket</td><td class="n">$20</td><td class="n">$16</td><td class="n">$17</td><td class="n">$16</td><td class="n">$17</td><td class="n">$14</td><td class="n">$14</td><td class="n">$14</td><td class="n">$17</td><td class="n">$14</td><td class="n">$15.53</td></tr>
+<tr class="hd"><td>Night</td><td class="n">2026</td><td class="n">2025</td><td class="n">2024</td></tr>
+<tr><td class="lbl">Night 1 (Jun 15 in 2026)</td><td class="n">$9,986</td><td class="n">$8,748</td><td class="n">$11,044</td></tr><tr><td class="lbl">Night 2 (Jun 22 in 2026)</td><td class="n">$13,308</td><td class="n">$10,940</td><td class="n">$10,106</td></tr><tr><td class="lbl">Night 3 (Jun 29 in 2026)</td><td class="n">$13,720</td><td class="n">$10,342</td><td class="n">$11,692</td></tr><tr><td class="lbl">Night 4 (Jul 6 in 2026)</td><td class="n">$7,952</td><td class="n">$12,618</td><td class="n">$16,249</td></tr><tr><td class="lbl">Night 5 (Jul 13 in 2026)</td><td class="n">$9,596</td><td class="n">$13,488</td><td class="n">$5,961</td></tr><tr><td class="lbl">Night 6 (Jul 20 in 2026)</td><td class="n">$7,673</td><td class="n">$10,246</td><td class="n">$17,787</td></tr><tr><td class="lbl">Night 7 (Jul 27 in 2026)</td><td class="n">$16,496</td><td class="n">$11,406</td><td class="n">$13,960</td></tr><tr><td class="lbl">Night 8 (Aug 3 in 2026)</td><td class="n">$11,686</td><td class="n">$11,717</td><td class="n">$1,404</td></tr><tr><td class="lbl">Night 9 (Aug 10 in 2026)</td><td class="n">$9,422</td><td class="n">$9,595</td><td class="n">$9,268</td></tr>
+<tr class="b"><td class="lbl">Season, nine nights</td><td class="n">$99,839</td><td class="n">$99,101</td><td class="n">$97,472</td></tr>
 </table></div>
-<p class="fine">Card tips 16.4% of sales. Alpenglow closed at <b>$99,839 over nine nights vs $99,101 in 2025</b>, flat on a like-for-like basis. NPS season +84 on 73 responses.</p>
+<p class="fine">Clover payments by Denver-time night, all three seasons on the same basis. Flat on 2025; June ran ahead, July behind, August level.</p>
 </div>
 <div>
-<h3>Per-Attendee Bar</h3>
+<h3>Bar by Month (revenue net of tax; Clover POS)</h3>
 <div class="compact"><table>
-<tr class="hd"><td>Show type</td><td class="n">$ / attendee</td></tr>
-<tr><td class="lbl">Party and jam (Ski Patrol, Alpenphunk, SCI, Vandelux)</td><td class="n">$14&ndash;$19</td></tr>
-<tr><td class="lbl">Seated (Azaria, Brothers Comatose, Steve Earle)</td><td class="n">$8&ndash;$9</td></tr>
-<tr><td class="lbl">Family (Bodhi, Opera Lollipops)</td><td class="n">$2&ndash;$4</td></tr>
-<tr class="b"><td class="lbl">Blended, 14 shows, 6,889 attendees</td><td class="n">$12.10</td></tr>
+<tr class="hd"><td>Month</td><td class="n">Revenue</td><td class="n">Transactions</td><td class="n">Avg ticket</td><td class="n">Card tips</td></tr>
+<tr><td class="lbl">Nov</td><td class="n">$4,969</td><td class="n">354</td><td class="n">$20.37</td><td class="n">11.0%</td></tr><tr><td class="lbl">Dec</td><td class="n">$12,900</td><td class="n">880</td><td class="n">$16.00</td><td class="n">17.2%</td></tr><tr><td class="lbl">Jan</td><td class="n">$22,069</td><td class="n">1,473</td><td class="n">$16.58</td><td class="n">18.3%</td></tr><tr><td class="lbl">Feb</td><td class="n">$24,669</td><td class="n">1,707</td><td class="n">$16.00</td><td class="n">16.5%</td></tr><tr><td class="lbl">Mar</td><td class="n">$25,452</td><td class="n">1,648</td><td class="n">$17.18</td><td class="n">18.7%</td></tr><tr><td class="lbl">Apr</td><td class="n">$3,450</td><td class="n">273</td><td class="n">$14.41</td><td class="n">19.5%</td></tr><tr><td class="lbl">May</td><td class="n">$5,976</td><td class="n">433</td><td class="n">$14.02</td><td class="n">18.2%</td></tr><tr><td class="lbl">Jun</td><td class="n">$59,713</td><td class="n">4,749</td><td class="n">$13.98</td><td class="n">16.5%</td></tr><tr><td class="lbl">Jul</td><td class="n">$40,468</td><td class="n">3,041</td><td class="n">$16.77</td><td class="n">14.2%</td></tr><tr><td class="lbl">Aug</td><td class="n">$13,435</td><td class="n">1,863</td><td class="n">$14.10</td><td class="n">15.8%</td></tr>
+<tr class="b"><td class="lbl">Nov&ndash;Aug</td><td class="n">$213,103</td><td class="n">16,421</td><td class="n">$15.53</td><td class="n">16.4%</td></tr>
 </table></div>
+<p class="fine">Hosted bar at rentals adds $35,424. Party and jam shows run $14&ndash;$19 of bar per attendee, seated shows $8&ndash;$9, family shows under $4.</p>
 </div>
 </div>
-<div class="sechead"><div><div class="eb">Section 5.0</div><div class="tt">Rentals &amp; Forward Book</div></div><div class="bn">5.</div></div>
+<div class="pb"></div>
+<div class="sechead"><div><div class="eb">Section 4.0</div><div class="tt">Rentals &amp; Forward Book</div></div><div class="bn">4.</div></div>
 <div class="kpis">
 <div class="kpi"><div class="k">Rental Income YTD</div><div class="val">$115k</div><div class="d">&minus;20% vs budget &middot; &minus;35% YoY</div></div>
 <div class="kpi"><div class="k">Deferred for Fall</div><div class="val">$135k</div><div class="d">collected, recognizes at the events</div></div>
-<div class="kpi"><div class="k">Signed Sep&ndash;Dec</div><div class="val">$103k</div><div class="d">$80k already collected</div></div>
-<div class="kpi"><div class="k">Contracted into FY27</div><div class="val">$97k</div><div class="d">$28k of deposits held</div></div>
+<div class="kpi"><div class="k">Signed Sep&ndash;Oct</div><div class="val">$99k</div><div class="d">$78k already collected</div></div>
+<div class="kpi"><div class="k">Days in Real Use</div><div class="val">291 / 304</div><div class="d">Nov 1 to Aug 31, all 14 rooms</div></div>
 </div>
 <div class="half">
 <div>
+<h3>Rental Revenue by Type (Nov&ndash;Aug)</h3>
 <div class="compact"><table>
-<tr class="hd"><td>Recognized (QuickBooks)</td><td class="n">FY26 YTD</td><td class="n">Budget</td><td class="n">FY25</td></tr>
-<tr><td class="lbl">Facility fees</td><td class="n">$95,464</td><td class="n">$143,900</td><td class="n">$155,889</td></tr>
-<tr><td class="lbl">Staffing fees</td><td class="n">$19,393</td><td class="n">n/b</td><td class="n">$19,754</td></tr>
-<tr class="b"><td class="lbl">Rental income</td><td class="n">$114,857</td><td class="n">$143,900</td><td class="n">$175,643</td></tr>
-<tr><td class="lbl">Hosted bar</td><td class="n">$35,424</td><td class="n">$71,000</td><td class="n">$51,688</td></tr>
-<tr class="b"><td class="lbl">Rental-related total</td><td class="n">$150,281</td><td class="n">$214,900</td><td class="n">$227,331</td></tr>
+<tr class="hd"><td>Type</td><td class="n">FY26 YTD</td><td class="n">Share</td></tr>
+<tr><td class="lbl">Dance and studio programs (School of Dance, Wild Hare, life drawing)</td><td class="n">$43,792</td><td class="n">38%</td></tr>
+<tr><td class="lbl">Nonprofit galas and community events (GVH gala, KBUT, CFGV, Wildflower, PPF, Trailhead)</td><td class="n">$28,708</td><td class="n">25%</td></tr>
+<tr><td class="lbl">Weddings and rehearsal dinners (McCoy, Cornish, Georgitsis)</td><td class="n">$19,422</td><td class="n">17%</td></tr>
+<tr><td class="lbl">Private parties and room rentals</td><td class="n">$6,836</td><td class="n">6%</td></tr>
+<tr><td class="lbl">Memorials and celebrations of life</td><td class="n">$5,648</td><td class="n">5%</td></tr>
+<tr><td class="lbl">Not yet tagged to a renter</td><td class="n">$10,452</td><td class="n">9%</td></tr>
+<tr class="b"><td class="lbl">Rental income</td><td class="n">$114,857</td><td class="n">100%</td></tr>
+<tr><td class="lbl">Hosted bar at rentals (base, before gratuity and tax)</td><td class="n">$35,424</td><td class="n"></td></tr>
+<tr class="b"><td class="lbl">Rental-related revenue</td><td class="n">$150,281</td><td class="n"></td></tr>
 </table></div>
-<p class="fine">Top renters: School of Dance $35.6k, McCoy wedding $8.8k, Wild Hare $7.5k, GVH gala $6.0k. The summer months went to the Center's own events; $135k of rental cash is deferred for fall.</p>
-</div>
-<div>
+<p class="fine">Budget YTD $143,900 rental and $71,000 hosted bar; FY25 same period $175,643 and $51,688. The summer months went to the Center's own events; the fall weddings sit in deferred revenue until they happen.</p>
+<h3>Forward Book to Fiscal Year End (Event Temple, signed)</h3>
 <div class="compact"><table>
-<tr class="hd"><td>Signed, Sep&ndash;Dec 2026</td><td class="n">Date</td><td class="n">Value</td><td class="n">Collected</td></tr>
+<tr class="hd"><td>Booking</td><td class="n">Date</td><td class="n">Value</td><td class="n">Collected</td></tr>
 <tr><td class="lbl">Wedding &mdash; Schreier</td><td class="n">Sep 19</td><td class="n">$33,710</td><td class="n">$33,710</td></tr>
 <tr><td class="lbl">Wedding &mdash; Hoffmeister</td><td class="n">Sep 29</td><td class="n">$11,760</td><td class="n">$11,760</td></tr>
 <tr><td class="lbl">Wedding &mdash; Steinbach</td><td class="n">Sep 4</td><td class="n">$11,380</td><td class="n">$11,380</td></tr>
 <tr><td class="lbl">Gibson welcome party</td><td class="n">Oct 2</td><td class="n">$10,518</td><td class="n">$3,500</td></tr>
 <tr><td class="lbl">Petito celebration of life</td><td class="n">Sep 6</td><td class="n">$8,608</td><td class="n">$1,000</td></tr>
 <tr><td class="lbl">CB Film Festival</td><td class="n">Sep 24</td><td class="n">$7,672</td><td class="n">$7,672</td></tr>
-<tr><td class="lbl">Seven smaller bookings</td><td class="n">Sep&ndash;Dec</td><td class="n">$19,010</td><td class="n">$11,410</td></tr>
-<tr class="b"><td class="lbl">Total signed</td><td class="n"></td><td class="n">$102,658</td><td class="n">$80,432</td></tr>
+<tr><td class="lbl">COSA networking and film</td><td class="n">Oct 5</td><td class="n">$6,500</td><td class="n">$2,000</td></tr>
+<tr><td class="lbl">Steinberger celebration of life</td><td class="n">Sep 20</td><td class="n">$3,620</td><td class="n">$3,620</td></tr>
+<tr><td class="lbl">Five smaller bookings (conference, classes, retreat, screening)</td><td class="n">Sep&ndash;Oct</td><td class="n">$4,890</td><td class="n">$3,040</td></tr>
+<tr class="b"><td class="lbl">Signed, Sep 1 &ndash; Oct 31</td><td class="n"></td><td class="n">$98,658</td><td class="n">$77,682</td></tr>
+<tr class="hd2"><td colspan="4">November and December 2026</td></tr>
+<tr><td class="lbl">Girl Winter Film Tour screening</td><td class="n">Dec 4</td><td class="n">$3,500</td><td class="n">$2,250</td></tr>
+<tr><td class="lbl">Mountain Express winter training</td><td class="n">Nov 23</td><td class="n">$500</td><td class="n">$500</td></tr>
+<tr><td class="lbl">Town holiday party (Nov 20) and Matchstick third screening (Dec 19)</td><td class="n"></td><td class="n">not yet priced</td><td class="n"></td></tr>
 </table></div>
-<p class="fine">FY27 contracted: Abele $31,400, Friedman &amp; Abbott $30,850, Lueckemeyer $18,055, Emily &amp; Sam $11,000, four smaller; $97,355 with $27,550 of deposits. &plusmn;$115k of further FY27 proposals active.</p>
+<p class="fine">Four tentative bookings worth &plusmn;$33k are not counted. Contracts already signed for later in FY27 total $97,355 with $27,550 of deposits held, led by three 2027 weddings.</p>
 </div>
+<div>
+<h3>Building Utilization, Nov 1 &ndash; Aug 31 (all 14 room calendars)</h3>
+<div class="kpis" style="margin:4px 0;">
+<div class="kpi"><div class="k">Days in Real Use</div><div class="val">291 / 304</div><div class="d">96%</div></div>
+<div class="kpi"><div class="k">Studio Sessions</div><div class="val">719</div><div class="d">SOD, Wild Hare and rehearsals</div></div>
 </div>
-<div class="pb"></div>
-<div class="sechead"><div><div class="eb">Section 6.0</div><div class="tt">Donor Intelligence</div></div><div class="bn">6.</div></div>
-<div class="kpis">
-<div class="kpi"><div class="k">Donors YTD</div><div class="val">405</div><div class="d">398 last year</div></div>
-<div class="kpi"><div class="k">New Donors</div><div class="val">119</div><div class="d">$197,290 first-year giving</div></div>
-<div class="kpi"><div class="k">Not Yet Renewed</div><div class="val">225</div><div class="d">&plusmn;$525k prior giving; 18 gave $10k+</div></div>
-<div class="kpi"><div class="k">Top-10 Share</div><div class="val">36%</div><div class="d">of CRM cash, vs 31% last year</div></div>
+<div class="kpis" style="margin:4px 0;">
+<div class="kpi"><div class="k">Real Events &amp; Rentals</div><div class="val">554</div><div class="d">183 distinct event days</div></div>
+<div class="kpi"><div class="k">Excluded as Non-Events</div><div class="val">497</div><div class="d">meetings, backstage holds, setup</div></div>
 </div>
 <div class="compact"><table>
-<tr class="hd"><td>Gift band, Nov&ndash;Aug CRM cash</td><td class="n">FY26 donors</td><td class="n">FY26 $</td><td class="n">FY25 donors</td><td class="n">FY25 $</td></tr>
-<tr><td class="lbl">$25,000+</td><td class="n">18</td><td class="n">$930,923</td><td class="n">18</td><td class="n">$792,218</td></tr>
-<tr><td class="lbl">$10,000 &ndash; $24,999</td><td class="n">42</td><td class="n">$558,261</td><td class="n">42</td><td class="n">$567,426</td></tr>
-<tr><td class="lbl">$5,000 &ndash; $9,999</td><td class="n">26</td><td class="n">$152,335</td><td class="n">38</td><td class="n">$229,219</td></tr>
-<tr><td class="lbl">$1,000 &ndash; $4,999</td><td class="n">112</td><td class="n">$186,135</td><td class="n">118</td><td class="n">$215,081</td></tr>
-<tr><td class="lbl">$250 &ndash; $999</td><td class="n">80</td><td class="n">$35,165</td><td class="n">82</td><td class="n">$39,319</td></tr>
-<tr><td class="lbl">Under $250</td><td class="n">127</td><td class="n">$13,077</td><td class="n">100</td><td class="n">$9,386</td></tr>
-<tr class="b"><td class="lbl">Total</td><td class="n">405</td><td class="n">$1,875,896</td><td class="n">398</td><td class="n">$1,852,649</td></tr>
+<tr class="hd"><td>Real events &amp; rentals by type</td><td class="n">Bookings</td><td class="n">Event days</td></tr>
+<tr><td class="lbl">Room rentals, classes &amp; workshops</td><td class="n">156</td><td class="n">94</td></tr>
+<tr><td class="lbl">Concerts &amp; performances</td><td class="n">117</td><td class="n">52</td></tr>
+<tr><td class="lbl">Community &amp; private events</td><td class="n">87</td><td class="n">36</td></tr>
+<tr><td class="lbl">Literary &amp; culinary</td><td class="n">47</td><td class="n">15</td></tr>
+<tr><td class="lbl">Weddings &amp; receptions</td><td class="n">34</td><td class="n">12</td></tr>
+<tr><td class="lbl">Gallery &amp; art openings</td><td class="n">19</td><td class="n">17</td></tr>
+<tr><td class="lbl">School &amp; youth</td><td class="n">19</td><td class="n">6</td></tr>
+<tr><td class="lbl">Film screenings</td><td class="n">9</td><td class="n">6</td></tr>
+<tr><td class="lbl">Memorials &amp; celebrations of life</td><td class="n">8</td><td class="n">5</td></tr>
+<tr><td class="lbl">Other (gala setup and breakdown, auditions, site visits)</td><td class="n">58</td><td class="n">40</td></tr>
+<tr class="b"><td class="lbl">Total</td><td class="n">554</td><td class="n">183</td></tr>
 </table></div>
-<p class="note">Top and bottom grew, the $1k&ndash;$10k middle is soft (138 vs 156 donors) and is the upgrade target. CRM cash is within $49k of the books' contributed revenue plus Front Row, down from a $159k gap last month. The prospect model flags 2,889 Hot or Warm households who have never given; named lists are with Development, not in this report.</p>
+<p class="fine">Real activity only: 112 conference-room meetings, 222 green-room and dressing-room holds, 64 theater changes and setup blocks, and 99 holds and internal blocks are excluded. Studio blocks hold several classes each. June figures on the same rules: 232 of 242 days, 578 studio sessions, 369 events on 137 days.</p>
+</div>
+</div>
 <div class="pb"></div>
-<div class="sechead"><div><div class="eb">Section 7.0</div><div class="tt">Year-End Projection &amp; Cash</div></div><div class="bn">7.</div></div>
+<div class="sechead"><div><div class="eb">Section 5.0</div><div class="tt">Year-End Projection &amp; Cash</div></div><div class="bn">5.</div></div>
 <div class="kpis">
 <div class="kpi"><div class="k">FY26 Before Depreciation</div><div class="val">$22,887</div><div class="d">budget $242,426 &middot; FY25 $284,811</div></div>
 <div class="kpi"><div class="k">FY26 Full Accrual</div><div class="val">($582,818)</div><div class="d">after $605,705 depreciation and lease</div></div>
@@ -472,8 +462,8 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <p class="fine">August 31 to October 31: $605,746 less the $200,789 operating loss, plus $56,750 of Front Row installments and $100,000 of receivables collected, less $70,000 of deferred revenue recognized, plus $5,000 of accruals = $496,706. Front Row is scheduled member by member: FY26 collections $257,876, FY27 $317,876 (15 current, four due now, three late, five behind at half, two dormant at zero, three new). Debt $1.05M, then $950k after the January payment.</p>
 
 <div class="pb"></div>
-<div class="sechead"><div><div class="eb">Section 8.0</div><div class="tt">FY27 Draft Budget</div></div><div class="bn">8.</div></div>
-<div class="lede">A first pass seeded from the FY26 projection with the rules the committee set on September 2. Not a recommendation. The one structural move is programming, brought back toward FY25 scale; that sets tickets, bar and event payroll with it. The full draft with schedules comes in October.</div>
+<div class="sechead"><div><div class="eb">Section 6.0</div><div class="tt">FY27 Draft Budget</div></div><div class="bn">6.</div></div>
+<div class="lede">A first pass. The basis for every line is the FY26 projection with the rules the committee set on September 2. Not a recommendation. The one structural move is programming, brought back toward FY25 scale; that sets tickets, bar and event payroll with it. The full draft with schedules comes in October.</div>
 <div class="kpis">
 <div class="kpi"><div class="k">FY27 Operating</div><div class="val">$226,369</div><div class="d">before $605,705 depreciation and lease</div></div>
 <div class="kpi"><div class="k">FY27 Full Accrual</div><div class="val">($379,336)</div><div class="d">FY26 projected ($582,818)</div></div>
@@ -481,7 +471,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 <div class="kpi"><div class="k">Cash at 10/31/2027</div><div class="val">$625,949</div><div class="d">low point $403,475 in February</div></div>
 </div>
 <div class="compact"><table>
-<tr class="hd"><td>Block</td><td class="n">FY25 actual</td><td class="n">FY26 projected</td><td class="n">FY27 draft</td><td class="n v">FY27 vs FY26</td></tr>
+<tr class="hd"><td>Block</td><td class="n">FY25 actual</td><td class="n">FY26 projected</td><td class="n">FY27 draft (basis)</td><td class="n v">FY27 vs FY26</td></tr>
 <tr><td class="lbl">4000 Contributed Income</td><td class="n">$1,412,747</td><td class="n">$1,682,080</td><td class="n">$1,588,418</td><td class="n v">($93,661)</td></tr>
 <tr><td class="lbl">4100 Earned Income</td><td class="n">$1,141,579</td><td class="n">$1,313,909</td><td class="n">$1,224,071</td><td class="n v">($89,838)</td></tr>
 <tr><td class="lbl">4200 Front Row (three pledges)</td><td class="n">$490,000</td><td class="n">$260,000</td><td class="n">$300,000</td><td class="n v">$40,000</td></tr>
@@ -505,7 +495,7 @@ tr.sub td {{ color:#666; font-size:9px; }} tr.sp td {{ height:5px; }}
 </div>
 <div>
 <h3>Still to Decide</h3>
-<ul style="font-size:9px;"><li><b>Programming scale:</b> $683,850 seeded against $965,487 this year.</li><li><b>Payroll:</b> $1,291,936 by person; open roles, benefits review and wage step not yet in.</li><li><b>Bar pour cost:</b> 38% assumed to hold; pricing and purchasing could move $30&ndash;50k.</li><li><b>Contributed:</b> Ball at $917k again, grants at FY26 pace, fall appeal.</li><li><b>Rentals and hosted bar:</b> $97k contracted into FY27; hosted bar has undershot two years running.</li></ul>
+<ul style="font-size:9px;"><li><b>Programming scale:</b> $683,850 on the current basis against $965,487 this year.</li><li><b>Payroll:</b> $1,291,936 by person on the current roster; open roles, benefits review and wage step not yet in.</li><li><b>Bar pour cost:</b> 38% assumed to hold; pricing and purchasing could move $30&ndash;50k.</li><li><b>Contributed:</b> Ball at $917k again, grants at FY26 pace, fall appeal.</li><li><b>Rentals and hosted bar:</b> $97k contracted into FY27; hosted bar has undershot two years running.</li></ul>
 </div>
 </div>
 <div class="foot">Prepared September 9, 2026 from QuickBooks Online (accrual basis) after the August close; budget = FY2026 board-approved, phased YTD from the QBO budget object; prior year = FY2025 same period; projection and FY27 draft from the FY27 budget workbook. Not audited.</div>
