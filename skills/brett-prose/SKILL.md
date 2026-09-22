@@ -49,6 +49,27 @@ runs past four or five sentences, look for a natural break.
 Headings in sentence case, not title case. "How to add a service" not "How
 To Add A Service".
 
+## Email bodies
+
+An email is not a file. Never hard-wrap the body at a fixed width. Every line
+break typed into it is a real break in the sent mail, so a wrapped body arrives
+with sentences split across lines and reflows badly on a phone, in a narrow
+reading pane, and inside anyone's quoted reply. This has reached Brett twice.
+
+One paragraph is one line, however long it runs. A blank line separates
+paragraphs. Let the reader's client wrap it, because only it knows how wide the
+window is.
+
+Lists and signature lines keep their own lines. Those are lines by intent, not
+by wrapping, and nothing here changes them.
+
+When the tool accepts rich text as well, send the same content there as
+paragraph tags and let the plain body be the fallback. Do not write Markdown
+into a plain text body; asterisks and hashes arrive as asterisks and hashes.
+
+`email-wrap-guard.py` enforces this on the mail tools. If it fires, the fix is
+to rewrite the body unwrapped rather than to work around it.
+
 ## Specificity
 
 Concrete and specific over abstract. Examples beat descriptions of examples.
