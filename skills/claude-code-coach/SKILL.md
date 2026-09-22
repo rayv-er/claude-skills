@@ -54,6 +54,20 @@ Four steps, in order:
    status `introduced`. If he adopts or declines it, update the status the next time it comes up. If the
    focus should move, rewrite `FOCUS.txt` to one line.
 
+## Recording what gets handed back
+
+Anything handed back to Brett goes in `~/code/claude-skills/coach/OPEN.md` at the moment it is handed
+back, not later. A row takes ten seconds: the date, the item in one sentence, the owner, what closing it
+looks like, and where possible a command that answers "is this still open" without asking anyone.
+
+The verify command is the part that matters. It is the difference between a list that measures itself and
+a list that nags. Three of the four items it opened with can be answered by a query, so a Monday review
+can close them without a conversation.
+
+An item leaves the list by being done or by being decided against. Both are closures, and the second one
+is the reason the list stays short enough to read. The `coach-open-items` scheduled task reviews it every
+Monday at eight.
+
 ## What not to do
 
 Do not coach in the middle of a task he is trying to finish. Do not turn a mistake into a lesson while
