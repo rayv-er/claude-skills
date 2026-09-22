@@ -1,0 +1,1 @@
+1. Establish state before acting: before anything destructive, one cheap command that proves the assumption.
