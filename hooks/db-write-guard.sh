@@ -23,18 +23,68 @@
 # THE ESCAPE HATCH is deliberate and visible: put GUARD_OK in the command, which
 # is an explicit statement that the checks below were done by hand.
 #
+# WHAT IT SKIPS. A command whose segment begins with a reader (grep, rg, sed,
+# awk, cat, less, head, tail, wc, git) cannot send SQL anywhere, so its
+# arguments are dropped before the keyword checks. On 2026-09-23 a grep for
+# 'psql\|DROP SCHEMA' over a deploy script was blocked because the pattern
+# itself held both words. Segments are split on ; & | ( ) and newlines,
+# respecting quotes, so `grep x; psql -c 'DELETE ...'` and
+# `grep x $(psql -c 'DELETE ...')` still block. If the command cannot be parsed,
+# nothing is dropped.
+#
 # Exit 0 allows. Exit 2 blocks and returns the message to the agent.
 set -uo pipefail
 
-CMD="$(cat | python3 -c 'import json,sys; print((json.load(sys.stdin).get("tool_input") or {}).get("command",""))' 2>/dev/null || true)"
-[ -n "$CMD" ] || exit 0
+INPUT="$(cat)"
+RAW="$(printf '%s' "$INPUT" | python3 -c 'import json,sys; print((json.load(sys.stdin).get("tool_input") or {}).get("command",""))' 2>/dev/null || true)"
+[ -n "$RAW" ] || exit 0
+
+# The command with every reader segment removed. Falls back to the raw command.
+CMD="$(printf '%s' "$RAW" | python3 -c '
+import os, shlex, sys
+
+READERS = {"grep", "egrep", "fgrep", "rg", "ag", "sed", "awk", "gawk",
+           "cat", "less", "more", "head", "tail", "wc", "git"}
+PREFIX = {"do", "then", "else", "!", "{"}
+SEP = set(";&|()\n")
+
+cmd = sys.stdin.read()
+lex = shlex.shlex(cmd, posix=True, punctuation_chars=";&|()\n")
+lex.whitespace = " \t\r"
+lex.whitespace_split = True
+lex.commenters = ""
+try:
+    tokens = list(lex)
+except ValueError:
+    print(cmd)
+    sys.exit(0)
+
+segments, cur = [], []
+for tok in tokens:
+    if tok and set(tok) <= SEP:
+        segments.append(cur)
+        cur = []
+    else:
+        cur.append(tok)
+segments.append(cur)
+
+kept = []
+for seg in segments:
+    words = list(seg)
+    while words and (words[0] in PREFIX or ("=" in words[0] and not words[0].startswith("="))):
+        words.pop(0)
+    if words and os.path.basename(words[0]) in READERS and not any("`" in w for w in seg):
+        continue
+    kept.append(" ".join(seg))
+print("\n".join(kept))
+' 2>/dev/null)" || CMD="$RAW"
 
 # Only SQL that is actually being executed against the warehouse.
-printf '%s' "$CMD" | grep -qiE '(^|[^a-z])(psql|mysql|mariadb|sqlite3)([^a-z]|$)' || exit 0
+printf '%s' "$CMD" | grep -qiE '(^|[^a-z])(psql|pg_restore|mysql|mariadb|sqlite3)([^a-z]|$)' || exit 0
 
 # Sanctioned paths: a migration runner, or an explicit acknowledgement.
-printf '%s' "$CMD" | grep -qE 'apply-migration\.sh|(gmake|make)[[:space:]]+migrate|alembic|flyway|dbmate|sqitch' && exit 0
-printf '%s' "$CMD" | grep -q 'GUARD_OK' && exit 0
+printf '%s' "$RAW" | grep -qE 'apply-migration\.sh|(gmake|make)[[:space:]]+migrate|alembic|flyway|dbmate|sqitch' && exit 0
+printf '%s' "$RAW" | grep -q 'GUARD_OK' && exit 0
 
 printf '%s' "$CMD" | grep -qiE '(^|[^a-z_])(delete[[:space:]]+from|truncate|drop[[:space:]]+(table|view|schema|materialized)|alter[[:space:]]+table|update[[:space:]]+[a-z_."]+[[:space:]]+set)([^a-z_]|$)' || exit 0
 
