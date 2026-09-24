@@ -236,10 +236,20 @@ lines, class 2 - Programming:
 - Build from eventtemple invoices/line_items (events held that month);
   descriptions `YYYY.MM.DD - Event - what (ET INV-000xx)`.
 - **Every revenue line carries Entity = Customer** (the CBO pulls a P&L
-  by Customer). Assignment rule, in order: (1) the customer on the QBO AR
-  doc for that event; (2) the customer matching the ET account; (3) the
-  existing `Events:YYYY.MM.DD - Name` job; (4) the person record matching
-  the ET contact; (5) only then create. SEARCH THE FULL customer tree
+  by Customer). Assignment rule, in order: (1) the DATED EVENT customer
+  for the night the revenue paid for (`Programming:YYYY.MM.DD - Name` or
+  `Programming:Rentals:YYYY.MM.DD - Name`), because that event's staff,
+  bar and production costs land there and the event must read whole
+  (Brett 2026-09-24: rentals and co-pros carry their revenue; the old
+  renter-first rule left SOD's shows reading as losses while 39,771.25 of
+  their fees sat on the renters, moved by `qbo_event_revenue.py`); (2) for
+  revenue that is not one event (classroom hours, monthly or season
+  rentals), the customer on the QBO AR doc; (3) the customer matching the
+  ET account; (4) the person record matching the ET contact; (5) only then
+  create. A fee invoiced on the renter stays on its invoice, because that
+  is where AR and the payment live: move its revenue to the event with a
+  `YYYY-MM-evtrev` journal (Dr on the renter / Cr on the event, same
+  account and class), never by editing the invoice's customer. SEARCH THE FULL customer tree
   (all parents, inactive included, aliases/emails) before any create —
   two proposed creates in the 2026-08-31 pass were duplicates found only
   by email match. Recurring renters (School of Dance, Wild Hare, Life
